@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "1fb922694c8fcc95",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7523eb03da6727e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4933909b3a1ae997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reports/Report-2026-05-25-Serenity-Analyst-Wiki.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Report-2026-05-25-Serenity-Analyst-Wiki"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61753cbcdf9dfaac",
+    "type": "split",
+    "children": [
+      {
+        "id": "00591c8d1097e281",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "029f0063549fb05e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "894109ed4568f4e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cff363f3cbec4c02",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a172e487e9080b53",
+    "type": "split",
+    "children": [
+      {
+        "id": "977ac421d6d335b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54989a1281f639cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "reports/Report-2026-05-25-Serenity-Analyst-Wiki.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Report-2026-05-25-Serenity-Analyst-Wiki"
+            }
+          },
+          {
+            "id": "afd23064a123055f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "reports/Report-2026-05-25-Serenity-Analyst-Wiki.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Report-2026-05-25-Serenity-Analyst-Wiki"
+            }
+          },
+          {
+            "id": "8152d517b4c96d59",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1a07c34a369d5064",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "498b65b4300dfe32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "reports/Report-2026-05-25-Serenity-Analyst-Wiki.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Report-2026-05-25-Serenity-Analyst-Wiki"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "029f0063549fb05e",
+  "lastOpenFiles": [
+    "monthly/2025-11.md",
+    "monthly/2025-12.md",
+    "monthly/2026-01.md",
+    "monthly/2026-02.md",
+    "monthly/2026-03.md",
+    "monthly/2026-04.md",
+    "monthly/2026-05.md",
+    "monthly",
+    "raw/translations_cache.json",
+    "index.md",
+    "reports/Report-2026-05-25-Serenity-Analyst-Wiki.md",
+    "tickers/SIVE.md",
+    "tickers/JBL.md",
+    "tickers/AXTI.md",
+    "tickers/AAOI.md",
+    "concepts/CPO.md"
+  ]
+}
