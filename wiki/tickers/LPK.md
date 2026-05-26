@@ -107,6 +107,58 @@ Auto-extracted from Serenity's timeline:
     If anything, this was extremely positive for the core thesis about volume ramp for glass core substrates. 
     
     We'll see how much the orders are though.
+    > [!TIP] **中文译文**
+    > 关于 LPKF Laser（[[LPK]] / $LPKFF）财报的思考：
+    > 
+    > 这份财报非常微妙——以下是市场可能错过的关键信息：
+    > 
+    > 如果你孤立地看财务数据、又不理解（半导体设备的）资质认证周期，那这份财报看起来确实很糟糕。
+    > 
+    > 但**财报电话会议中关于量产爬坡的指示性信号才是真正重要的内容**。
+    > 
+    > ---
+    > 
+    > **1. "先进封装领域的潜在大批量订单尚未被纳入基础指引"**
+    > 
+    > → 任何在 2026 年下半年（H2）落地的量产设备订单，都将立刻形成对其业绩预期的**上行惊喜**。（正面信号 ✅）
+    > 
+    > **2. "LIDE（激光诱导深度蚀刻）目前正被众多半导体客户用于测试和研发环境；预期的后续订单……"**
+    > 
+    > → 确认了我们此前的判断——大量半导体公司正在对 [[LPK]] 进行认证。（正面信号 ✅）
+    > 
+    > **3. "首批量产订单预计将于今年内落地"**
+    > 
+    > → **2026 年下半年量产爬坡的拐点确认**，这可能是市场最大的盲点，且管理层完全没有把这部分纳入预测。（极度正面信号 ✅✅✅）
+    > 
+    > ---
+    > 
+    > **结合此前访谈拼接出的关键时间表**：
+    > 
+    > > Q：2027 年作为玻璃基板量产起点。这个时间表仍然成立吗？
+    > >
+    > > "是的。市场玩家正在准备生产设备订单，并且首批订单已经在第一季度被记录在案。尽管仍存在挑战，但我依然预期 **2027 年将标志着量产的开端**。"
+    > 
+    > **核心拆解**：
+    > - **2027 年**：玻璃芯基板（Glass Core Substrates）**下游量产**的起点；
+    > - **2026 年下半年（H2 2026）**：[[LPK]] 自身**量产设备订单**的起点——**这一节点尚未被任何预测纳入考量**。
+    > 
+    > 我们已经从财报中获得了时间表的正式确认。
+    > 
+    > ---
+    > 
+    > **底层逻辑总结**：
+    > 
+    > → 你**不会**在财务预测中看到任何与玻璃芯基板**量产爬坡**相关的数字——而这恰恰是美股投资者**唯一关心**的事情。
+    > 
+    > → 孤立地看财报数字客观上确实很糟糕，但只有把建模窗口锁定在过去 12 个月（而非未来增长）的欧洲投资者才会真正在意这一点。
+    > 
+    > → **2026 年下半年量产爬坡 + 2027 年玻璃芯基板量产，时间表全部得到确认。**
+    > 
+    > ---
+    > 
+    > **结论**：如果说有什么意外，那就是这份财报对玻璃芯基板量产爬坡的核心投资逻辑而言，是**极度利好**的。
+    > 
+    > 我们接下来要看的是订单的具体规模到底有多大。
 
 3. **2026-04-30** (❤️ 653 | 🔁 33 | ID: `2049737227677421908` | [X.com Post](https://x.com/aleabitoreddit/status/2049737227677421908))
     $LPK / $LPKFF earnings are out. 
@@ -150,6 +202,26 @@ Auto-extracted from Serenity's timeline:
     Seems like momentum is ramping up now though like $AEHR pre-earnings, not quite high volume (2027), but around this time felt compelling for me.
     
     During the transition from qualification/pilot -> high volume.
+    > [!TIP] **中文译文**
+    > 我真的非常喜欢 [[LPK]]。
+    > 
+    > 它是玻璃基板领域**关键的垄断性卡脖子节点**……
+    > 
+    > 而玻璃基板正是[[Advanced Packaging]]（先进封装）和 [[CPO]]（共封装光学）的核心材料。
+    > 
+    > 我早在 1 月份就把它标记为潜在的 **10 倍股**，但当时觉得**有点偏早**。
+    > 
+    > 然而……现在时机似乎对了？
+    > 
+    > > "大约四年前，我们开始与一家半导体公司合作，共同开发**直接 3D 波导成型**的量产设备，" Lee（[[LPK]] 高管）表示。
+    > >
+    > > "该客户目前已经完成了 LPKF 设备的安装部署。"
+    > 
+    > 考虑到这是发生在韩国，那么这位客户**很可能是三星 (Samsung) 或 SKC Absolics**。
+    > 
+    > 感觉当前的产业动能正在加速爬升，类似于 $AEHR 财报前夕的那种状态——虽然还没到完全放量（要等到 2027 年），但**就在当下这个时间窗口，让我觉得这是一个极具吸引力的入场点**。
+    > 
+    > 这正处于从**认证 / 试产**阶段切换至**大规模放量**阶段的关键转换期。
 
 6. **2026-04-28** (❤️ 39 | 🔁 0 | ID: `2049198182899351946` | [X.com Post](https://x.com/aleabitoreddit/status/2049198182899351946))
     @aleabitoreddit $LPKF / $LPK positively surprised me today. It literally finished flat despite the correction across the rest of the market. There is buying pressure, and every dip is being bought
