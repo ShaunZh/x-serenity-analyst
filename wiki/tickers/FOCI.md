@@ -128,6 +128,28 @@ Auto-extracted from Serenity's timeline:
     These are still two extremely small companies... and things like MSS weren't even mentioned by GS, despite the news claims about relations. 
     
     So feels like X found this early, mainstream institutions are likely about to enter after seeing this sort of confirmation.
+    > [!TIP] **中文译文**
+    > 哦快看，联合新闻网 (UDN) 又出了一篇关于 $TSM 台积电 **COUPE + AI 光学市场**的新文章。
+    > 
+    > 机构投资者看好以下台湾公司将从中受益：
+    > 
+    > [[FOCI]] 波若威 (3363) 和 MSScorps (6830)
+    > 
+    > 不过……这所谓的"机构"是不是应该改成**X 上的散户们**啊？
+    > 
+    > ---
+    > 
+    > 关于 [[FOCI]]（波若威）：
+    > > "其 FAU（光纤阵列单元）产品与台积电**合作开发至少三年**，规格已推进至 1.6T、3.2T，后续量产排程成为市场观察焦点。"
+    > 
+    > 关于 MSS（鑫创）：
+    > > "切入[[Silicon Photonics]] 硅光子及 [[CPO]] 检测分析领域，主打**光损耗检测**技术……并推出硅光子测试平台，锁定研发、工程验证、失效分析以及少量多样的测试应用。"
+    > 
+    > ---
+    > 
+    > **作者点评**：这两家仍然是规模极小的公司……而像 MSS 这样的标的，即便新闻稿声称它们与台积电有关系，连高盛 (GS) 的研报都还没有覆盖到它们。
+    > 
+    > 所以感觉是 **X 上的散户社区率先发现了这批标的**，而主流机构大概率在看到这种（来自产业界的）确认信号之后，才即将进场。
 
 3. **2026-05-22** (❤️ 1155 | 🔁 70 | ID: `2057826212257685733` | [X.com Post](https://x.com/aleabitoreddit/status/2057826212257685733))
     People keep asking:
@@ -253,6 +275,61 @@ Auto-extracted from Serenity's timeline:
     Markets usually price things in 8-12 months ahead of time too... 
     
     I have high conviction thematically in my supply chain research despite any market volatility leading up until then.
+    > [!TIP] **中文译文**
+    > 人们好奇我为什么最近把注意力转向了**非美国市场**。
+    > 
+    > 为什么？因为 [[CPO]] 是我的#1 主题做多仓位。
+    > 
+    > 市场还没有意识到——光子学领域正在发生**一场突如其来的范式转移**……
+    > 
+    > 我在 X 上是**极少数**在 2025 年就前置布局当前超级周期的人：$AAOI ~$30、$LITE ~$300s、$AXTI ~$13——并且我能拿出**真实的交割单和投资逻辑**，这些都是别人拿不出来的东西。
+    > 
+    > ---
+    > 
+    > ## CPO 的 TAM 爆炸
+    > 
+    > 根据高盛 (GS) 研报：
+    > > CPO 从约 **$0** 起步，在未来一年半时间内，潜在 TAM 将达到 **$910 亿美元**。
+    > >
+    > > 而整个光学市场的总体量将触及 **$1,540 亿美元**。
+    > 
+    > ---
+    > 
+    > ## 新玩家 vs 老玩家
+    > 
+    > 许多在此前光子学周期中几乎零敞口的玩家——
+    > 
+    > - **欧洲**：高端激光器设计（如 [[SIVE]]）、衬底（如 [[SOI]] Soitec）
+    > - **台湾**：[[FOCI]]（波若威 3363）、Nextronics（能率 8147）、Shunsin（讯芯 6451）等光学零部件及代工厂
+    > - **日本**：激光器大规模量产、衬底、化学品
+    > 
+    > ——正**突然成为 CPO 领域的新一代主导玩家**。
+    > 
+    > ---
+    > 
+    > 至于美国选手，纯 CPO 敞口其实不多。现有的如 $LITE、$COHR 仍然能从 CPO 中获得增量收益，因为 **CPO 是它们的新增长矢量**。
+    > 
+    > 但我对老牌玩家的**反共识思维**是：
+    > 
+    > > 它们的大部分估值已经定价了**巨大的老一代可插拔模块营收**——而这些营收随着时间的推移将**不可避免地被 CPO 蚕食**。因此，除非有人用杠杆，否则它们的**重新评级潜力 (re-rating potential) 相对有限**。
+    > 
+    > ---
+    > 
+    > ## 时间表
+    > 
+    > 很多这些全新的、更纯粹的 CPO 标的，将经历从 **0 → 100** 的爆发过程，且速度极快：
+    > 
+    > | 阶段 | 时间 | 性质 |
+    > |------|------|------|
+    > | H2 2026 | 规模外扩 (scale out) | 营收桥梁 |
+    > | H2 2027 | 规模上量 (scale up) | 大规模增长驱动 |
+    > 
+    > 而且市场通常**提前 8-12 个月**定价这些……
+    > 
+    > ---
+    > 
+    > > 我对我的供应链研究充满**高度信念**——
+    > > 不管在此之前市场上演什么波动，我都会坚守。
 
 12. **2026-05-13** (❤️ 584 | 🔁 39 | ID: `2054365028820881794` | [X.com Post](https://x.com/aleabitoreddit/status/2054365028820881794))
     FOCI (3363) is looks extremely compelling around now at ~$3.35B MC for CPO exposure.

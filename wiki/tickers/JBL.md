@@ -98,6 +98,28 @@ Auto-extracted from Serenity's timeline:
     9. Don’t change your mind: keep focusing on 2024 revenue numbers and local accounting offices while executives are in America.
     
     10. Become a meme on X.
+    > [!TIP] **中文译文**
+    > Serenity 出品的**《瑞典本土投资人速成指南》**：
+    > 
+    > 1. 看到瑞典皇冠上的光子学明珠公司 [[SIVE]]？
+    > 
+    > 2. 对 2024 年的营收数字暴怒，坚决不看未来增长潜力。
+    > 
+    > 3. 鼓励所有人赶在 [[CPO]] 超级周期启动之前，**在股价底部把公司控制权拱手转让给美国佬**。
+    > 
+    > 4. 非常生气——为什么这破股票一直在涨？
+    > 
+    > 5. 让本地对冲基金沿着上升通道做空了 **17%+ 的自由流通盘**。
+    > 
+    > 6. 基金净值暴跌 20%+，面临的潜在亏损是**无限的**。
+    > 
+    > 7. 猛然意识到：MSCI 纳入 + NASDAQ 主板升板即将来临——**美国人现在已经控股了这家公司**。
+    > 
+    > 8. 但等下，又出了新消息？捷普 (Jabil) 要用 [[SIVE]] 的激光器为超大规模云商量产 1.6T LRO 了？H1 2027？
+    > 
+    > 9. **坚！决！不！改！变！看！法！** ——继续死盯着 2024 年的营收数字和本地审计所，而公司高管们已经全部在美国了。
+    > 
+    > 10. 成为 X 上行走的梗 (meme)。
 
 3. **2026-05-20** (❤️ 1450 | 🔁 124 | ID: `2057117978014126372` | [X.com Post](https://x.com/aleabitoreddit/status/2057117978014126372))
     Did you listen Sweden? 
@@ -296,6 +318,95 @@ Auto-extracted from Serenity's timeline:
     Alpha comes from future revenue proportional to demand from every Western/Asian hyperscaler for CPO/1.6T in 2027, 2028, 2029, and onward. 
     
     $SIVE looks like one of the most unknown photonic stocks on the market that's yet to come.
+    > [!TIP] **中文译文**
+    > 当你发现 [[SIVE]] 在 2027-2028 年**所有超大规模云商中可能占据的最终位置**时——
+    > 再回头看看它居然只有 $9 亿市值——简直难以置信。
+    > 
+    > 市场根本不明白将要发生什么。
+    > 
+    > ---
+    > 
+    > ## 供应链映射全景 (基于推测性追踪)
+    > 
+    > ### 路径 1: $SIVE → POET → $MRVL → 北美三大云商
+    > 
+    > > [[SIVE]] → $POET → $MRVL →
+    > > 1. **$AMZN 亚马逊** (与 Marvell Celestial 的光子互联架构签署了采购协议/认购权证)
+    > > 2. **$MSFT 微软** (Maia 项目)
+    > > 3. **$GOOGL 谷歌** (近期与 Marvell 的开发谈判)
+    > 
+    > → [[SIVE]] 为 Poet 的 **Starlight 光互连晶圆级中介层 (optical interposer)** 提供激光器动力。Poet 的 CFO 几天前**亲自确认**正在向 Marvell 供货。
+    > 
+    > ---
+    > 
+    > ### 路径 2: $SIVE → POET → "其他 NDA 超算供应商"
+    > 
+    > > [[SIVE]] → $POET → "处于保密协议 (NDA) 之下的其他超大规模云商供应商"
+    > > 1. 西方超大规模云商
+    > 
+    > ---
+    > 
+    > ### 路径 3: $SIVE → $JBL (1.6T LRO) → Meta + Nvidia
+    > 
+    > > [[SIVE]] → [[JBL]] (1.6T LRO) →
+    > > 1. **$META** (Jabil 继承了 Intel 硅光子项目的遗产,映射至 Meta 的 LRO 项目)
+    > > 2. **$NVDA 英伟达** (NVIDIA 可能 OEM 光模块) → 微软 / AWS / 其他超大规模云商
+    > 
+    > → **[[SIVE]] 已确认为 [[JBL]] 1.6T 光模块的激光源供应商。**
+    > 
+    > ---
+    > 
+    > ### 路径 4: $SIVE → Ayar Labs → AMD / Intel / 亚马逊
+    > 
+    > > [[SIVE]] → Ayar Labs (上月刚完成 $5 亿融资用于量产爬坡) →
+    > > 1. **Alchip 世芯** (联合 CPO)
+    > > 2. **$INTC 英特尔**
+    > > 3. **GUC 创意电子 / Wiwynn 纬颖**
+    > > → **$AMZN 亚马逊** (世芯 Alchip 的最终客户)
+    > > → **$AMD** (通过 $GFS 格芯的 CPO 合作伙伴关系) —— 存在可能性
+    > 
+    > → **[[SIVE]] 是 Ayar 确认的激光器供应商**。
+    > 
+    > **关键信号**: Ayar 最近**从其官网上移除了 $MTSI / $LITE 的品牌标示**,只留下了 $GFS + [[SIVE]]——这大概率意味着 **Sivers 是其主供应商 (primary laser supplier)**。
+    > 
+    > 由于 $GFS × $AMD 最近达成了 CPO 合作——
+    > 如果 AMD 选择了 Ayar 的技术路线——
+    > → 那么 **Sivers 将成为 AMD 整个 CPO 项目的核心激光器供应商**。
+    > 
+    > ---
+    > 
+    > ### 路径 5: $SIVE → Enablence → O-Net (亚洲大型 OEM) → 亚洲超大规模云商
+    > 
+    > > [[SIVE]] → Enablence → O-Net 昂纳科技 (巨型亚洲 OEM) → 亚洲超大规模云商
+    > > 1. **$AVGO 博通 ELS** (可能存在)
+    > > 2. **$META + $GOOGL ELS**
+    > > 3. **字节跳动 ByteDance** (可能存在) → ELS
+    > > 4. **腾讯 Tencent** (可能存在) → ELS
+    > > 5. **阿里巴巴 Alibaba** (可能存在) → ELS
+    > 
+    > → [[SIVE]] 在 OFC 展会前后与 O-Net/Enablence 达成了 **ELS 外部激光源合作伙伴关系**。
+    > 
+    > ---
+    > 
+    > ## 制造基础
+    > 
+    > Sivers 的激光器由稳懋 (Win Semi) 这类代工厂进行**大规模量产**……
+    > 
+    > 并且从最近的图示演示材料中可以看到——
+    > **Sivers 也已经被验证进入了 $GFS（格芯）的 CPO 供应链**。
+    > 
+    > ---
+    > 
+    > ## 核心结论
+    > 
+    > 这不是关于 Sivers 今天怎么给它的"资质认证营收"做预测——
+    > **这是所有人都在建模的东西，也是市场的全部关注点。**
+    > 
+    > **真正的 Alpha 来自于 2027、2028、2029 年及以后——每一个西方和亚洲超大规模云商——对 CPO 和 1.6T 的恐怖需求——所对应的 Sivers 远期营收的爆发。**
+    > 
+    > ---
+    > 
+    > > **[[SIVE]] 看起来是市场上硕果仅存的、尚未被市场充分认识的光子学标的之一——而恰恰在它爆发的前夜。**
 
 10. **2026-04-19** (❤️ 1413 | 🔁 121 | ID: `2046003874553901188` | [X.com Post](https://x.com/aleabitoreddit/status/2046003874553901188))
     Frontrunning 1.6T/CPO within the broader photonics supercycle is the most compelling investment to me. 
@@ -347,6 +458,102 @@ Auto-extracted from Serenity's timeline:
     There's many others like $NBIS, $JBL, $RPI, $TSEM, $LITE, $ARM, $SOI, $AXTI,  $IQE, $ALRIB, Fittech, PCL, and others that I'm very fond of, but just mentioning 5 off the top of my head from today's prices... if I'm creating a new portfolio. 
     
     Of course, it's good to barbell with other uncorrelated companies to AI supply chains, but these are just 5 I liked.
+    > [!TIP] **中文译文**
+    > 在更广泛的光子学超级周期中**前置布局 1.6T/CPO——**对我来说是最有吸引力的投资主题。
+    > 
+    > 我对这句话拥有极高的信念。
+    > 
+    > 这就是为什么我做多了**整条供应链**（+ 1 个额外的非光学瓶颈）：
+    > 
+    > ---
+    > 
+    > ## 1. [[SIVE]] — CPO 激光器的核心卡脖子节点
+    > 
+    > 他们的激光器营收将跟随以下客户的放量而**激进爆发**：
+    > - [[JBL]]（1.6T LRO —— 已确认）
+    > - $MRVL（Celestial）
+    > - Ayar Labs
+    > - O-Net 昂纳科技
+    > 
+    > 而且我真的相信，CPO / 1.6T 会**彻底碾碎任何保守分析师的预测**——看看 $NVDA、$GOOGL 以及其他厂商对光子学架构的推进有多猛烈就知道了。
+    > 
+    > > **下行风险是多源采购 (multi-sourcing)**，但 Jabil 选择 Sivers 是有明确原因的。
+    > >
+    > > 当我把 $MTSI、$LITE、$COHR、古河 (Furukawa) 等逐一对比之后——
+    > >
+    > > 整个地球上真的没有几家激光器供应商——它们**全部是 $100 亿+ 市值的巨无霸**……
+    > > 然后你看到了这个**微缩版 CHIPS 法案卡脖子节点**，市值还不到 $10 亿。
+    > 
+    > ---
+    > 
+    > ## 2. 讯芯 Shunsin (6451) — 富士康的光子学封测平台
+    > 
+    > 我看不懂——
+    > 富士康的光学代工厂（涵盖测试、封装、组装）凭什么市值比 $LWLG 还低了 $15 亿？
+    > 
+    > 要知道，它**骑在富士康光子学流量的肩膀上，已经呈现出极高的风险解除状态**。
+    > 
+    > > $TSM 台积电的光学子公司 VisEra 大约是 $50 亿市值——但他们要到 2028 年下半年 Gen-3 才能放量。
+    > >
+    > > 而**富士康这边看起来明年就要开始爬坡了**。
+    > 
+    > 他们当前的低远期 P/E 倍数建立在 $NVDA 在台湾的 CPO 供应链需求之上——所有公开指标都指向**产能扩张 + 需求极端旺盛**。
+    > 
+    > ---
+    > 
+    > ## 3. 稳懋 Win Semi — 每一条前沿供应链都绕不开的代工厂
+    > 
+    > 稳懋是 Sivers 将 DFB 激光器大规模量产的**代工厂**。
+    > 
+    > 同时也是 $AVGO、SpaceX 等供应链的关键环节。
+    > 
+    > 当我做供应链映射时——**稳懋的名字在每一条我研究的前沿供应链中反复出现。**
+    > 
+    > → 市场大概率有某些东西没有充分定价。
+    > 
+    > ---
+    > 
+    > ## 4. $MRVL — 迷你版博通
+    > 
+    > 我发现 Marvell 对标一个"迷你博通"的逻辑是非常有吸引力的。
+    > 
+    > 他们与 **$GOOGL 的合作设计项目** 为 2028 年之后的持续性提供了支撑。
+    > 
+    > 但我在关注的真正的催化剂是 **$MSFT Maia 项目的爬坡**——H2 2026 启动，并大概率在 2027、2028、2029 年持续指数级放量。
+    > 
+    > **收购 Celestial 可能是 Marvell 做过的最聪明的决策。**
+    > 
+    > > 或许在下一次回调时或通过 CSP 期权的结构？
+    > 
+    > ---
+    > 
+    > ## 5. $HPS.A — 变压器/开关柜——数据中心最无聊、但卡脖子最严重的环节
+    > 
+    > 变压器/开关柜是数据中心供应链中**大宗商品化、无聊的环节**。
+    > 
+    > 但！当瓶颈持续 2-5 年，积压订单以 100%+ 的速度增长……引发的短缺是极端严重的。
+    > 
+    > 自我的投资论点帖发布以来，股价仅上涨了约 20%+。
+    > 
+    > 但我确实认为——鉴于巨大的积压订单能见度（虽然是推断性数据，他们不公布具体数字）——这个标的的**风险已经被大幅度解除**。
+    > 
+    > 我认为市场正在错过一些东西：
+    > 
+    > 特别是如果价格上涨成功的话，**潜在的毛利率扩张**……
+    > 
+    > > 重申一次：积压订单 + 需求本身就已经让这家公司的风险大幅降低——看起来是一个**高增长的复利机器**（在去年的产能扩张之后）。
+    > 
+    > ---
+    > 
+    > ## 还有很多我喜欢但来不及展开的
+    > 
+    > $NBIS、[[JBL]]、$RPI、[[TSEM]]、$LITE、$ARM、[[SOI]]、[[AXTI]]、[[IQE]]、$ALRIB、Fittech、PCL 等等——
+    > 
+    > 但如果我从今天的价格起新建一个组合，上面这 5 个是我脑海中率先跳出来的。
+    > 
+    > 当然，最好用与 AI 供应链**非相关的其他标的来做杠铃配置 (barbell)**——
+    > 
+    > 但以上 5 个是我目前最喜欢的。
 
 11. **2026-04-15** (❤️ 1135 | 🔁 88 | ID: `2044287196300226960` | [X.com Post](https://x.com/aleabitoreddit/status/2044287196300226960))
     IT'S OFFICIAL: $JBL to use $SIVE Lasers for their optical transceivers. 

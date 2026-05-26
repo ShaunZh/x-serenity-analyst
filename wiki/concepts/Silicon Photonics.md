@@ -22,6 +22,28 @@ The integration of active and passive optical components (lasers, modulators, de
     These are still two extremely small companies... and things like MSS weren't even mentioned by GS, despite the news claims about relations. 
     
     So feels like X found this early, mainstream institutions are likely about to enter after seeing this sort of confirmation.
+    > [!TIP] **中文译文**
+    > 哦快看，联合新闻网 (UDN) 又出了一篇关于 $TSM 台积电 **COUPE + AI 光学市场**的新文章。
+    > 
+    > 机构投资者看好以下台湾公司将从中受益：
+    > 
+    > [[FOCI]] 波若威 (3363) 和 MSScorps (6830)
+    > 
+    > 不过……这所谓的"机构"是不是应该改成**X 上的散户们**啊？
+    > 
+    > ---
+    > 
+    > 关于 [[FOCI]]（波若威）：
+    > > "其 FAU（光纤阵列单元）产品与台积电**合作开发至少三年**，规格已推进至 1.6T、3.2T，后续量产排程成为市场观察焦点。"
+    > 
+    > 关于 MSS（鑫创）：
+    > > "切入[[Silicon Photonics]] 硅光子及 [[CPO]] 检测分析领域，主打**光损耗检测**技术……并推出硅光子测试平台，锁定研发、工程验证、失效分析以及少量多样的测试应用。"
+    > 
+    > ---
+    > 
+    > **作者点评**：这两家仍然是规模极小的公司……而像 MSS 这样的标的，即便新闻稿声称它们与台积电有关系，连高盛 (GS) 的研报都还没有覆盖到它们。
+    > 
+    > 所以感觉是 **X 上的散户社区率先发现了这批标的**，而主流机构大概率在看到这种（来自产业界的）确认信号之后，才即将进场。
 
 2. **2026-05-24** (ID: `2058618801554604040` | [X.com Post](https://x.com/aleabitoreddit/status/2058618801554604040))
     AI capex spend is expected to go to "$3 to $4 trillion annually" by 2030 from $NVDA Jensen Huang projections. 
