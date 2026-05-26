@@ -57,9 +57,11 @@ Auto-extracted from Serenity's timeline:
 > There's many others like $NBIS, $JBL, $RPI, $TSEM, $LITE, $ARM, $SOI, $AXTI,  $IQE, $ALRIB, Fittech, PCL, and others that I'm very fond of, but just mentioning 5 off the top of my head from today's prices... if I'm creating a new portfolio. 
 > 
 > Of course, it's good to barbell with other uncorrelated companies to AI supply chains, but these are just 5 I liked.
+> 
+> — *Source Tweet ID: `2046003874553901188` ([X.com Post](https://x.com/aleabitoreddit/status/2046003874553901188))*
 
 ## 📜 Historical Timeline (Reverse Chronological)
-1. **2026-05-22** (❤️ 1659 | 🔁 151)
+1. **2026-05-22** (❤️ 1659 | 🔁 151 | ID: `2057720796613873805` | [X.com Post](https://x.com/aleabitoreddit/status/2057720796613873805))
     $SIVE is literally the kingmaker for CPO:
     
     From ~ Lightmatter, Celestial, Ayar, Lightelligence early on. Now the leaders with massive $5-10B+ valuations.
@@ -74,7 +76,7 @@ Auto-extracted from Serenity's timeline:
     
     Markets are only starting to see the precipice of how important this laser company is.
 
-2. **2026-05-21** (❤️ 1536 | 🔁 99)
+2. **2026-05-21** (❤️ 1536 | 🔁 99 | ID: `2057374458659389842` | [X.com Post](https://x.com/aleabitoreddit/status/2057374458659389842))
     A guide by Serenity on becoming a true Swedish local:
     
     1. See crown jewel photonics company in $SIVE?
@@ -97,7 +99,7 @@ Auto-extracted from Serenity's timeline:
     
     10. Become a meme on X.
 
-3. **2026-05-20** (❤️ 1450 | 🔁 124)
+3. **2026-05-20** (❤️ 1450 | 🔁 124 | ID: `2057117978014126372` | [X.com Post](https://x.com/aleabitoreddit/status/2057117978014126372))
     Did you listen Sweden? 
     
     &gt; $SIVE MSCI Listing + structural inflow 
@@ -109,7 +111,7 @@ Auto-extracted from Serenity's timeline:
     
     The story keeps getting better.
 
-4. **2026-05-20** (❤️ 1182 | 🔁 104)
+4. **2026-05-20** (❤️ 1182 | 🔁 104 | ID: `2056993753882345818` | [X.com Post](https://x.com/aleabitoreddit/status/2056993753882345818))
     $SIVE mass production for 1.6T optical transceivers with $JBL:
     
     Is now earlier than expected per JP Morgan Fireside chat. 
@@ -164,7 +166,7 @@ Auto-extracted from Serenity's timeline:
     > 
     > 先前市场对 Sivers X Jabil 的具体产量需求和商业化时间表一直充满疑虑。而现在，捷普直接公开确认：**搭配 [[SIVE]] 激光器的 1.6T LRO 需求量实质上是上不封顶的。**
 
-5. **2026-05-03** (❤️ 1592 | 🔁 103)
+5. **2026-05-03** (❤️ 1592 | 🔁 103 | ID: `2050833230736269767` | [X.com Post](https://x.com/aleabitoreddit/status/2050833230736269767))
     It's pretty insane to see $SIVE become a Tier 1 laser supplier for CPO. 
     
     This is my prediction/guess with est. mapping: 
@@ -200,7 +202,7 @@ Auto-extracted from Serenity's timeline:
     
     And a small $1.2B Swedish company in $SIVE will be in the center of it.
 
-6. **2026-04-28** (❤️ 759 | 🔁 74)
+6. **2026-04-28** (❤️ 759 | 🔁 74 | ID: `2048929438679896317` | [X.com Post](https://x.com/aleabitoreddit/status/2048929438679896317))
     “1.6T optical modules are near mass adoption this year”
     
     So nothing new but this just confirms timelines for volume production/mass adoption H2 2026. 
@@ -215,7 +217,7 @@ Auto-extracted from Serenity's timeline:
     
     I think everyone focuses on the upstream supply chains nowadays but going long on Broadcom and Marvell doesn’t hurt too.
 
-7. **2026-04-27** (❤️ 682 | 🔁 42)
+7. **2026-04-27** (❤️ 682 | 🔁 42 | ID: `2048801270337831047` | [X.com Post](https://x.com/aleabitoreddit/status/2048801270337831047))
     Nope, $SIVE thesis is fully in-tact and I still think it's undervalued.  
     
     Lot of it was based on $JBL 1.6T bridging the gap into CPO ramp.
@@ -226,7 +228,7 @@ Auto-extracted from Serenity's timeline:
     
     That actually might increase the valuations more long term (direct to T1 like Jabil, Marvell) than one-hop through a packaging partner.
 
-8. **2026-04-27** (❤️ 1422 | 🔁 88)
+8. **2026-04-27** (❤️ 1422 | 🔁 88 | ID: `2048680795586568237` | [X.com Post](https://x.com/aleabitoreddit/status/2048680795586568237))
     It's pretty clear by now that $SIVE is the likely holy grail silicon photonics supplier for $AAPL...
     
     Markets just don't know about it (this is called Alpha). 
@@ -244,7 +246,7 @@ Auto-extracted from Serenity's timeline:
     
     $SIVE on their X did tease volume ramp from development timelines, which I guessed was Apple (H2 2027 ramp or H1 2028), but could be Ayar or Jabil.
 
-9. **2026-04-23** (❤️ 2160 | 🔁 259)
+9. **2026-04-23** (❤️ 2160 | 🔁 259 | ID: `2047209727738957983` | [X.com Post](https://x.com/aleabitoreddit/status/2047209727738957983))
     All the hyperscalers $SIVE likely ends up in 2027-2028 is staggering at a $900m MC. 
     
     Markets don't understand what's coming. 
@@ -295,7 +297,7 @@ Auto-extracted from Serenity's timeline:
     
     $SIVE looks like one of the most unknown photonic stocks on the market that's yet to come.
 
-10. **2026-04-19** (❤️ 1413 | 🔁 121)
+10. **2026-04-19** (❤️ 1413 | 🔁 121 | ID: `2046003874553901188` | [X.com Post](https://x.com/aleabitoreddit/status/2046003874553901188))
     Frontrunning 1.6T/CPO within the broader photonics supercycle is the most compelling investment to me. 
     
     I have high conviction in that statement.
@@ -346,7 +348,7 @@ Auto-extracted from Serenity's timeline:
     
     Of course, it's good to barbell with other uncorrelated companies to AI supply chains, but these are just 5 I liked.
 
-11. **2026-04-15** (❤️ 1135 | 🔁 88)
+11. **2026-04-15** (❤️ 1135 | 🔁 88 | ID: `2044287196300226960` | [X.com Post](https://x.com/aleabitoreddit/status/2044287196300226960))
     IT'S OFFICIAL: $JBL to use $SIVE Lasers for their optical transceivers. 
     
     Today:  "Jabil plans to develop a 1.6T linear receive optical (LRO)  transceiver module using Sivers’ high-performance Distributed Feedback (DFB) lasers"
@@ -357,7 +359,7 @@ Auto-extracted from Serenity's timeline:
     
     At a $500m MC? We had this hinted from physical sources at OFC, but many institutions needed actual confirmation like this.
 
-12. **2026-03-31** (❤️ 253 | 🔁 24)
+12. **2026-03-31** (❤️ 253 | 🔁 24 | ID: `2038943956697059637` | [X.com Post](https://x.com/aleabitoreddit/status/2038943956697059637))
     Just look at $MRVL Celestial ( $SIVE is the light source at ~$290m ) as an example.
     
     Marvell bought it for $5.5B. ($3.25B + 2.25B milestones).
@@ -379,7 +381,7 @@ Auto-extracted from Serenity's timeline:
     
     If you want a later stage pick, you can look at $LITE that already ran 3800%.
 
-13. **2026-03-31** (❤️ 454 | 🔁 24)
+13. **2026-03-31** (❤️ 454 | 🔁 24 | ID: `2038934006734135572` | [X.com Post](https://x.com/aleabitoreddit/status/2038934006734135572))
     Pls stop tagging me in stuff where random retail investors or journalists tries doing an analysis on $AXTI or $SIVE.
     
     For $AXTI:
@@ -412,7 +414,7 @@ Auto-extracted from Serenity's timeline:
     
     The other is designed into Jabil and Celestial for a reason.
 
-14. **2026-03-28** (❤️ 896 | 🔁 54)
+14. **2026-03-28** (❤️ 896 | 🔁 54 | ID: `2037715698592719312` | [X.com Post](https://x.com/aleabitoreddit/status/2037715698592719312))
     My portfolio has drawdowns from Macro as well.
     
     YTD is now 527%.
@@ -447,7 +449,7 @@ Auto-extracted from Serenity's timeline:
     
     Maybe they tend to outperform the market?
 
-15. **2026-03-27** (❤️ 1003 | 🔁 59)
+15. **2026-03-27** (❤️ 1003 | 🔁 59 | ID: `2037503648520179834` | [X.com Post](https://x.com/aleabitoreddit/status/2037503648520179834))
     I just bought ~.5%-1% of $SIVE as a company. 
     
     I said their future CW laser chokepoint is grossly mispriced.

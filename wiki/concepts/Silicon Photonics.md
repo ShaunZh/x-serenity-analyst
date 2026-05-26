@@ -6,7 +6,7 @@ The integration of active and passive optical components (lasers, modulators, de
 🔗 **Primary Tickers**: [[SIVE]] | [[AXTI]] | [[SOI]] | [[IQE]] | [[AAOI]] | [[JBL]] | [[FOCI]] | [[AEVA]]
 
 ## 📜 Analytical Quotes from Timeline
-1. **2026-05-25**
+1. **2026-05-25** (ID: `2058756539448713504` | [X.com Post](https://x.com/aleabitoreddit/status/2058756539448713504))
     Oh look, a new UDN article about $TSM COUPE + AI optical markets. 
     
     Institutional investors are optimistic that Taiwanese companies: 
@@ -23,7 +23,7 @@ The integration of active and passive optical components (lasers, modulators, de
     
     So feels like X found this early, mainstream institutions are likely about to enter after seeing this sort of confirmation.
 
-2. **2026-05-24**
+2. **2026-05-24** (ID: `2058618801554604040` | [X.com Post](https://x.com/aleabitoreddit/status/2058618801554604040))
     AI capex spend is expected to go to "$3 to $4 trillion annually" by 2030 from $NVDA Jensen Huang projections. 
     
     You're not bullish enough. 
@@ -46,7 +46,7 @@ The integration of active and passive optical components (lasers, modulators, de
     
     We're witnessing the next industrial revolution with Artificial Intelligence + Physical AI.
 
-3. **2026-05-24**
+3. **2026-05-24** (ID: `2058375421809549816` | [X.com Post](https://x.com/aleabitoreddit/status/2058375421809549816))
     今天刷Serenity的主页，发现她关注了我，惊讶又开心。如果你这一年关注美股半导体，尤其是 AI 产业链、光模块、硅光、存储、CPO、衬底等这些方向，大概率会刷到过她。
     
     我最开始涨粉 1000 多的一篇帖子就来自于引用她关于投资路径的观点。
@@ -75,7 +75,7 @@ The integration of active and passive optical components (lasers, modulators, de
     
     我也会继续关注和跟踪她的研究，继续学习这种从信息发现、产业链拆解到市场验证的能力。希望自己以后不仅能抓住更多机会，也能把复杂的投资逻辑讲得更清楚更有价值。
 
-4. **2026-05-15**
+4. **2026-05-15** (ID: `2055107276575588612` | [X.com Post](https://x.com/aleabitoreddit/status/2055107276575588612))
     Took a month…
     
     But my Shunsin (6451) CPO/SiPh idea is starting to play out.
@@ -84,7 +84,7 @@ The integration of active and passive optical components (lasers, modulators, de
     
     Maybe institution copy trading?
 
-5. **2026-05-14**
+5. **2026-05-14** (ID: `2054740298182603024` | [X.com Post](https://x.com/aleabitoreddit/status/2054740298182603024))
     Interesting report that I missed that Shunsin (6451) landed $AVGO CPO/SiPH orders…
     
     And their EPS growth rate could reach over 1240%.
@@ -93,7 +93,7 @@ The integration of active and passive optical components (lasers, modulators, de
     
     But makes sense that all your top players use Foxconn for optical packaging/test.
 
-6. **2026-05-12**
+6. **2026-05-12** (ID: `2054327689721581789` | [X.com Post](https://x.com/aleabitoreddit/status/2054327689721581789))
     Highly bullish implications today for Shunsin (6451). 
     
     Which is Foxconn’s SiPH and CPO packaging/test arm.
@@ -108,7 +108,7 @@ The integration of active and passive optical components (lasers, modulators, de
     
     Was just very early but this looks to be the start of a massive growth curve.
 
-7. **2026-05-12**
+7. **2026-05-12** (ID: `2054141853566726371` | [X.com Post](https://x.com/aleabitoreddit/status/2054141853566726371))
     Just 3 months ago, European media called my $RPI thesis:
     
     "A Meme Stock" where earnings isn't factored into decisions. 
@@ -125,7 +125,7 @@ The integration of active and passive optical components (lasers, modulators, de
     
     The ones focusing on actual fundamentals are the ones they're mocking.
 
-8. **2026-05-11**
+8. **2026-05-11** (ID: `2053634088259690727` | [X.com Post](https://x.com/aleabitoreddit/status/2053634088259690727))
     Promising… but for actually making returns: 
     
     Things like Glass/Silicon Photonics is an immediate H2 2026-2029 event.
@@ -140,7 +140,7 @@ The integration of active and passive optical components (lasers, modulators, de
     
     But it’s something to save for a year and a half later like H1 2028 for plastic optical cables.
 
-9. **2026-05-05**
+9. **2026-05-05** (ID: `2051571231590379708` | [X.com Post](https://x.com/aleabitoreddit/status/2051571231590379708))
     True… I did call:
     
     $AXTI $12 -> $105
@@ -157,7 +157,7 @@ The integration of active and passive optical components (lasers, modulators, de
     
     Feels like I’m seeing something others don’t with photonics?
 
-10. **2026-05-05**
+10. **2026-05-05** (ID: `2051566667009073315` | [X.com Post](https://x.com/aleabitoreddit/status/2051566667009073315))
     Just a recap of recent information discovery + likely mapping with $SIVE:
      
     -> $JBL 1.6T

@@ -6,7 +6,7 @@ The convergence of advanced AI foundational models with physical hardware, mappi
 🔗 **Primary Tickers**: [[SIVE]] | [[AXTI]] | [[IQE]] | [[AAOI]] | [[AEVA]]
 
 ## 📜 Analytical Quotes from Timeline
-1. **2026-05-24**
+1. **2026-05-24** (ID: `2058644487224848654` | [X.com Post](https://x.com/aleabitoreddit/status/2058644487224848654))
     Fun fact: Lot of the same companies are often used across different supply chains.
     
     One likely example is: $SIVE as the upstream laser supplier to Boston Dynamics via: 
@@ -46,10 +46,10 @@ The convergence of advanced AI foundational models with physical hardware, mappi
     > 
     > 我之前已经覆盖过很多名字，比如 [[VPG]] 或哈默纳科。但非常有意思的是，像 [[SIVE]] 这样的 [[CPO]] 玩家实际上是前沿物理 AI 发展的核心组成部分。
 
-2. **2026-05-24**
+2. **2026-05-24** (ID: `2058622911427055628` | [X.com Post](https://x.com/aleabitoreddit/status/2058622911427055628))
     @aleabitoreddit Any thoughts re physical AI so far?
 
-3. **2026-05-24**
+3. **2026-05-24** (ID: `2058618801554604040` | [X.com Post](https://x.com/aleabitoreddit/status/2058618801554604040))
     AI capex spend is expected to go to "$3 to $4 trillion annually" by 2030 from $NVDA Jensen Huang projections. 
     
     You're not bullish enough. 
@@ -72,7 +72,7 @@ The convergence of advanced AI foundational models with physical hardware, mappi
     
     We're witnessing the next industrial revolution with Artificial Intelligence + Physical AI.
 
-4. **2026-05-20**
+4. **2026-05-20** (ID: `2056939360222884144` | [X.com Post](https://x.com/aleabitoreddit/status/2056939360222884144))
     Just a shower thought:
     
     US Gov/Japan should put Ulvac (6728) on the export control list so they stop shipping to China.
@@ -93,7 +93,7 @@ The convergence of advanced AI foundational models with physical hardware, mappi
     
     And only if they allow rare earth exports to start flowing again, then exports can continue.
 
-5. **2026-05-20**
+5. **2026-05-20** (ID: `2056891308934148253` | [X.com Post](https://x.com/aleabitoreddit/status/2056891308934148253))
     Who could have thought China was holding all the cards over humanoid mass production?
     
     Really if America sees a future in $TSLA or Figure robotics programs.
@@ -102,7 +102,7 @@ The convergence of advanced AI foundational models with physical hardware, mappi
     
     Whatever we’re doing now isnt enough.
 
-6. **2026-05-19**
+6. **2026-05-19** (ID: `2056549908438749581` | [X.com Post](https://x.com/aleabitoreddit/status/2056549908438749581))
     $BOT is still trading at 4x NAV.
     
     With a $2,000,000,000 effective ATM.
@@ -121,7 +121,7 @@ The convergence of advanced AI foundational models with physical hardware, mappi
     
     But idk after the $2B equity financing facility, that move just seems predatory when there’s already a valuation NAV disconnect.
 
-7. **2026-05-15**
+7. **2026-05-15** (ID: `2055382936489496667` | [X.com Post](https://x.com/aleabitoreddit/status/2055382936489496667))
     This $AXTI / InP substrate export controls is EXACTLY why:
     
     Trump's America 1st policies should focus around securing its supply chains over in EU/Japan/KR.
@@ -138,7 +138,7 @@ The convergence of advanced AI foundational models with physical hardware, mappi
     
     Not just threaten 40% tariffs to stop them from shipping cheap goods.
 
-8. **2026-05-15**
+8. **2026-05-15** (ID: `2055379668195561657` | [X.com Post](https://x.com/aleabitoreddit/status/2055379668195561657))
     LOL chat no way... Can't believe $AXTI / InP substrates really a major part of the China-US Donald Trump's trade talks with Xi?
     
     I got this thesis completely right.
@@ -147,7 +147,7 @@ The convergence of advanced AI foundational models with physical hardware, mappi
     
     And US should pressure EU to take back their their photonic monopolies like ficonTEC that Chinese companies like Robotechnik managed to buy.
 
-9. **2026-05-15**
+9. **2026-05-15** (ID: `2055116243582247014` | [X.com Post](https://x.com/aleabitoreddit/status/2055116243582247014))
     I do like Harmonic Drive (6324) as the Western Leader (eg. harmonic reduction gear) at ~$4.2B MC.
     
     Very large part of robotics/humanoid BOM value.
@@ -158,7 +158,7 @@ The convergence of advanced AI foundational models with physical hardware, mappi
     
     It's not just profiting off markets, but what you want to get accomplished as well (helping advance US supply chains and Robotics leaders).
 
-10. **2026-05-14**
+10. **2026-05-14** (ID: `2054728301806256484` | [X.com Post](https://x.com/aleabitoreddit/status/2054728301806256484))
     Now that I think about it more…
     
     Nextronics (8147) is a pretty undiscovered supplier to robotics supply chains like $AMZN too.

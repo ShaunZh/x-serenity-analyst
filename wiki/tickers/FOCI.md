@@ -94,9 +94,11 @@ Auto-extracted from Serenity's timeline:
 > Confused by some of names of the list, they might have conflated a few names like Innolight with laser source like $MTSI, Sumitomo, $SIVE, Luxnet, with the actual end module (unless there's something that's not public material or I missed)? 
 > 
 > But just for people interested in the landscape, this is a good high-level overview.
+> 
+> — *Source Tweet ID: `2038777289115345200` ([X.com Post](https://x.com/aleabitoreddit/status/2038777289115345200))*
 
 ## 📜 Historical Timeline (Reverse Chronological)
-1. **2026-05-25** (❤️ 545 | 🔁 69)
+1. **2026-05-25** (❤️ 1093 | 🔁 137 | ID: `2058764325326856414` | [X.com Post](https://x.com/aleabitoreddit/status/2058764325326856414))
     几个值得重点关注的“实质性垄断”标的:
     
     - MSSCORP (6830)：在检测和 CPO 良率把控上构筑了极深的专利护城河。 
@@ -110,7 +112,7 @@ Auto-extracted from Serenity's timeline:
     
     相比之下，个人认为 $HIMX (奇景光电) 或 Foci (上诠) 未来面临被踢出局 (design out) 的风险最大，很有可能会被台积电的光学部门采钰 (Visera 6789) 这类巨头直接垂直整合。不过话说回来，在未来两三年内，借助 CPO 相关的光纤阵列 (FAU) 和无源器件，他们眼前依然有 波巨大的赚钱机遇
 
-2. **2026-05-25** (❤️ 250 | 🔁 11)
+2. **2026-05-25** (❤️ 398 | 🔁 17 | ID: `2058756539448713504` | [X.com Post](https://x.com/aleabitoreddit/status/2058756539448713504))
     Oh look, a new UDN article about $TSM COUPE + AI optical markets. 
     
     Institutional investors are optimistic that Taiwanese companies: 
@@ -127,7 +129,7 @@ Auto-extracted from Serenity's timeline:
     
     So feels like X found this early, mainstream institutions are likely about to enter after seeing this sort of confirmation.
 
-3. **2026-05-22** (❤️ 1155 | 🔁 70)
+3. **2026-05-22** (❤️ 1155 | 🔁 70 | ID: `2057826212257685733` | [X.com Post](https://x.com/aleabitoreddit/status/2057826212257685733))
     People keep asking:
     
     Hey why do have new longs with Taiwan/EU stocks recently like $LPK or Foci?
@@ -138,7 +140,7 @@ Auto-extracted from Serenity's timeline:
     
     You can always just let the ones you like grow.
 
-4. **2026-05-21** (❤️ 798 | 🔁 52)
+4. **2026-05-21** (❤️ 798 | 🔁 52 | ID: `2057388984310132855` | [X.com Post](https://x.com/aleabitoreddit/status/2057388984310132855))
     Just as I say this:
     
     $AMD invests $10B+ into Taiwan ecosystem (for securing capacity/scaling infra)
@@ -153,7 +155,7 @@ Auto-extracted from Serenity's timeline:
     
     But bullish on Taiwan supply chains all around from $AMD news.
 
-5. **2026-05-21** (❤️ 981 | 🔁 54)
+5. **2026-05-21** (❤️ 981 | 🔁 54 | ID: `2057319580595568833` | [X.com Post](https://x.com/aleabitoreddit/status/2057319580595568833))
     Just in case you want to frontrun the next major catalyst: 
     
     $NVDA June 1 Computex/GTC Taipei keynote should be heavily bullish Taiwan optical ecosystem?
@@ -162,7 +164,7 @@ Auto-extracted from Serenity's timeline:
     
     Shunsin, Foci, Nextronics, MSScorps, and a lot of my Nvidia photonics ecosystem port might be critical mentions or have indirect catalysts there.
 
-6. **2026-05-19** (❤️ 1143 | 🔁 50)
+6. **2026-05-19** (❤️ 1143 | 🔁 50 | ID: `2056558267896311996` | [X.com Post](https://x.com/aleabitoreddit/status/2056558267896311996))
     A good looking guy that would mog Clavicular side by side has no impact to any fundamentals.
     
     I cut some exposure too in $LITE $COHR like Leopold, last month. 
@@ -177,7 +179,7 @@ Auto-extracted from Serenity's timeline:
     
     I still think there’s upside for Lumentum and $COHR, just less likely to double at current prices as fast if you’re going shares only.
 
-7. **2026-05-18** (❤️ 1612 | 🔁 128)
+7. **2026-05-18** (❤️ 1612 | 🔁 128 | ID: `2056244818125418979` | [X.com Post](https://x.com/aleabitoreddit/status/2056244818125418979))
     Next year… I’m expecting there to be many articles about FAU + component bottlenecks.
     
     Especially as the new CPO architecture led by $NVDA + $TSM starts to scale.
@@ -190,7 +192,7 @@ Auto-extracted from Serenity's timeline:
     
     We’ll see if this is right.
 
-8. **2026-05-15** (❤️ 1054 | 🔁 61)
+8. **2026-05-15** (❤️ 1054 | 🔁 61 | ID: `2055127004970938373` | [X.com Post](https://x.com/aleabitoreddit/status/2055127004970938373))
     HOW DOES $POET ($3.14B) HAVE A HIGHER VALUATION THAN FOCI (3363, $3.1B)???
     
     FOCI IS LITERALLY THE BOTTLENECK FOR CPO VOLUME RAMP AND MAIN SUPPLIER FOR $TSM AND $NVDA.
@@ -199,14 +201,14 @@ Auto-extracted from Serenity's timeline:
     
     Also, can Foci management please pursue NASDAQ ADR like $HIMX? Thank you.
 
-9. **2026-05-15** (❤️ 603 | 🔁 36)
+9. **2026-05-15** (❤️ 603 | 🔁 36 | ID: `2055110412375621643` | [X.com Post](https://x.com/aleabitoreddit/status/2055110412375621643))
     FOCI (3363) is one of the most undervalued CPO players in the entire market right now at ~$3B. 
     
     Their BOM is massive relative to MC and they're expected to capture a dominant market share for $NVDA / $TSM. 
     
     You only start to see this show up 2027 / 2028, even though we're entering H2 2026 now (which is what I mean by frontrunning CPO supercycle).
 
-10. **2026-05-14** (❤️ 692 | 🔁 43)
+10. **2026-05-14** (❤️ 692 | 🔁 43 | ID: `2054737349075218567` | [X.com Post](https://x.com/aleabitoreddit/status/2054737349075218567))
     Honestly I’m expecting FOCI (3363) to blow away projections over next two years.
     
     It’s a pretty high conviction position for me medium term at this level. 
@@ -215,7 +217,7 @@ Auto-extracted from Serenity's timeline:
     
     Insane how it’s $3B MC as a critical CPO bottleneck required for scale, while LightWave Logic literally has around the same valuation at $2.7B in development stage.
 
-11. **2026-05-13** (❤️ 1807 | 🔁 129)
+11. **2026-05-13** (❤️ 1807 | 🔁 129 | ID: `2054412992000012555` | [X.com Post](https://x.com/aleabitoreddit/status/2054412992000012555))
     People wonder why I'm focusing on non-US markets recently.  
     
     Why? CPO is my #1 thematic long. 
@@ -252,7 +254,7 @@ Auto-extracted from Serenity's timeline:
     
     I have high conviction thematically in my supply chain research despite any market volatility leading up until then.
 
-12. **2026-05-13** (❤️ 584 | 🔁 39)
+12. **2026-05-13** (❤️ 584 | 🔁 39 | ID: `2054365028820881794` | [X.com Post](https://x.com/aleabitoreddit/status/2054365028820881794))
     FOCI (3363) is looks extremely compelling around now at ~$3.35B MC for CPO exposure.
     
     1. $TSM COUPE advanced packaging director hinted that FAU supplies by FOCI be a pretty big bottleneck for mass production. 
@@ -273,7 +275,7 @@ Auto-extracted from Serenity's timeline:
     
     Just throwing out ideas over long positions I hold, for more purer play CPO exposure.
 
-13. **2026-05-12** (❤️ 1877 | 🔁 160)
+13. **2026-05-12** (❤️ 1877 | 🔁 160 | ID: `2054076086452162675` | [X.com Post](https://x.com/aleabitoreddit/status/2054076086452162675))
     Random CPO related names I like:
     
     - $SIVE
@@ -298,7 +300,7 @@ Auto-extracted from Serenity's timeline:
     
     Disclosure: I own most, not all though.
 
-14. **2026-05-03** (❤️ 1774 | 🔁 176)
+14. **2026-05-03** (❤️ 1774 | 🔁 176 | ID: `2051028253130006901` | [X.com Post](https://x.com/aleabitoreddit/status/2051028253130006901))
     If you're curious about Goldman's Report:
     
     They expect "significant EPS upside" among:
@@ -321,7 +323,7 @@ Auto-extracted from Serenity's timeline:
     
     Passive Optical Components - WDM: AFR ( Everprox ( Accelink ( Ciena (CIEN), TFC Optical ( Lumentum (LITE), FOCI (3363.TWO)
 
-15. **2026-04-10** (❤️ 353 | 🔁 24)
+15. **2026-04-10** (❤️ 353 | 🔁 24 | ID: `2042469877492171129` | [X.com Post](https://x.com/aleabitoreddit/status/2042469877492171129))
     Just a few:
     2455 TWSE: Visual photonics
     268A TSEJ: Rigaku

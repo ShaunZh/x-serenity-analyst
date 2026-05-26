@@ -93,9 +93,37 @@ Auto-extracted from Serenity's timeline:
 > I think I'm one of the few who actually understands the nuances with photonics, since I did call out $LITE, $TSEM, Innolight, $AXTI, $AAOI, $SOI, that outperformed both photonics markets and overall markets over the past year. 
 > 
 > And now I'm long on $SIVE.
+> 
+> — *Source Tweet ID: `2058374522353672558` ([X.com Post](https://x.com/aleabitoreddit/status/2058374522353672558))*
 
 ## 📜 Historical Timeline (Reverse Chronological)
-1. **2026-05-24** (❤️ 819 | 🔁 47)
+1. **2026-05-25** (❤️ 886 | 🔁 77 | ID: `2058806097436455283` | [X.com Post](https://x.com/aleabitoreddit/status/2058806097436455283))
+    $SIVE is the largest beneficiary of brand new events this weekend:
+    
+    1. Sivers new NASDAQ index inclusion (OMX Stockholm):
+    
+    Both Vanguard and Blackrock are new passive inflows.
+    
+    With ~$60M+ pure buying pressure inflow, into existing float, together with MSCI next week.
+    
+    2. US Gov and Sweden sign agreement for joint tech collaboration.
+    
+    $SIVE is one of the few CHIPS act recipients, and especially in Sweden.
+    
+    And if you don’t remember, they received another $6.6M CHIPS act award last week.
+    
+    Making $SIVE heavily supported + critical to the US government. 
+    -
+    
+    TLDR: New passive institutional inflow from your largest US institutions like Blackrock/Vanguard.
+    
+    Compounded with US government backing into $SIVE. Over the weekend. 
+    
+    Beneficial for fundamentals (revenue/TAM from Pentagon supply chains) and inflow from Blackrock/Vanguard/MSCI/NASDAQ. 
+    
+    Extremely bullish.
+
+2. **2026-05-24** (❤️ 880 | 🔁 55 | ID: `2058644487224848654` | [X.com Post](https://x.com/aleabitoreddit/status/2058644487224848654))
     Fun fact: Lot of the same companies are often used across different supply chains.
     
     One likely example is: $SIVE as the upstream laser supplier to Boston Dynamics via: 
@@ -135,7 +163,7 @@ Auto-extracted from Serenity's timeline:
     > 
     > 我之前已经覆盖过很多名字，比如 [[VPG]] 或哈默纳科。但非常有意思的是，像 [[SIVE]] 这样的 [[CPO]] 玩家实际上是前沿物理 AI 发展的核心组成部分。
 
-2. **2026-05-24** (❤️ 2643 | 🔁 208)
+3. **2026-05-24** (❤️ 2643 | 🔁 208 | ID: `2058374522353672558` | [X.com Post](https://x.com/aleabitoreddit/status/2058374522353672558))
     Photonics is nuanced and using ChatGPT/Gemini makes you miss all of it: 
     
     1. $SIVE is actually a chokepoint and partially a bottleneck. 
@@ -222,14 +250,14 @@ Auto-extracted from Serenity's timeline:
     
     And now I'm long on $SIVE.
 
-3. **2026-05-23** (❤️ 1909 | 🔁 139)
+4. **2026-05-23** (❤️ 1909 | 🔁 139 | ID: `2058145137214329150` | [X.com Post](https://x.com/aleabitoreddit/status/2058145137214329150))
     Wow, NASDAQ just added $SIVE to its Stockholm index.
     
     This is est. to be around ~$15-20M worth of passive inflow, with strict ETF-only being around ~$.5M.
     
     We’re able to see a lot of institutional inflow into Sivers, as this is on top of the MSCI index inclusion EOM.
 
-4. **2026-05-23** (❤️ 1636 | 🔁 119)
+5. **2026-05-23** (❤️ 1636 | 🔁 119 | ID: `2058060753933131949` | [X.com Post](https://x.com/aleabitoreddit/status/2058060753933131949))
     For $SIVE to become the next $80B+ $LITE. 
     
     Sivers is the current laser kingmaker of the optical transition to CPO and 1.6T. 
@@ -255,7 +283,7 @@ Auto-extracted from Serenity's timeline:
     
     More than I care about little MC % returns that's happening currently.
 
-5. **2026-05-22** (❤️ 1289 | 🔁 66)
+6. **2026-05-22** (❤️ 1289 | 🔁 66 | ID: `2057804691321577607` | [X.com Post](https://x.com/aleabitoreddit/status/2057804691321577607))
     Wait until you realize that this is actually NASDAQ liquidity required for the US listing/float.
     
     And proceeds are expected go to $SIVE M&A (they hired 2 acquisition related board members). 
@@ -270,7 +298,7 @@ Auto-extracted from Serenity's timeline:
     
     This is in fact extremely bullish for Sivers.
 
-6. **2026-05-22** (❤️ 1659 | 🔁 151)
+7. **2026-05-22** (❤️ 1659 | 🔁 151 | ID: `2057720796613873805` | [X.com Post](https://x.com/aleabitoreddit/status/2057720796613873805))
     $SIVE is literally the kingmaker for CPO:
     
     From ~ Lightmatter, Celestial, Ayar, Lightelligence early on. Now the leaders with massive $5-10B+ valuations.
@@ -285,7 +313,7 @@ Auto-extracted from Serenity's timeline:
     
     Markets are only starting to see the precipice of how important this laser company is.
 
-7. **2026-05-20** (❤️ 1450 | 🔁 124)
+8. **2026-05-20** (❤️ 1450 | 🔁 124 | ID: `2057117978014126372` | [X.com Post](https://x.com/aleabitoreddit/status/2057117978014126372))
     Did you listen Sweden? 
     
     &gt; $SIVE MSCI Listing + structural inflow 
@@ -297,7 +325,7 @@ Auto-extracted from Serenity's timeline:
     
     The story keeps getting better.
 
-8. **2026-05-20** (❤️ 1008 | 🔁 55)
+9. **2026-05-20** (❤️ 1008 | 🔁 55 | ID: `2057084047466414107` | [X.com Post](https://x.com/aleabitoreddit/status/2057084047466414107))
     If people don’t realize why I’m so interested in $SIVE M&A.
     
     Sivers likely customers were:
@@ -316,7 +344,7 @@ Auto-extracted from Serenity's timeline:
     
     Future NASDAQ listing and recent growth unlocked downstream IP acquisition potential now.
 
-9. **2026-05-20** (❤️ 860 | 🔁 49)
+10. **2026-05-20** (❤️ 860 | 🔁 49 | ID: `2057059745429901334` | [X.com Post](https://x.com/aleabitoreddit/status/2057059745429901334))
     $SIVE is nominating two new board members today. 
     
     It's very highly telling since the newcomers have acquisition backgrounds from:
@@ -341,7 +369,7 @@ Auto-extracted from Serenity's timeline:
     
     Larger US institutions are likely interested in entering new very material $SIVE positions as well once Sivers passes some US institutions listing mandates.
 
-10. **2026-05-20** (❤️ 55 | 🔁 2)
+11. **2026-05-20** (❤️ 55 | 🔁 2 | ID: `2057051372973879355` | [X.com Post](https://x.com/aleabitoreddit/status/2057051372973879355))
     Sivers Semiconductors just nominated two new american elite board members + 3 returning board members 🇺🇸
     
     When you look at their backgrounds, the strategic intent becomes very clear.
@@ -356,7 +384,7 @@ Auto-extracted from Serenity's timeline:
     
     → Karin Raj — CTO Europe at Nokia
 
-11. **2026-05-20** (❤️ 1182 | 🔁 104)
+12. **2026-05-20** (❤️ 1182 | 🔁 104 | ID: `2056993753882345818` | [X.com Post](https://x.com/aleabitoreddit/status/2056993753882345818))
     $SIVE mass production for 1.6T optical transceivers with $JBL:
     
     Is now earlier than expected per JP Morgan Fireside chat. 
@@ -411,7 +439,7 @@ Auto-extracted from Serenity's timeline:
     > 
     > 先前市场对 Sivers X Jabil 的具体产量需求和商业化时间表一直充满疑虑。而现在，捷普直接公开确认：**搭配 [[SIVE]] 激光器的 1.6T LRO 需求量实质上是上不封顶的。**
 
-12. **2026-05-19** (❤️ 938 | 🔁 71)
+13. **2026-05-19** (❤️ 938 | 🔁 71 | ID: `2056877645275820418` | [X.com Post](https://x.com/aleabitoreddit/status/2056877645275820418))
     This is just confirmation on timelines:
     
     H2 2026 is the "major redesign of high end Apple Watches" for blood pressure related stuff using TASC photodiodes(2340).
@@ -424,7 +452,7 @@ Auto-extracted from Serenity's timeline:
     
     Still a bit early, but if timeline/implications are in tact, markets might appreciate multi-year revenue visibility with Apple.
 
-13. **2026-05-19** (❤️ 1150 | 🔁 70)
+14. **2026-05-19** (❤️ 1150 | 🔁 70 | ID: `2056640420008878330` | [X.com Post](https://x.com/aleabitoreddit/status/2056640420008878330))
     Just putting it out there:
     
     $SIVE short interest is probably higher than 17%+ now.
@@ -443,7 +471,7 @@ Auto-extracted from Serenity's timeline:
     
     And the popular saying is every one stock short turns into a long eventually.
 
-14. **2026-05-19** (❤️ 1383 | 🔁 101)
+15. **2026-05-19** (❤️ 1383 | 🔁 101 | ID: `2056611841011548647` | [X.com Post](https://x.com/aleabitoreddit/status/2056611841011548647))
     Just in: $SIVE gets $6.6M from the US CHIPS ACT.
     
     This is a $6.6M Year 2 Program. 
@@ -453,14 +481,3 @@ Auto-extracted from Serenity's timeline:
     This is incredibly bullish to have such a small company in $SIVE to get CHIPS ACT funding. 
     
     As it positions Sivers as a critical, US-government backstopped chokepoint for national security.
-
-15. **2026-05-14** (❤️ 1542 | 🔁 114)
-    If you didn't know $POET is up 22% premarket on a $50m purchase from Lumilens. 
-    
-    Scaling to $500m with a longer term framework. 
-    
-    As mentioned in Sivers 2025 annual report: $POET is ramping up H2 2026 with $SIVE.
-    
-    Any demand from these midstream players back to $SIVE as the laser chokepoint for everything. 
-    
-    So yes, this is highly bullish for Sivers.

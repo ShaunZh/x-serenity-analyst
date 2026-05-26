@@ -6,7 +6,20 @@ Next-generation optical packaging architecture that places optical transceivers 
 🔗 **Primary Tickers**: [[SIVE]] | [[AXTI]] | [[SOI]] | [[LPK]] | [[IQE]] | [[AAOI]] | [[JBL]] | [[FOCI]] | [[AEVA]]
 
 ## 📜 Analytical Quotes from Timeline
-1. **2026-05-25**
+1. **2026-05-25** (ID: `2058812818430836745` | [X.com Post](https://x.com/aleabitoreddit/status/2058812818430836745))
+    Did you listen anon?
+    
+    $SIVE is extremely early. 
+    
+    And we’re about to see a ton of institutional inflow (Blackrock, Vanguard, MSCI, NASDAQ) next week for the first time.
+    
+    Then, couple that with NASDAQ listing soon, with even more US institutions  entering.
+    
+    This is what it’s like to be in a name like $AXTI or $LITE at the very beginning.
+    
+    And this is still at a point before major institutional capital hit the float or CPO supercycle has ramped.
+
+2. **2026-05-25** (ID: `2058764325326856414` | [X.com Post](https://x.com/aleabitoreddit/status/2058764325326856414))
     几个值得重点关注的“实质性垄断”标的:
     
     - MSSCORP (6830)：在检测和 CPO 良率把控上构筑了极深的专利护城河。 
@@ -20,7 +33,7 @@ Next-generation optical packaging architecture that places optical transceivers 
     
     相比之下，个人认为 $HIMX (奇景光电) 或 Foci (上诠) 未来面临被踢出局 (design out) 的风险最大，很有可能会被台积电的光学部门采钰 (Visera 6789) 这类巨头直接垂直整合。不过话说回来，在未来两三年内，借助 CPO 相关的光纤阵列 (FAU) 和无源器件，他们眼前依然有 波巨大的赚钱机遇
 
-2. **2026-05-25**
+3. **2026-05-25** (ID: `2058756539448713504` | [X.com Post](https://x.com/aleabitoreddit/status/2058756539448713504))
     Oh look, a new UDN article about $TSM COUPE + AI optical markets. 
     
     Institutional investors are optimistic that Taiwanese companies: 
@@ -37,7 +50,7 @@ Next-generation optical packaging architecture that places optical transceivers 
     
     So feels like X found this early, mainstream institutions are likely about to enter after seeing this sort of confirmation.
 
-3. **2026-05-24**
+4. **2026-05-24** (ID: `2058644487224848654` | [X.com Post](https://x.com/aleabitoreddit/status/2058644487224848654))
     Fun fact: Lot of the same companies are often used across different supply chains.
     
     One likely example is: $SIVE as the upstream laser supplier to Boston Dynamics via: 
@@ -77,7 +90,7 @@ Next-generation optical packaging architecture that places optical transceivers 
     > 
     > 我之前已经覆盖过很多名字，比如 [[VPG]] 或哈默纳科。但非常有意思的是，像 [[SIVE]] 这样的 [[CPO]] 玩家实际上是前沿物理 AI 发展的核心组成部分。
 
-4. **2026-05-24**
+5. **2026-05-24** (ID: `2058618801554604040` | [X.com Post](https://x.com/aleabitoreddit/status/2058618801554604040))
     AI capex spend is expected to go to "$3 to $4 trillion annually" by 2030 from $NVDA Jensen Huang projections. 
     
     You're not bullish enough. 
@@ -100,7 +113,7 @@ Next-generation optical packaging architecture that places optical transceivers 
     
     We're witnessing the next industrial revolution with Artificial Intelligence + Physical AI.
 
-5. **2026-05-24**
+6. **2026-05-24** (ID: `2058410430649774504` | [X.com Post](https://x.com/aleabitoreddit/status/2058410430649774504))
     I’m not selling a single share of $SIVE.
     
     I personally think it’s a once-a-generation long given how many hyperscaler suppliers they’re already in.
@@ -119,7 +132,7 @@ Next-generation optical packaging architecture that places optical transceivers 
     
     Institutions have barely entered yet as well… and we’re about to see tens of millions of passive, long term new inflow next month from Nasdaq, Blackrock, MSCI indexes.
 
-6. **2026-05-24**
+7. **2026-05-24** (ID: `2058375421809549816` | [X.com Post](https://x.com/aleabitoreddit/status/2058375421809549816))
     今天刷Serenity的主页，发现她关注了我，惊讶又开心。如果你这一年关注美股半导体，尤其是 AI 产业链、光模块、硅光、存储、CPO、衬底等这些方向，大概率会刷到过她。
     
     我最开始涨粉 1000 多的一篇帖子就来自于引用她关于投资路径的观点。
@@ -148,7 +161,7 @@ Next-generation optical packaging architecture that places optical transceivers 
     
     我也会继续关注和跟踪她的研究，继续学习这种从信息发现、产业链拆解到市场验证的能力。希望自己以后不仅能抓住更多机会，也能把复杂的投资逻辑讲得更清楚更有价值。
 
-7. **2026-05-24**
+8. **2026-05-24** (ID: `2058374522353672558` | [X.com Post](https://x.com/aleabitoreddit/status/2058374522353672558))
     Photonics is nuanced and using ChatGPT/Gemini makes you miss all of it: 
     
     1. $SIVE is actually a chokepoint and partially a bottleneck. 
@@ -235,7 +248,7 @@ Next-generation optical packaging architecture that places optical transceivers 
     
     And now I'm long on $SIVE.
 
-8. **2026-05-23**
+9. **2026-05-23** (ID: `2058060753933131949` | [X.com Post](https://x.com/aleabitoreddit/status/2058060753933131949))
     For $SIVE to become the next $80B+ $LITE. 
     
     Sivers is the current laser kingmaker of the optical transition to CPO and 1.6T. 
@@ -261,7 +274,7 @@ Next-generation optical packaging architecture that places optical transceivers 
     
     More than I care about little MC % returns that's happening currently.
 
-9. **2026-05-22**
+10. **2026-05-22** (ID: `2057804691321577607` | [X.com Post](https://x.com/aleabitoreddit/status/2057804691321577607))
     Wait until you realize that this is actually NASDAQ liquidity required for the US listing/float.
     
     And proceeds are expected go to $SIVE M&A (they hired 2 acquisition related board members). 
@@ -275,18 +288,3 @@ Next-generation optical packaging architecture that places optical transceivers 
     Which is why I call $SIVE the Kingmaker for CPO.
     
     This is in fact extremely bullish for Sivers.
-
-10. **2026-05-22**
-    $SIVE is literally the kingmaker for CPO:
-    
-    From ~ Lightmatter, Celestial, Ayar, Lightelligence early on. Now the leaders with massive $5-10B+ valuations.
-    
-    To the ASIC ecosystems like Marvell, Alchip, GUC.
-    
-    With O-Net mass producing ELS with Sivers for CPO.
-    
-    And Jabil mass producing pluggables with Sivers for pluggable optical transceivers. 
-    
-    All likely surround and are designed around Sivers lasers.
-    
-    Markets are only starting to see the precipice of how important this laser company is.

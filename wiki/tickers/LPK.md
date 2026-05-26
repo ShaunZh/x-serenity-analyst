@@ -49,9 +49,11 @@ Auto-extracted from Serenity's timeline:
 > If anything, this was extremely positive for the core thesis about volume ramp for glass core substrates. 
 > 
 > We'll see how much the orders are though.
+> 
+> — *Source Tweet ID: `2049876593674440706` ([X.com Post](https://x.com/aleabitoreddit/status/2049876593674440706))*
 
 ## 📜 Historical Timeline (Reverse Chronological)
-1. **2026-05-22** (❤️ 1070 | 🔁 73)
+1. **2026-05-22** (❤️ 1070 | 🔁 73 | ID: `2057761720710631573` | [X.com Post](https://x.com/aleabitoreddit/status/2057761720710631573))
     European quantum/optical/glass chokepoints go BRRR?
     
     $ALRIB +8.35%
@@ -63,7 +65,7 @@ Auto-extracted from Serenity's timeline:
     
     More CEOs should do the same, even if it’s small.
 
-2. **2026-04-30** (❤️ 576 | 🔁 54)
+2. **2026-04-30** (❤️ 576 | 🔁 54 | ID: `2049876593674440706` | [X.com Post](https://x.com/aleabitoreddit/status/2049876593674440706))
     Thoughts on LPKF Laser < $LPK / $LPKFF> earnings:
     
     Very nuanced, here's what markets might have missed:
@@ -106,7 +108,7 @@ Auto-extracted from Serenity's timeline:
     
     We'll see how much the orders are though.
 
-3. **2026-04-30** (❤️ 653 | 🔁 33)
+3. **2026-04-30** (❤️ 653 | 🔁 33 | ID: `2049737227677421908` | [X.com Post](https://x.com/aleabitoreddit/status/2049737227677421908))
     $LPK / $LPKFF earnings are out. 
     
     Seeing a lot of very dumb commentary on X. If you're wondering how to analyze qualification-cycle players, it's the same as $AEHR. 
@@ -119,7 +121,7 @@ Auto-extracted from Serenity's timeline:
     
     People made this same mistake with $AEHR selling off on previous financials instead of listening to the call.
 
-4. **2026-04-28** (❤️ 53 | 🔁 0)
+4. **2026-04-28** (❤️ 53 | 🔁 0 | ID: `2049225508961874014` | [X.com Post](https://x.com/aleabitoreddit/status/2049225508961874014))
     This is funny, when retail investors are front running institutions they call it a bubble.
     What are they trying to do? Cause Chaos in market to buy Semi stocks cheaper as a lot of has been discovered.
     @aleabitoreddit 
@@ -128,7 +130,7 @@ Auto-extracted from Serenity's timeline:
     
     $AXTI $AAOI
 
-5. **2026-04-28** (❤️ 765 | 🔁 64)
+5. **2026-04-28** (❤️ 765 | 🔁 64 | ID: `2049212010660049008` | [X.com Post](https://x.com/aleabitoreddit/status/2049212010660049008))
     I do really like $LPK.
     
     Critical monopoly chokepoint in glass substrates…
@@ -149,10 +151,10 @@ Auto-extracted from Serenity's timeline:
     
     During the transition from qualification/pilot -> high volume.
 
-6. **2026-04-28** (❤️ 39 | 🔁 0)
+6. **2026-04-28** (❤️ 39 | 🔁 0 | ID: `2049198182899351946` | [X.com Post](https://x.com/aleabitoreddit/status/2049198182899351946))
     @aleabitoreddit $LPKF / $LPK positively surprised me today. It literally finished flat despite the correction across the rest of the market. There is buying pressure, and every dip is being bought
 
-7. **2026-04-21** (❤️ 721 | 🔁 57)
+7. **2026-04-21** (❤️ 721 | 🔁 57 | ID: `2046449839626670369` | [X.com Post](https://x.com/aleabitoreddit/status/2046449839626670369))
     People nonstop ask me about $LPKK / $LPK for my opinion
     
     Yes, I mentioned they're like a chokepoint for glass core substrates for LIDE (laser induced deep etching) way back when. 
@@ -187,7 +189,7 @@ Auto-extracted from Serenity's timeline:
     
     People on X did their homework.
 
-8. **2026-01-18** (❤️ 103 | 🔁 16)
+8. **2026-01-18** (❤️ 103 | 🔁 16 | ID: `2012961292966117410` | [X.com Post](https://x.com/aleabitoreddit/status/2012961292966117410))
     $WOLF was probably the most interesting one up there after restructuring. 
     
     $LPKFF also for glass substrates and they own the laser induced deep etching at a $169m MC, so possibly most explosive 10x upside. 

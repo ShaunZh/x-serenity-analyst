@@ -63,9 +63,11 @@ Auto-extracted from Serenity's timeline:
 > Especially so if they're buying into active ATMs.
 > 
 > Long term, the benefits when they scale up eg. $NBIS Q4 2026 (yes, even $IREN), will be immense.
+> 
+> — *Source Tweet ID: `2037896456179438049` ([X.com Post](https://x.com/aleabitoreddit/status/2037896456179438049))*
 
 ## 📜 Historical Timeline (Reverse Chronological)
-1. **2026-05-13** (❤️ 1731 | 🔁 111)
+1. **2026-05-13** (❤️ 1731 | 🔁 111 | ID: `2054524864866980010` | [X.com Post](https://x.com/aleabitoreddit/status/2054524864866980010))
     $NBIS earnings were stellar and it’s now trading $200+ premarket.
     
     Reiterated $7-9B ARR in 2026. 40% adj. EBITDA margin projections, which is vastly outperforming expectations. 
@@ -76,7 +78,7 @@ Auto-extracted from Serenity's timeline:
     
     In the words of Jensen: “Nebius will take care of you”
 
-2. **2026-05-04** (❤️ 1681 | 🔁 89)
+2. **2026-05-04** (❤️ 1681 | 🔁 89 | ID: `2051348607966875919` | [X.com Post](https://x.com/aleabitoreddit/status/2051348607966875919))
     Glad to see $NBIS finally return 100%+ since my original thesis post back at ~$87.
     
     I covered Nebius a ton late last year and at the start of this year. 
@@ -89,7 +91,7 @@ Auto-extracted from Serenity's timeline:
     
     I think we’re witnessing the rise of the next hyperscaler.
 
-3. **2026-04-11** (❤️ 679 | 🔁 19)
+3. **2026-04-11** (❤️ 679 | 🔁 19 | ID: `2042988968149684305` | [X.com Post](https://x.com/aleabitoreddit/status/2042988968149684305))
     There's a reason $IREN is down -7.9% YTD.
     
     While $NBIS is up 61.1% YTD.
@@ -106,7 +108,7 @@ Auto-extracted from Serenity's timeline:
     
     It's better to let all existing bagholders get wiped out first, then go long after the ATM is finished.
 
-4. **2026-03-30** (❤️ 461 | 🔁 21)
+4. **2026-03-30** (❤️ 461 | 🔁 21 | ID: `2038672101717274941` | [X.com Post](https://x.com/aleabitoreddit/status/2038672101717274941))
     Do you guys think there’s only $5,650,000,000 dilution to go with $IREN?
     
     Very surprising that people haven’t switched to $NBIS or other names if you’re long Neoclouds.
@@ -123,7 +125,7 @@ Auto-extracted from Serenity's timeline:
     
     Nebius is clearly has the better financing structure and this is already showing up in YTD returns.
 
-5. **2026-03-28** (❤️ 1265 | 🔁 86)
+5. **2026-03-28** (❤️ 1265 | 🔁 86 | ID: `2037896456179438049` | [X.com Post](https://x.com/aleabitoreddit/status/2037896456179438049))
     My thoughts on $NBIS, $IREN, $CRWV and the current Neocloud market. 
     
     One of them ends up as the next AWS in 5 years:
@@ -182,7 +184,7 @@ Auto-extracted from Serenity's timeline:
     
     Long term, the benefits when they scale up eg. $NBIS Q4 2026 (yes, even $IREN), will be immense.
 
-6. **2026-03-17** (❤️ 545 | 🔁 33)
+6. **2026-03-17** (❤️ 545 | 🔁 33 | ID: `2033864202440610128` | [X.com Post](https://x.com/aleabitoreddit/status/2033864202440610128))
     Just in: Following the new $27B Hyperscaler Cumulative Deal with $META.
     
     $NBIS launches a proposed $3.75B in convertible note offerings to fund the buildout. 
@@ -193,12 +195,12 @@ Auto-extracted from Serenity's timeline:
     
     More details for Nebius are likely to come soon.
 
-7. **2026-03-16** (❤️ 673 | 🔁 28)
+7. **2026-03-16** (❤️ 673 | 🔁 28 | ID: `2033518628650512784` | [X.com Post](https://x.com/aleabitoreddit/status/2033518628650512784))
     Just in: Citibank initiates coverage in Nebius &lt; $NBIS &gt; and assigns at PT of $169. 
     
     Per Bloomberg Terminal
 
-8. **2026-03-16** (❤️ 1272 | 🔁 75)
+8. **2026-03-16** (❤️ 1272 | 🔁 75 | ID: `2033486637553127865` | [X.com Post](https://x.com/aleabitoreddit/status/2033486637553127865))
     Just in: $META signs an enormous $27 Billion cumulative AI spend contract with $NBIS.
     
     Nebius was my top Neocloud AI Infrastruture DC pick.
@@ -207,7 +209,7 @@ Auto-extracted from Serenity's timeline:
     
     Nebius is up 14.79% premarket to $129.66.
 
-9. **2026-03-15** (❤️ 739 | 🔁 28)
+9. **2026-03-15** (❤️ 739 | 🔁 28 | ID: `2033033107557986332` | [X.com Post](https://x.com/aleabitoreddit/status/2033033107557986332))
     This is my hot take:
     
     Neoclouds like $NBIS or $IREN would command 1.3X higher valuation...
@@ -230,7 +232,7 @@ Auto-extracted from Serenity's timeline:
     
     Nebius would be worth $40B by now.
 
-10. **2026-03-11** (❤️ 965 | 🔁 64)
+10. **2026-03-11** (❤️ 965 | 🔁 64 | ID: `2031785810052465078` | [X.com Post](https://x.com/aleabitoreddit/status/2031785810052465078))
     $NBIS vs. $IREN.
     
     The difference is night and day.
@@ -243,7 +245,7 @@ Auto-extracted from Serenity's timeline:
     
     One is strategic with Nvidia, the other is toxic financing.
 
-11. **2026-03-11** (❤️ 824 | 🔁 66)
+11. **2026-03-11** (❤️ 824 | 🔁 66 | ID: `2031744017201848397` | [X.com Post](https://x.com/aleabitoreddit/status/2031744017201848397))
     Just in: Nvidia has invested $2B into $NBIS.
     
     I'm convinced Nebius is the next Amazon-level hyperscaler over time. 
@@ -266,7 +268,7 @@ Auto-extracted from Serenity's timeline:
     
     Nebius is at the forefront of AI and leading the wave to meet the growing demand for compute.
 
-12. **2025-11-17** (❤️ 295 | 🔁 20)
+12. **2025-11-17** (❤️ 295 | 🔁 20 | ID: `1990452960758042917` | [X.com Post](https://x.com/aleabitoreddit/status/1990452960758042917))
     Nebius [ $NBIS ] at $86.69 is the purest Neocloud and AI-infra asymmetry left. 
     
     This is the highest revenue Neocloud untouched by $CIFR | $WULF and colo providers that has no:

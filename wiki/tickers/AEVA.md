@@ -58,9 +58,11 @@ Auto-extracted from Serenity's timeline:
 > -> Hints of new group of hyperscaler suppliers testing/qualification for pluggable transcivers, which is massive TAM expansion. 
 > -> New customers for CW lasers 
 > -> Volume production scaling starting H2 for both photonics and lidar.
+> 
+> — *Source Tweet ID: `2054868760629272850` ([X.com Post](https://x.com/aleabitoreddit/status/2054868760629272850))*
 
 ## 📜 Historical Timeline (Reverse Chronological)
-1. **2026-05-24** (❤️ 819 | 🔁 47)
+1. **2026-05-24** (❤️ 880 | 🔁 55 | ID: `2058644487224848654` | [X.com Post](https://x.com/aleabitoreddit/status/2058644487224848654))
     Fun fact: Lot of the same companies are often used across different supply chains.
     
     One likely example is: $SIVE as the upstream laser supplier to Boston Dynamics via: 
@@ -100,7 +102,7 @@ Auto-extracted from Serenity's timeline:
     > 
     > 我之前已经覆盖过很多名字，比如 [[VPG]] 或哈默纳科。但非常有意思的是，像 [[SIVE]] 这样的 [[CPO]] 玩家实际上是前沿物理 AI 发展的核心组成部分。
 
-2. **2026-05-19** (❤️ 1150 | 🔁 70)
+2. **2026-05-19** (❤️ 1150 | 🔁 70 | ID: `2056640420008878330` | [X.com Post](https://x.com/aleabitoreddit/status/2056640420008878330))
     Just putting it out there:
     
     $SIVE short interest is probably higher than 17%+ now.
@@ -119,7 +121,7 @@ Auto-extracted from Serenity's timeline:
     
     And the popular saying is every one stock short turns into a long eventually.
 
-3. **2026-05-14** (❤️ 1995 | 🔁 188)
+3. **2026-05-14** (❤️ 1995 | 🔁 188 | ID: `2054868760629272850` | [X.com Post](https://x.com/aleabitoreddit/status/2054868760629272850))
     $SIVE 2025 annual report analysis. 
     
     TLDR: Extremely Bullish. 
@@ -171,7 +173,7 @@ Auto-extracted from Serenity's timeline:
     -> New customers for CW lasers 
     -> Volume production scaling starting H2 for both photonics and lidar.
 
-4. **2026-05-12** (❤️ 3553 | 🔁 344)
+4. **2026-05-12** (❤️ 3553 | 🔁 344 | ID: `2054335940026573222` | [X.com Post](https://x.com/aleabitoreddit/status/2054335940026573222))
     Here's the humanoid exposure crowdsourced list:
     
     - $OUST 
@@ -237,7 +239,7 @@ Auto-extracted from Serenity's timeline:
     > [!TIP] **中文译文**
     > 这里是网友众包整理的人形机器人供应链曝光清单：OUST、Rainbow Robotics、AMBA、优必选 (Ubtech)、MKA、Nextronics、SYM、Harmonic Drive (哈默纳科)、[[VPG]]、北京极智嘉、MBLY、ARBE、Nabtesco (纳博特斯克)、SERV、HSYDF、Robotstrategy、ZBRA、宁德时代 (CATL)、ABB、BOT、宇树科技 (Unitree)、LSCC、东杰智能、NOVT、RR、PDY、禾赛科技 (HSAI)、[[AEVA]] 等。在我脑海里：哈默纳科、Ouster (OUST)、BOT、[[VPG]]、MBLY 和优必选出现的频率最高。我将开始针对这些被提及的标的进行深入的研究（DD）。
 
-5. **2026-05-05** (❤️ 1424 | 🔁 105)
+5. **2026-05-05** (❤️ 1424 | 🔁 105 | ID: `2051566667009073315` | [X.com Post](https://x.com/aleabitoreddit/status/2051566667009073315))
     Just a recap of recent information discovery + likely mapping with $SIVE:
      
     -> $JBL 1.6T
@@ -270,7 +272,7 @@ Auto-extracted from Serenity's timeline:
     
     This is just extremely early on (H1) before the CPO supercycle starts H2 2026.
 
-6. **2026-04-28** (❤️ 996 | 🔁 82)
+6. **2026-04-28** (❤️ 996 | 🔁 82 | ID: `2049032343974007088` | [X.com Post](https://x.com/aleabitoreddit/status/2049032343974007088))
     I'm happy Japanese communities started positions in $SIVE after doing research!
     
     A stronger international shareholder base is always positive.
@@ -321,7 +323,7 @@ Auto-extracted from Serenity's timeline:
     
     And it’s my high conviction long moving forward.
 
-7. **2026-03-23** (❤️ 444 | 🔁 24)
+7. **2026-03-23** (❤️ 444 | 🔁 24 | ID: `2035897562025410927` | [X.com Post](https://x.com/aleabitoreddit/status/2035897562025410927))
     If you don't remember:
     
     $AEVA was my long for 4D Physical AI + World Models.

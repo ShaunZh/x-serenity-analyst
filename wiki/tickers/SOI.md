@@ -81,9 +81,11 @@ Auto-extracted from Serenity's timeline:
 > $AXTI substrate/feedstock, $IQE epiwafer, $AAOI transceiver supply chain
 > 
 > Then Long Google with $LITE
+> 
+> — *Source Tweet ID: `2032577275439485080` ([X.com Post](https://x.com/aleabitoreddit/status/2032577275439485080))*
 
 ## 📜 Historical Timeline (Reverse Chronological)
-1. **2026-05-19** (❤️ 617 | 🔁 21)
+1. **2026-05-19** (❤️ 617 | 🔁 21 | ID: `2056594930232135705` | [X.com Post](https://x.com/aleabitoreddit/status/2056594930232135705))
     Just another reminder:
     
     One day after my $SOI post back in March at $40. 
@@ -102,14 +104,14 @@ Auto-extracted from Serenity's timeline:
     
     With many of these same institutions giving 250 PTs today.
 
-2. **2026-05-07** (❤️ 750 | 🔁 34)
+2. **2026-05-07** (❤️ 750 | 🔁 34 | ID: `2052325056429384165` | [X.com Post](https://x.com/aleabitoreddit/status/2052325056429384165))
     When I first went long on Soitec and the price rose 30%.
     
     I had European analysts saying that there was nothing new about it.
     
     Now $SOI up a few hundred percent.
 
-3. **2026-05-01** (❤️ 1503 | 🔁 63)
+3. **2026-05-01** (❤️ 1503 | 🔁 63 | ID: `2050272539851821157` | [X.com Post](https://x.com/aleabitoreddit/status/2050272539851821157))
     $SIVE was a massive transfer from Swedish locals to US investors.
     
     Locals waited many, many years for all the laser R&D to pay off for CPO and silicon photonics. 
@@ -126,7 +128,7 @@ Auto-extracted from Serenity's timeline:
     
     Institutions are not your friends. I’m looking out for retail’s best interest though.
 
-4. **2026-04-30** (❤️ 797 | 🔁 31)
+4. **2026-04-30** (❤️ 797 | 🔁 31 | ID: `2049775164184055998` | [X.com Post](https://x.com/aleabitoreddit/status/2049775164184055998))
     Well that was a fast +200% gain with $SOI. 
     
     Soitec up another 13.62% today if you listened anon?
@@ -137,7 +139,7 @@ Auto-extracted from Serenity's timeline:
     
     Reason a lot of X accounts get popular is people stopped trusting “institutional analyst commentary” since many work against retail.
 
-5. **2026-04-21** (❤️ 745 | 🔁 42)
+5. **2026-04-21** (❤️ 745 | 🔁 42 | ID: `2046408704573292659` | [X.com Post](https://x.com/aleabitoreddit/status/2046408704573292659))
     This is what happens when you find a true monopoly. 
     
     Did you listen anon?
@@ -148,7 +150,7 @@ Auto-extracted from Serenity's timeline:
     
     “Soitec’s Photonics-SOI products are deployed in 100% of next-generation AI data centers.” - EVP Soitec
 
-6. **2026-04-20** (❤️ 1100 | 🔁 64)
+6. **2026-04-20** (❤️ 1100 | 🔁 64 | ID: `2046134751279591632` | [X.com Post](https://x.com/aleabitoreddit/status/2046134751279591632))
     Woah... European stocks go brrr. 
     
     $SIVE +12.76%
@@ -158,7 +160,7 @@ Auto-extracted from Serenity's timeline:
     
     When $4B+ MC companies like Soitec go up 10%+ a day, this is likely institutional buying as seen with IQE and Point72.
 
-7. **2026-04-14** (❤️ 555 | 🔁 33)
+7. **2026-04-14** (❤️ 555 | 🔁 33 | ID: `2044077799338881108` | [X.com Post](https://x.com/aleabitoreddit/status/2044077799338881108))
     Soitec is now up 64% in 1 month since my TLDR thesis post.
     
     Lot of people made fun of $SOI as a “no fundamentals meme stock” when it corrected after I posted (because of Iran/macro).
@@ -169,14 +171,14 @@ Auto-extracted from Serenity's timeline:
     
     It’s a genuine monopoly in the substrate layer and it’s likely bottoming in their legacy drag segments.
 
-8. **2026-04-10** (❤️ 410 | 🔁 23)
+8. **2026-04-10** (❤️ 410 | 🔁 23 | ID: `2042526193375940878` | [X.com Post](https://x.com/aleabitoreddit/status/2042526193375940878))
     Sorry everyone, Soitec ( $SOI ) is only up 39.28% since last month.
     
     Unfortunately, they were an underperformer in my photonics basket. 
     
     Not everything can go up triple digits every other month like $AXTI or $AAOI.
 
-9. **2026-03-19** (❤️ 1792 | 🔁 85)
+9. **2026-03-19** (❤️ 1792 | 🔁 85 | ID: `2034422243594530857` | [X.com Post](https://x.com/aleabitoreddit/status/2034422243594530857))
     Year to Date return from Jan to March:
     
     +564.36%. 
@@ -237,7 +239,7 @@ Auto-extracted from Serenity's timeline:
     
     My strategy is identifying structural bottlenecks in the AI supply chains before the market discovers them.
 
-10. **2026-03-18** (❤️ 486 | 🔁 25)
+10. **2026-03-18** (❤️ 486 | 🔁 25 | ID: `2034212267487793348` | [X.com Post](https://x.com/aleabitoreddit/status/2034212267487793348))
     Soitec < $SOI / $SLOIF > is now up, a lot since my post a week ago.
     
     As they’re the Western monopoly over silicon photonics and CPO substrates. 
@@ -256,7 +258,7 @@ Auto-extracted from Serenity's timeline:
     
     Retail on X are earlier than institutions to the architectural paradigm shifts in AI.
 
-11. **2026-03-17** (❤️ 583 | 🔁 46)
+11. **2026-03-17** (❤️ 583 | 🔁 46 | ID: `2034056688693875036` | [X.com Post](https://x.com/aleabitoreddit/status/2034056688693875036))
     The Photonics Supercycle is here.
     
     $NVDA is spearheading the next leap into CPO & Silicon Photonics.
@@ -285,7 +287,7 @@ Auto-extracted from Serenity's timeline:
     
     Then price them in.
 
-12. **2026-03-16** (❤️ 510 | 🔁 36)
+12. **2026-03-16** (❤️ 510 | 🔁 36 | ID: `2033643128390095328` | [X.com Post](https://x.com/aleabitoreddit/status/2033643128390095328))
     My top two picks for CPO & Silicon Photonics:
     
     1. $SOI is up 7.05% 
@@ -299,7 +301,7 @@ Auto-extracted from Serenity's timeline:
     
     Markets really seem to like my higher conviction individual photonic names.
 
-13. **2026-03-16** (❤️ 362 | 🔁 32)
+13. **2026-03-16** (❤️ 362 | 🔁 32 | ID: `2033512244244529396` | [X.com Post](https://x.com/aleabitoreddit/status/2033512244244529396))
     It’s been 5 days.
     
     My Soitec &lt; $SOI &gt; substrate pick for silicon photonics and CPO is now up over +44.3%.
@@ -308,7 +310,7 @@ Auto-extracted from Serenity's timeline:
     
     Soitec is now up another 7.03% today.
 
-14. **2026-03-15** (❤️ 1106 | 🔁 20)
+14. **2026-03-15** (❤️ 1106 | 🔁 20 | ID: `2033002597955903862` | [X.com Post](https://x.com/aleabitoreddit/status/2033002597955903862))
     Just a reflection on my accomplishments this year. 
     
     Growing to 100K+ followers in the first three months of 2026:
@@ -347,7 +349,7 @@ Auto-extracted from Serenity's timeline:
     
     Excited to see what's to come in the future and I'm happy X gave me this opportunity to share my thoughts.
 
-15. **2026-03-14** (❤️ 694 | 🔁 22)
+15. **2026-03-14** (❤️ 694 | 🔁 22 | ID: `2032697006586786139` | [X.com Post](https://x.com/aleabitoreddit/status/2032697006586786139))
     Don't think any "Analyst" from Citi or Kepler should be surprised why $SOI:
     
     A 1X book CPO/Silicon Photonics Substrate virtual monopoly (now ~1.4).

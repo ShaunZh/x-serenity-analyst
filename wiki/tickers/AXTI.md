@@ -93,9 +93,27 @@ Auto-extracted from Serenity's timeline:
 > I think I'm one of the few who actually understands the nuances with photonics, since I did call out $LITE, $TSEM, Innolight, $AXTI, $AAOI, $SOI, that outperformed both photonics markets and overall markets over the past year. 
 > 
 > And now I'm long on $SIVE.
+> 
+> — *Source Tweet ID: `2058374522353672558` ([X.com Post](https://x.com/aleabitoreddit/status/2058374522353672558))*
 
 ## 📜 Historical Timeline (Reverse Chronological)
-1. **2026-05-25** (❤️ 545 | 🔁 69)
+1. **2026-05-25** (❤️ 664 | 🔁 10 | ID: `2058839070122688829` | [X.com Post](https://x.com/aleabitoreddit/status/2058839070122688829))
+    I think I deserve my own Netflix special after $AXTI and $SIVE?
+
+2. **2026-05-25** (❤️ 1054 | 🔁 62 | ID: `2058812818430836745` | [X.com Post](https://x.com/aleabitoreddit/status/2058812818430836745))
+    Did you listen anon?
+    
+    $SIVE is extremely early. 
+    
+    And we’re about to see a ton of institutional inflow (Blackrock, Vanguard, MSCI, NASDAQ) next week for the first time.
+    
+    Then, couple that with NASDAQ listing soon, with even more US institutions  entering.
+    
+    This is what it’s like to be in a name like $AXTI or $LITE at the very beginning.
+    
+    And this is still at a point before major institutional capital hit the float or CPO supercycle has ramped.
+
+3. **2026-05-25** (❤️ 1093 | 🔁 137 | ID: `2058764325326856414` | [X.com Post](https://x.com/aleabitoreddit/status/2058764325326856414))
     几个值得重点关注的“实质性垄断”标的:
     
     - MSSCORP (6830)：在检测和 CPO 良率把控上构筑了极深的专利护城河。 
@@ -109,7 +127,7 @@ Auto-extracted from Serenity's timeline:
     
     相比之下，个人认为 $HIMX (奇景光电) 或 Foci (上诠) 未来面临被踢出局 (design out) 的风险最大，很有可能会被台积电的光学部门采钰 (Visera 6789) 这类巨头直接垂直整合。不过话说回来，在未来两三年内，借助 CPO 相关的光纤阵列 (FAU) 和无源器件，他们眼前依然有 波巨大的赚钱机遇
 
-2. **2026-05-24** (❤️ 2063 | 🔁 229)
+4. **2026-05-24** (❤️ 2063 | 🔁 229 | ID: `2058618801554604040` | [X.com Post](https://x.com/aleabitoreddit/status/2058618801554604040))
     AI capex spend is expected to go to "$3 to $4 trillion annually" by 2030 from $NVDA Jensen Huang projections. 
     
     You're not bullish enough. 
@@ -132,7 +150,7 @@ Auto-extracted from Serenity's timeline:
     
     We're witnessing the next industrial revolution with Artificial Intelligence + Physical AI.
 
-3. **2026-05-24** (❤️ 2643 | 🔁 208)
+5. **2026-05-24** (❤️ 2643 | 🔁 208 | ID: `2058374522353672558` | [X.com Post](https://x.com/aleabitoreddit/status/2058374522353672558))
     Photonics is nuanced and using ChatGPT/Gemini makes you miss all of it: 
     
     1. $SIVE is actually a chokepoint and partially a bottleneck. 
@@ -219,7 +237,7 @@ Auto-extracted from Serenity's timeline:
     
     And now I'm long on $SIVE.
 
-4. **2026-05-23** (❤️ 4523 | 🔁 277)
+6. **2026-05-23** (❤️ 4523 | 🔁 277 | ID: `2058230354063102028` | [X.com Post](https://x.com/aleabitoreddit/status/2058230354063102028))
     I don't post dollar amounts because they don't matter. 
     
     What matters is return %. Speaking of that... 
@@ -274,7 +292,7 @@ Auto-extracted from Serenity's timeline:
     > [!TIP] **中文译文**
     > 我不公布具体资金金额，因为那并不重要。重要的是收益率。说到这……今年以来收益率（YTD）为 +3840.39%。我可能是世界上唯一一个在极短时间内连续发掘出多个涨幅达 10 倍标的的人。还记得这些投资逻辑吗，朋友们？1. [[AXTI]] 2. [[SIVE]] 3. [[AAOI]] 4. LITE 5. [[IQE]] 6. AEHR 7. CRCL 8. EWY 9. 欣兴电子 (Unimicron) 10. 日东纺 (Nitto Boseki) 11. OSS 12. GDRZF 13. RPI 14. [[SOI]] 15. ALRIB 16. SNDK 17. SIMO 18. [[VPG]] 19. [[TSEM]] 20. ARM 21. MRVL 22. INTC 23. [[LPK]] 24. [[NBIS]] 25. [[MU]]。它们全部上涨了 100% 到 1000%+，因为：1. 我发布逻辑；2. 大家可以看到几个月后股票的实际表现；3. 逻辑最终被市场验证。我真的很反感传统的 X 博主炫耀大额账单、名表或私家飞机来卖高价课，而不是靠市场真实的投资回报。所以我试图通过免费发帖进行信息挖掘和深度整合，以百分比收益来引领新趋势。简而言之：百分比回报是验证投资逻辑的唯一标准，而不是赚了多少美元。
 
-5. **2026-05-23** (❤️ 1896 | 🔁 75)
+7. **2026-05-23** (❤️ 1896 | 🔁 75 | ID: `2058002991886844357` | [X.com Post](https://x.com/aleabitoreddit/status/2058002991886844357))
     5 months ago. I gave a PT of $150 with $AXTI.
     
     Over 10x that current values from a $500M MC.
@@ -285,7 +303,7 @@ Auto-extracted from Serenity's timeline:
     
     And that I’m pretty good at guessing intrinsic valuations of companies.
 
-6. **2026-05-22** (❤️ 861 | 🔁 20)
+8. **2026-05-22** (❤️ 861 | 🔁 20 | ID: `2057689020390580234` | [X.com Post](https://x.com/aleabitoreddit/status/2057689020390580234))
     ??? $RDDT is literally lower IQ than $IREN investors? 
     
     I didn't do all this research on $AXTI ... 
@@ -294,12 +312,12 @@ Auto-extracted from Serenity's timeline:
     
     The lack of technical literacy is exactly why I got banned from there.
 
-7. **2026-05-21** (❤️ 1608 | 🔁 69)
+9. **2026-05-21** (❤️ 1608 | 🔁 69 | ID: `2057518759968190581` | [X.com Post](https://x.com/aleabitoreddit/status/2057518759968190581))
     People are really out there saying, don’t doubt me off 10% returns.
     
     I present to you: $AXTI
 
-8. **2026-05-18** (❤️ 1612 | 🔁 128)
+10. **2026-05-18** (❤️ 1612 | 🔁 128 | ID: `2056244818125418979` | [X.com Post](https://x.com/aleabitoreddit/status/2056244818125418979))
     Next year… I’m expecting there to be many articles about FAU + component bottlenecks.
     
     Especially as the new CPO architecture led by $NVDA + $TSM starts to scale.
@@ -312,7 +330,7 @@ Auto-extracted from Serenity's timeline:
     
     We’ll see if this is right.
 
-9. **2026-05-17** (❤️ 1504 | 🔁 64)
+11. **2026-05-17** (❤️ 1504 | 🔁 64 | ID: `2056157639760126294` | [X.com Post](https://x.com/aleabitoreddit/status/2056157639760126294))
     I literally called out a national vulnerability in the AI supply chain.
     
     Then went long on the quasi-monopoly in $AXTI. 
@@ -321,7 +339,7 @@ Auto-extracted from Serenity's timeline:
     
     Guess what anon: it’s on the White House shortage list and one of the major talking points of US-China trade talks 6M later.
 
-10. **2026-05-15** (❤️ 4831 | 🔁 277)
+12. **2026-05-15** (❤️ 4831 | 🔁 277 | ID: `2055401446397690311` | [X.com Post](https://x.com/aleabitoreddit/status/2055401446397690311))
     Leopold Aschenbrenner is a legend, but I'm not quite sure he can beat 3152.77% YTD in the Serenity Awareness fund. 
     
     That being said, I've hit 23 different longs this year with 100-1000%+ YTD.
@@ -352,7 +370,7 @@ Auto-extracted from Serenity's timeline:
     
     Do you remember all of these anon?
 
-11. **2026-05-15** (❤️ 780 | 🔁 43)
+13. **2026-05-15** (❤️ 780 | 🔁 43 | ID: `2055382936489496667` | [X.com Post](https://x.com/aleabitoreddit/status/2055382936489496667))
     This $AXTI / InP substrate export controls is EXACTLY why:
     
     Trump's America 1st policies should focus around securing its supply chains over in EU/Japan/KR.
@@ -369,7 +387,7 @@ Auto-extracted from Serenity's timeline:
     
     Not just threaten 40% tariffs to stop them from shipping cheap goods.
 
-12. **2026-05-15** (❤️ 883 | 🔁 59)
+14. **2026-05-15** (❤️ 883 | 🔁 59 | ID: `2055379668195561657` | [X.com Post](https://x.com/aleabitoreddit/status/2055379668195561657))
     LOL chat no way... Can't believe $AXTI / InP substrates really a major part of the China-US Donald Trump's trade talks with Xi?
     
     I got this thesis completely right.
@@ -378,7 +396,7 @@ Auto-extracted from Serenity's timeline:
     
     And US should pressure EU to take back their their photonic monopolies like ficonTEC that Chinese companies like Robotechnik managed to buy.
 
-13. **2026-05-13** (❤️ 1807 | 🔁 129)
+15. **2026-05-13** (❤️ 1807 | 🔁 129 | ID: `2054412992000012555` | [X.com Post](https://x.com/aleabitoreddit/status/2054412992000012555))
     People wonder why I'm focusing on non-US markets recently.  
     
     Why? CPO is my #1 thematic long. 
@@ -414,45 +432,3 @@ Auto-extracted from Serenity's timeline:
     Markets usually price things in 8-12 months ahead of time too... 
     
     I have high conviction thematically in my supply chain research despite any market volatility leading up until then.
-
-14. **2026-05-12** (❤️ 1877 | 🔁 160)
-    Random CPO related names I like:
-    
-    - $SIVE
-    - Foci (3363)
-    - $TSEM
-    - Browave (3163)
-    - PCL (4977)
-    - $AXTI
-    - Msscorps (6830)
-    - $IQE
-    - Shunsin (6451)
-    - Furukawa Electric (5801)
-    - $MTSI
-    - Nextronics (8417)
-    - $LITE
-    - $COHR
-    - FitTech (6706)
-    - $GFS
-    - $ASX
-    - LandMark (3081)
-    - $SOI
-    
-    Disclosure: I own most, not all though.
-
-15. **2026-05-10** (❤️ 1176 | 🔁 70)
-    Did you remember my $AXTI InP substrate bottleneck call last year anon?
-    
-    IntelliEPI CEO (Q1 2026 ER): 
-    
-    "The InP substrate shortage is a bottleneck for the entire AI infrastructure"
-    
-    Digitimes: "Taiwan's IntelliEPI warns of severe indium phosphide supply shortage"
-    
-    I said as photonics ramps: There was going to be a major InP bottleneck as all the next-gen AI architectures go optical.
-    
-    This was most goated call with AXT as the upstream chokepoint.
-    
-    I'm usually a few months ahead of time, but they play out directionally. 
-    
-    While I'm sitting in existing bottlenecks up 1800%+, I'm long CPO as the next major supercycle.

@@ -202,7 +202,8 @@ def compile_wiki():
             # Take the longest tweet as a proxy for the thesis post, or fallback to the latest
             thesis_tweet = max(matched, key=lambda tw: len(tw["text"]))
             cleaned_thesis = clean_text(thesis_tweet["text"]).replace("\n", "\n> ")
-            content.append(f"> [!NOTE]\n> {cleaned_thesis}")
+            thesis_id = thesis_tweet["id"]
+            content.append(f"> [!NOTE]\n> {cleaned_thesis}\n> \n> — *Source Tweet ID: `{thesis_id}` ([X.com Post](https://x.com/aleabitoreddit/status/{thesis_id}))*")
         else:
             content.append("> No direct analytical thesis scraped yet.")
         content.append("")
@@ -213,7 +214,7 @@ def compile_wiki():
                 cleaned = clean_text(tweet["text"]).replace("\n", "\n    ")
                 dt_str = tweet["created_at"][:10]
                 tweet_id = tweet["id"]
-                content.append(f"{idx}. **{dt_str}** (❤️ {tweet['favorite_count']} | 🔁 {tweet['retweet_count']})")
+                content.append(f"{idx}. **{dt_str}** (❤️ {tweet['favorite_count']} | 🔁 {tweet['retweet_count']} | ID: `{tweet_id}` | [X.com Post](https://x.com/aleabitoreddit/status/{tweet_id}))")
                 content.append(f"    {cleaned}")
                 # Check for cached translation
                 if str(tweet_id) in trans_cache:
@@ -257,7 +258,7 @@ def compile_wiki():
                 cleaned = clean_text(tweet["text"]).replace("\n", "\n    ")
                 dt_str = tweet["created_at"][:10]
                 tweet_id = tweet["id"]
-                content.append(f"{idx}. **{dt_str}**")
+                content.append(f"{idx}. **{dt_str}** (ID: `{tweet_id}` | [X.com Post](https://x.com/aleabitoreddit/status/{tweet_id}))")
                 content.append(f"    {cleaned}")
                 # Check for cached translation
                 if str(tweet_id) in trans_cache:

@@ -95,3 +95,24 @@ wiki/
     *   执行完整编译，检查 `wiki/monthly/2026-05.md` 是否正确建立，是否包含中英排版，且中文译文中包含 `[[Obsidian]]` 双向引用。
 4.  **导航验证**：
     *   查看 `wiki/index.md`，验证月份导航条是否挂载成功。
+
+---
+
+## 📅 Phase 2.1: 个股与概念卡片双语推文 ID 与链接集成 (ID & X Link Integration)
+
+### 🎯 目标描述
+为了让用户在浏览 `wiki/tickers/` 和 `wiki/concepts/` 的研究笔记时，能够对高价值但尚未翻译的推文进行“一键精准翻译”，我们将在所有个股与概念卡片涉及的推文旁，明文展示其唯一的 Tweet ID 并提供跳转链接。
+
+### 🛠️ 变更内容
+
+#### [MODIFY] [compile_wiki.py](file:///Users/zhangjie/MyWorkspace/x-serenity-analyst/.claude/skills/x-analyst/compile_wiki.py)
+*   **个股 Thesis 模块**：在 `## 💡 Core Investment Thesis` 的引用块下方，追加 `— *来源推文 ID: `2058343691996282903` ([X.com 原帖链接](https://x.com/...))*` 的元数据标示。
+*   **个股 Timeline 模块**：将 `1. **2026-05-20** (❤️ 120 | 🔁 15)` 升级为 `1. **2026-05-20** (❤️ 120 | 🔁 15 | ID: `2058343691996282903` | [X.com 原帖链接](https://x.com/...))`。
+*   **行业概念 Quotes 模块**：将 `1. **2026-05-20**` 升级为 `1. **2026-05-20** (ID: `2058343691996282903` | [X.com 原帖链接](https://x.com/...))`。
+
+### 🎯 验证计划
+1.  **代码修改验证**：修改 `compile_wiki.py` 并运行 `python3 .claude/skills/x-analyst/compile_wiki.py`。
+2.  **生成结果核对**：
+    *   检查任意个股研究文件（如 `wiki/tickers/SIVE.md`），验证 Thesis 和 Historical Timeline 列表中是否已包含 ID 反引号标注与 X.com 链接。
+    *   检查任意概念文件（如 `wiki/concepts/CPO.md`），验证 Quotes 列表中是否已包含 ID 反引号与 X.com 链接。
+
