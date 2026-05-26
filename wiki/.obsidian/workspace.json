@@ -64,9 +64,22 @@
               "icon": "lucide-file",
               "title": "Advanced Packaging"
             }
+          },
+          {
+            "id": "995e1472f0ec5c04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tickers/AAOI.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AAOI"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,13 +242,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "f2b92ae46868c81b",
+  "active": "2351047871485d58",
   "lastOpenFiles": [
     "tickers/AAOI.md",
-    "reports/Report-2026-05-25-Serenity-Analyst-Wiki.md",
     "monthly/2025-11.md",
     "concepts/CPO.md",
     "concepts/Advanced Packaging.md",
+    "reports/Report-2026-05-25-Serenity-Analyst-Wiki.md",
     "tickers/LPK.md",
     "Untitled 1.base",
     "Untitled.base",
