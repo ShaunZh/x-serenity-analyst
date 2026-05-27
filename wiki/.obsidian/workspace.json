@@ -64,8 +64,23 @@
               "icon": "lucide-file",
               "title": "Silicon Photonics"
             }
+          },
+          {
+            "id": "6cb9ed2dfef0df53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tickers/AAOI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AAOI"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,9 +243,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "2351047871485d58",
+  "active": "6cb9ed2dfef0df53",
   "lastOpenFiles": [
     "concepts/Silicon Photonics.md",
+    "tickers/AAOI.md",
     "tickers/SOI.md",
     "tickers/SIVE.md",
     "concepts/Advanced Packaging.md",
@@ -249,7 +265,6 @@
     "tickers/FOCI.md",
     "tickers/AXTI.md",
     "tickers/AEVA.md",
-    "tickers/AAOI.md",
     "concepts/Physical AI.md",
     "concepts/InP Substrates.md",
     "concepts/Glass Substrates.md",
