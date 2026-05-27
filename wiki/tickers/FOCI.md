@@ -97,6 +97,97 @@ Auto-extracted from Serenity's timeline:
 > 
 > — *Source Tweet ID: `2038777289115345200` ([X.com Post](https://x.com/aleabitoreddit/status/2038777289115345200))*
 
+> [!TIP] **中文译文**
+> 来自未来资产 (Mirae Asset) 的 **[[CPO]] 价值链全景总结**：
+> 
+> ---
+> 
+> **激光源 (Laser Source):**
+> - Coherent ($COHR)
+> - Lumentum ($LITE)
+> - 古河电工 Furukawa Electric (TYO: 5801)
+> - 源杰半导体 Yuanjie Semiconductor (SHA: 688498)
+> - 中际旭创 / 中际联合 Innolight Technology (SZSE: 300308)
+> 
+> **PIC 光子集成电路代工 (PIC Foundry):**
+> - 台积电 TSMC ($TSM)
+> - 格芯 GlobalFoundries ($GFS)
+> - 三星电子 Samsung Electronics (KRX: 005930)
+> - 高塔半导体 Tower Semiconductor ([[TSEM]])
+> 
+> **EIC 电子集成电路 / 驱动 IC (EIC, Driver IC):**
+> - 博通 Broadcom ($AVGO)
+> - 美满电子 Marvell ($MRVL)
+> - 英伟达 NVIDIA ($NVDA)
+> 
+> **ELS 外部激光源 / 光学引擎 (ELS, Optical Engine):**
+> - 中际旭创 Innolight (SZSE: 300308)
+> - 天孚通信 TFC / Suzhou TFC Optical Communication (SZSE: 300394)
+> - 昂纳科技 O-Net Technologies
+> - 新易盛 Eoptolink Technology (SZSE: 300502)
+> 
+> **FAU 光纤阵列单元 (Fiber Array Unit):**
+> - Senko Advanced Components (未上市)
+> - 住友电工 Sumitomo Electric (TYO: 5802)
+> - 天孚通信 TFC (SZSE: 300394)
+> - 波若威 [[FOCI]] Fiber Optic Communications (TWO: 3363)
+> 
+> **FAU 对准设备 (FAU, Align Tools):**
+> - ficonTEC (未上市)
+> - 万润科技 All Ring Tech (TWO: 6187)
+> - ADST (未上市)
+> 
+> **FAU / 引擎组装 (FAU, Engine Assembly):**
+> - Fabrinet ($FN)
+> - 鸿海 / 富士康 Foxconn (TWSE: 2317)
+> - 日月光 ASE Technology ($ASX)
+> - 波若威 [[FOCI]] (TWO: 3363)
+> 
+> **OSAT 外包封测 / 先进封装 (OSAT, [[Advanced Packaging]]):**
+> - 日月光 ASE Technology ($ASX)
+> - 安靠 Amkor ($AMKR)
+> - 京瓷 Kyocera (TYO: 6971)
+> - 力成科技 Powertech / PTI (TWSE: 6239)
+> - 新光电气 Shinko Electric (TYO: 6967)
+> - Fabrinet ($FN)
+> 
+> **连接器 / 插芯 (Connector, Ferrule):**
+> - Senko Advanced Components (未上市)
+> - 住友电工 Sumitomo Electric (TYO: 5802)
+> - US Conec (未上市)
+> - T&S Communications (SZSE: 300570)
+> - 莫仕 Molex (未上市)
+> - 光环科技 Browave (TWO: 3163)
+> 
+> **光纤 (Fiber):**
+> - 康宁 Corning ($GLW)
+> - 住友电工 Sumitomo Electric (TYO: 5802)
+> - 日东纺 Nitto Boseki (TYO: 3110)
+> 
+> **E/O 测试 (E/O Testing):**
+> - 是德科技 Keysight ($KEYS)
+> - 泰瑞达 Teradyne ($TER)
+> - FormFactor ($FORM)
+> - 致茂电子 Chroma ATE (TWSE: 2360)
+> - Multilane (未上市)
+> 
+> **交换机 / 系统 (Switch, System):**
+> - 英伟达 NVIDIA ($NVDA)
+> - 博通 Broadcom ($AVGO)
+> - 美满电子 Marvell ($MRVL)
+> - 谷歌 Google ($GOOGL)
+> 
+> **EDA 设计自动化 (EDA):**
+> - 新思科技 Synopsys ($SNPS)
+> - 楷登电子 Cadence ($CDNS)
+> - 安斯科技 Ansys ($ANSS)
+> 
+> ---
+> 
+> **作者点评**：这份列表中的一些归类让我有点困惑——他们可能混淆了几个名字，比如把中际旭创 (Innolight) 划入激光源品类，而实际上这应该是 $MTSI（MACOM）、住友 (Sumitomo)、[[SIVE]]、Luxnet（华星光通）这些公司的领域。成品光模块和激光源本身是两个不同的层级（除非有什么未公开的信息或我遗漏了什么？）。
+> 
+> 不过话说回来，对于想要了解 [[CPO]] 产业全局的朋友来说，这是一份非常好的**高水平全景鸟瞰图**。
+
 ## 📜 Historical Timeline (Reverse Chronological)
 1. **2026-05-25** (❤️ 1093 | 🔁 137 | ID: `2058764325326856414` | [X.com Post](https://x.com/aleabitoreddit/status/2058764325326856414))
     几个值得重点关注的“实质性垄断”标的:

@@ -204,6 +204,9 @@ def compile_wiki():
             cleaned_thesis = clean_text(thesis_tweet["text"]).replace("\n", "\n> ")
             thesis_id = thesis_tweet["id"]
             content.append(f"> [!NOTE]\n> {cleaned_thesis}\n> \n> — *Source Tweet ID: `{thesis_id}` ([X.com Post](https://x.com/aleabitoreddit/status/{thesis_id}))*")
+            if str(thesis_id) in trans_cache:
+                zh_thesis = trans_cache[str(thesis_id)]["zh"].replace("\n", "\n> ")
+                content.append(f"\n> [!TIP] **中文译文**\n> {zh_thesis}")
         else:
             content.append("> No direct analytical thesis scraped yet.")
         content.append("")
