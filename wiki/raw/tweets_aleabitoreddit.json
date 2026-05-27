@@ -2,34 +2,216 @@
   "meta": {
     "username": "aleabitoreddit",
     "user_id": "1940360837547565056",
-    "scraped_at": "2026-05-25T09:50:59.828252+00:00",
-    "total_tweets": 856,
+    "scraped_at": "2026-05-27T02:52:43.951465+00:00",
+    "total_tweets": 885,
     "date_range": {
       "from": "2025-01-01",
-      "to": "2026-05-25"
+      "to": "2026-05-27"
     }
   },
   "tweets": [
     {
+      "id": "2059460622895751387",
+      "text": "There’s one very compelling name someone called out.\n\nThat I ended up taking positions in for power semi exposure. \n\nHeavily tied to $NVDA but not directly mentioned like $NVTS.\n\nCan anyone guess?",
+      "created_at": "2026-05-27T02:24:10+00:00",
+      "retweet_count": 10,
+      "favorite_count": 289
+    },
+    {
+      "id": "2059436642532991450",
+      "text": "These titles keep getting more and more ridiculous lol https://t.co/f8t0ApHJPu",
+      "created_at": "2026-05-27T00:48:52+00:00",
+      "retweet_count": 17,
+      "favorite_count": 867
+    },
+    {
+      "id": "2059321059812483077",
+      "text": "And now… $MU finally hits a $1 Trillion marketcap.\n\nI did say this looks like the next $NVDA given how memory demand looks structural with AI.\n\nThis stock probably made a lot of millionaires going from $80 to $887. https://t.co/5VFdvcuu2c",
+      "created_at": "2026-05-26T17:09:35+00:00",
+      "retweet_count": 90,
+      "favorite_count": 1776
+    },
+    {
+      "id": "2059306154787062194",
+      "text": "This timeline of getting banned on $RDDT WSB for posting about $AXTI.\n\nThat stock going up thousands of percent.\n\nThen becoming the #1 most subscribed to person on X feels kinda like a Naruto redemption arc to become hokage.\n\nOnly 12k more to go. https://t.co/J8DNEbYXpl",
+      "created_at": "2026-05-26T16:10:22+00:00",
+      "retweet_count": 32,
+      "favorite_count": 1796
+    },
+    {
+      "id": "2059292099728859430",
+      "text": "YTD: 4502.45%. https://t.co/rF2ACQDu8w",
+      "created_at": "2026-05-26T15:14:31+00:00",
+      "retweet_count": 71,
+      "favorite_count": 3674
+    },
+    {
+      "id": "2059280575203328398",
+      "text": "Well $VPG ended up tripling since my thesis post.\n\nI got the ASP wrong in my original thesis, was $150 mass production rather than ~$750 midpoint quoted by management.\n\nAnd $TSLA design out risk made me cut concentration.\n\nBut 3x regardless not too shabby. https://t.co/ksB8ZrnnEg",
+      "created_at": "2026-05-26T14:28:43+00:00",
+      "retweet_count": 35,
+      "favorite_count": 603
+    },
+    {
+      "id": "2059278507046514902",
+      "text": "Swedens transferring control of $SIVE to the West + other countries… \n\nIs honestly fun to watch in the charts. https://t.co/zNfWatAm4S",
+      "created_at": "2026-05-26T14:20:30+00:00",
+      "retweet_count": 62,
+      "favorite_count": 1245
+    },
+    {
+      "id": "2059275538007835018",
+      "text": "How did my $NVTS position double already lol?\n\nThat aside, I did see a very compelling long out of the list of crowdsourced recs earlier for 800 vdc. \n\nDoing more research now! https://t.co/Su65NuYjLW",
+      "created_at": "2026-05-26T14:08:42+00:00",
+      "retweet_count": 44,
+      "favorite_count": 1037
+    },
+    {
+      "id": "2059242587354169403",
+      "text": "$SIVE is the most compelling CPO exposure stock to me. \n\nDespite the volatility.\n\nYou probably won’t find something like this again until the next architectural shift in photonics years later.\n\nOut of the core laser suppliers, they’re all tens of billions?\n\n$AAOI = $15B\nFurukawa = $26B\n$MTSI = $29B\nSumitomo = $59B\n$COHR = $73B\n$LITE = $74B\n\nThen there’s $SIVE as one of the core CPO laser chokepoints at $2.3B MC.\n\nEarnings are usually confirmation of all the little volume ramp hints like Jabil fireside transcripts for 1.6T LRO.\n\nAnd most returns are typically made before, not after official confirmation is just a rule of thumb.",
+      "created_at": "2026-05-26T11:57:46+00:00",
+      "retweet_count": 124,
+      "favorite_count": 1626
+    },
+    {
+      "id": "2059213869101588527",
+      "text": "リサーチの90%はお風呂の中でやってるから、「シャワーソート（シャワー中のひらめき）」って言ってるんだよね。\n\n日本でのハーモニック・ドライブ（6324）のリサーチは順調に進んでるよ。\n\n結論として、温泉と大トロは10点満点中10点だね。 https://t.co/eSce82erlP",
+      "created_at": "2026-05-26T10:03:39+00:00",
+      "retweet_count": 48,
+      "favorite_count": 2193
+    },
+    {
+      "id": "2059161353064169622",
+      "text": "@aleabitoreddit Do more shower bro 🫡🫡🫡",
+      "created_at": "2026-05-26T06:34:58+00:00",
+      "retweet_count": 0,
+      "favorite_count": 24
+    },
+    {
+      "id": "2059160943506883010",
+      "text": "@aleabitoreddit I wanna add to my $SIVE position, is it worth waiting till after earnings?",
+      "created_at": "2026-05-26T06:33:20+00:00",
+      "retweet_count": 0,
+      "favorite_count": 4
+    },
+    {
+      "id": "2059160035117216106",
+      "text": "$EWY calls are now up 300%+, over 4x return if you listened anon?\n\nNot only did IV increase and hold their implied volatility of the South Korean market.\n\nUnderlying memory longs in SK Hynix and Samsung keep printing. \n\nDuring that time, all your influencers kept bear posting “Oil + LNG” fears as well as “Kospi bubble” chants.",
+      "created_at": "2026-05-26T06:29:44+00:00",
+      "retweet_count": 43,
+      "favorite_count": 892
+    },
+    {
+      "id": "2059079948980363774",
+      "text": "Win Semi (3105) is almost never mentioned in photonics analyst reports. \n\nBut they’ll probably show up as an important bottleneck for scaling lasers next year.\n\nGlad to see Shunsin (6451) start picking up steam from my TW longs.\n\nFoci (3363), MSSCorp (6830) should start getting some attention too imo after Computex / $NVDA conference next month.\n\nNextronics (8147), I personally kinda expect to 3x down the road.. once disposition is over.\n\n5 of my favorite CPO exposure longs over in Taiwan, especially at current prices.",
+      "created_at": "2026-05-26T01:11:30+00:00",
+      "retweet_count": 78,
+      "favorite_count": 1312
+    },
+    {
+      "id": "2059073941734662551",
+      "text": "确实如此！如果你不能将整个光通信产业链脱口而出，从上游的InP（磷化铟）衬底，\n\n路向下游直到光模块成品制造商…\n\n那说明你读我写的东西还不够多。\n\n不过，很高兴看到我关于 $SOI 或 $AAOI 的许多观点，能帮助大家建立起属于自己的投资信念与逻辑。",
+      "created_at": "2026-05-26T00:47:38+00:00",
+      "retweet_count": 67,
+      "favorite_count": 1447
+    },
+    {
+      "id": "2059057639238365336",
+      "text": "$JBL literally announced in their fireside chat… \n\nMass production of their 1.6T LRO with excessive demand in 3-10 months.\n\n$SIVE is likely sole source laser supplier for this specific optical transceiver. \n\nAyar raised $500M for volume ramp recently, and $SIVE is the primary / sole source laser supplier.\n\n2025 annual report, $SIVE signaled start of volume ramp with both (likely) $AEVA and $POET. \n\nThis is how you do supply chain mapping on qualification cycles. \n\nAnything they make, Sivers makes revenue off lasers. \n\nIf you ask AI they will keep confidently citing 2024 revenue numbers without knowing volume hints.\n\nWhich is why I keep seeing these false claims like this over and over, despite Sivers being on the precipice of mass production for 2027.",
+      "created_at": "2026-05-25T23:42:51+00:00",
+      "retweet_count": 68,
+      "favorite_count": 1027
+    },
+    {
+      "id": "2059051192634990984",
+      "text": "What’s with the influx of art history college grads in media:\n\nComing in with 100% certainty: \n\nWith their opinion of CW laser nuances and valuation analysis on InP substrate/crucible processing moats?\n\nBackground genuinely don’t matter if you know your stuff. But if you don’t, sometimes you get curious?\n\nIt’s funny to see their confidence scaling proportionally to what liquidity institutions need.",
+      "created_at": "2026-05-25T23:17:14+00:00",
+      "retweet_count": 12,
+      "favorite_count": 598
+    },
+    {
+      "id": "2058968617681899915",
+      "text": "I’m fully convinced the Stock Market secretly revolves around building the Death Star and Battle Droids:\n\n$RKLB / $SPCX / $PL = Death Star\n\n$LASR / $SIVE = Laser Beams\n\n$TSLA / Unitree = Battle Droids https://t.co/C53qKjWrS8",
+      "created_at": "2026-05-25T17:49:06+00:00",
+      "retweet_count": 162,
+      "favorite_count": 2439
+    },
+    {
+      "id": "2058943283234316632",
+      "text": "$RPI, close to ~3x returns. \n\nOff the media branded \"Meme Stock\". \n\nI think after retail saw institutions bear post my thesis posts. \n\nThen ended up paper handing $AXTI, then $RPI,  then $IQE, then $EWY, then $SNDK, then $AAOI, then $SOI.\n\nAnd them watch them all go up 3x-15x+ after institutions bought up the float. \n\nRetail finally learned not to trust them with anymore with names like $SIVE?",
+      "created_at": "2026-05-25T16:08:26+00:00",
+      "retweet_count": 56,
+      "favorite_count": 889
+    },
+    {
+      "id": "2058938658045239481",
+      "text": "Eh... I had higher hopes so far with $IQE than 3x+.\n\nThere's still time though. https://t.co/cK08L6yvm3",
+      "created_at": "2026-05-25T15:50:03+00:00",
+      "retweet_count": 50,
+      "favorite_count": 969
+    },
+    {
+      "id": "2058885150973612200",
+      "text": "三个月时间我的 IBKR 账户收益率快接近翻倍了。\n\n一个多月之前我关注了 @aleabitoreddit，顺着他的推文思路，我花了几十个小时时间，研究了整个光互连光通信产业链。\n\n整个过程收获实在是太多了：\n\n- 了解学习了光模块、外延、衬底、硅光芯片、CPO、激光器这些新知识，享受学习投研的乐趣。\n\n- 把学到的东西对外输出，做了一期光通信产业链拆解视频，Youtube 播放量接近 20k，一期视频给我的新频道涨了 1.5k 订阅。\n\n- 在研究做好功课之后，小资金建仓了 SIVE/TSEM/COHR/AAOI/LITE 这些光通信标的，作为高风险激进持仓，虽然赚的不多，但已经很满意了。\n\n感谢股神 Serenity！",
+      "created_at": "2026-05-25T12:17:26+00:00",
+      "retweet_count": 88,
+      "favorite_count": 738
+    },
+    {
+      "id": "2058879435726836152",
+      "text": "$LPK turned out pretty well. https://t.co/mZlTyd4oUO",
+      "created_at": "2026-05-25T11:54:44+00:00",
+      "retweet_count": 55,
+      "favorite_count": 1007
+    },
+    {
+      "id": "2058874528449564708",
+      "text": "@aleabitoreddit Why haven’t there been contract announcements or an update of expansion etc?\nHow are you certain that revenue is due imminently?",
+      "created_at": "2026-05-25T11:35:14+00:00",
+      "retweet_count": 0,
+      "favorite_count": 4
+    },
+    {
+      "id": "2058868791438884870",
+      "text": "For people trying to do valuation analysis on $SIVE.\n\nAyar, Celestial, Lightmatter, Lightelligence are probably valued probably ~$4B-15B+ today. \n\nSivers is ~$2.6B MC and they're likely upstream laser for them all. \n\nI'm not even including Poet, TFLN links like Hyperlight/Lightium, or pluggables like Jabil + other undisclosed players in valuation analysis. \n\nOr their other segments like CHIPS Act contracts or Apple/Nokia relationships. \n\nOr humanoid/physical AI segments with Aeva + others.  \n\nRetail aren't as familiar with private markets... \n\nBut these companies are all considered the frontier CPO players, and are growing valuations/scaling rapidly. \n\nSo, I'd expect $SIVE to command similar if not higher valuations given laser chokepoint premiums. Especially after they pull off M&A to TAM expand revenue. \n\nNew Blackrock/Vanguard/MSCI/NASDAQ inflow next month helps close that gap over time. \n\nBut NASDAQ listing is probably what gives Sivers a premium.",
+      "created_at": "2026-05-25T11:12:26+00:00",
+      "retweet_count": 64,
+      "favorite_count": 1390
+    },
+    {
+      "id": "2058858971730256003",
+      "text": "Did you listen anon? https://t.co/q6miMwIUX7",
+      "created_at": "2026-05-25T10:33:25+00:00",
+      "retweet_count": 35,
+      "favorite_count": 1011
+    },
+    {
+      "id": "2058841257573486771",
+      "text": "@aleabitoreddit Is it still worth investing in Sive?",
+      "created_at": "2026-05-25T09:23:01+00:00",
+      "retweet_count": 0,
+      "favorite_count": 6
+    },
+    {
       "id": "2058839070122688829",
       "text": "I think I deserve my own Netflix special after $AXTI and $SIVE? https://t.co/WeD80ogRXg",
       "created_at": "2026-05-25T09:14:20+00:00",
-      "retweet_count": 10,
-      "favorite_count": 664
+      "retweet_count": 59,
+      "favorite_count": 2578
     },
     {
       "id": "2058823038364455404",
       "text": "我现在订阅数已经有32.5K啦！\n\n真的超级感谢大家！\n\n照这个速度下去，我简直不敢相信自己快要超过马斯克，变成X上订阅人数第的大佬了？！\n\n特别感谢中文圈小伙伴们最近的力挺。当然啦，也必须要感谢日韩圈的朋友们从开始就路支持我！ https://t.co/cpvb6KizDy",
       "created_at": "2026-05-25T08:10:38+00:00",
-      "retweet_count": 8,
-      "favorite_count": 1048
+      "retweet_count": 33,
+      "favorite_count": 2583
     },
     {
       "id": "2058812818430836745",
       "text": "Did you listen anon?\n\n$SIVE is extremely early. \n\nAnd we’re about to see a ton of institutional inflow (Blackrock, Vanguard, MSCI, NASDAQ) next week for the first time.\n\nThen, couple that with NASDAQ listing soon, with even more US institutions  entering.\n\nThis is what it’s like to be in a name like $AXTI or $LITE at the very beginning.\n\nAnd this is still at a point before major institutional capital hit the float or CPO supercycle has ramped.",
       "created_at": "2026-05-25T07:30:01+00:00",
-      "retweet_count": 62,
-      "favorite_count": 1054
+      "retweet_count": 149,
+      "favorite_count": 2396
     },
     {
       "id": "2058806097436455283",
@@ -84,8 +266,8 @@
       "id": "2058577885754163382",
       "text": "All right chat, crowdsourcing your #1 highest conviction (10x only) stock long for the Power Semi trade.\n\nEspecially given $NVDA pushing shift to 800 VDC. \n\nStuff like $NVTS or $WOLF, but high-beta, 10x potential only.  Anywhere around the world. \n\nWhat's your pick? https://t.co/Y10KR6HLVC",
       "created_at": "2026-05-24T15:56:29+00:00",
-      "retweet_count": 128,
-      "favorite_count": 1999
+      "retweet_count": 216,
+      "favorite_count": 2616
     },
     {
       "id": "2058527207145029854",
@@ -2660,8 +2842,8 @@
       "id": "2047019381637677061",
       "text": "$NVDA actively pushing to 800V, and today was a pretty big signal. \n\n\"On April 22, 2026, NVIDIA has initiated discussions with major South Korean power equipment companies to explore designing DC infra based on an approximately 800V direct current (DC) system\"\n\nPrevious named Nvidia partners include: Infineon, $TXN, $STM, $NVTS, Delta, Flex, $ETN, Schneider, and $VRT. \n\nIt's been known they're been pushing for this but... looks like Nvidia is really driving it. \n\nPersonally very small exposure to $NVTS since they're they have a high exposure for SiC/GaN ICs for 800V DCs. \n\nI know others really liked $VICR for exposure.",
       "created_at": "2026-04-22T18:27:07+00:00",
-      "retweet_count": 66,
-      "favorite_count": 863
+      "retweet_count": 68,
+      "favorite_count": 894
     },
     {
       "id": "2046918449168085183",
@@ -5656,8 +5838,8 @@
       "id": "2031648475310616604",
       "text": "Changed my mind about Soitec ( $SLOIF ) and took a sizable position ~43 for CPO exposure.\n\n$NVDA GTC next week biggest catalyst pushing photonics and this architecture. \n\n~1.5B euros MC. Trading at 1x book value and ~2x P/S (very depressed valuations)\n\nGenuine monopoly over substrates side for CPO (typically very premium valuations for photonics + even extra premium for monopoly status)\n\nAlgos and analysts might get confused over market share but it’s an actual monopoly over SOI substrates since they give licenses to other players like Shin Etsu for diversification sake eg. $TSM doesn’t like just 1. \n\nI don’t think institutions will wait until next year to frontrun these names like Soitec or $TSEM (and most probably haven’t even heard of these names like $AXTI yet)\n\nThis timing would be buying the likely bottom of the depressed smartphone cycle, while getting full upside of CPO mid-late 2027 + $NVDA GTC catalyst next week.\n\nI personally think it’s a 3x from here so I went long.",
       "created_at": "2026-03-11T08:28:37+00:00",
-      "retweet_count": 68,
-      "favorite_count": 878
+      "retweet_count": 70,
+      "favorite_count": 910
     },
     {
       "id": "2031632009618161879",
@@ -5887,8 +6069,8 @@
       "id": "2026647347237966298",
       "text": "Not exactly! I'm just a tad more familiar with photonic supply chains than I am with energy so I like picking potential winners.\n\nJust wanted to introduce $IQE into the equation like i did with $AXTI, so I could do a \"Did you Listen Anon?\" post 3 months later if it turns out well.",
       "created_at": "2026-02-25T13:15:55+00:00",
-      "retweet_count": 0,
-      "favorite_count": 85
+      "retweet_count": 1,
+      "favorite_count": 111
     },
     {
       "id": "2026638711941902461",
@@ -5908,22 +6090,29 @@
       "id": "2025956208138649924",
       "text": "This is S tier research I put out for free! \n\nAppreciate the shoutout from technical folks like @TheValueist who saw how awesome this trade idea was:\n\n-> mapped pass through structures of $EWY and SK Hynix/Samsung despite ETF rebalances\n\n-> found 2028 volatility pricing issues on option chains in specific by comparing it to realized IV. \n\n-> summarized that into an easy-to-understand thesis.\n\non top of directional long memory supercycle after breakdowns of Samsung/Sk Hynix projections. \n\nNot everyone can profit off of Jane Street algorithms and foresee South Korea citing increasing volatility across the board!",
       "created_at": "2026-02-23T15:29:35+00:00",
-      "retweet_count": 137,
-      "favorite_count": 1699
+      "retweet_count": 145,
+      "favorite_count": 1801
     },
     {
       "id": "2025951553543115239",
       "text": "This $EWY trade was stupid good. If you are an investor or trader on X, you simply must be following @aleabitoreddit . He understands macro, micro/company-level, and derivatives technicals, then puts it all together for you in one easily understandable package. A tremendous amount to learn from him.",
       "created_at": "2026-02-23T15:11:05+00:00",
-      "retweet_count": 7,
-      "favorite_count": 200
+      "retweet_count": 8,
+      "favorite_count": 205
     },
     {
       "id": "2023415224372756782",
       "text": "Fun Trade Idea: Long $RPI (Raspberry Pi) \n\nReason: 🦞 Openclaw / Picoclaw / Nanobot + Hoarding.\n\nEveryone has been openly hoarding Apple Mac Minis and were long Apple. \n\nBut $APPL is already a $3.7T+ company. Product mass-buying won't make a dent.\n\nRaspberry Pi, however, is a 542.68M company. \n\nThe revenue is material. \n\nFeels like markets haven't priced this in since I've seen almost 0 mentions about the ticker on X (but many product mentions). \n\nAnd it's only recently that have the hoarding started Raspberry Pis, as they're much cheaper than $500+ Apple products. They also have their mini $NVDA CUDA-light utility ecosystem that people use. \n\nSo it turns out these extremely cheap $20 or $200 devices are perfect for deploying mass deploying isolated instances.\n\nThe reason is for OpenClaw orchestration (so they don’t mess up your device) -> interfacing with a central LLM via API.\n\nBefore people were just buying 1 or 2 for hobby/education purposes, so revenue has slowing. \n\nBut now Silicon Valley startups and individuals anecdotally appear to be buying tens or hundreds of these things to run concurrent OpenClaw agentic swarms or do stuff like agentic marketing on Reddit and other places.\n\nAnd no, there are many applications that can't be done by spinning up AWS VPS, so people do it locally (there's TOS around automation/AI bots, so companies setup their own servers).\n\nThat being said main downside risk is that its\n\n- partially foundation owned, and they might not hike rates like $SNDK or $MU does, even if there's extreme demand\n\n- Subject to memory price hikes like LPDDR4 component\n\nso this is not a major position. \n\nHowever, going forward, revenue should increase due to people buying tens or hundreds of these things for running AI agents. \n\nBalance sheet also looks clean with low downside risk:\n\n- ~$280M - $300M revenue\n- ~$75M+ Gross Profit\n- ~25% Gross Margin\n- Net income: ~$10M - $15M\n- Net Cash: $28M\n\nAnalysts currently project revenue growth closer to 14–17%. \n\nBut if the demand influx continues, we might see revenue numbers might hit increase from 14% growth to a modest 48-55% if hoarding continues. \n\nConsumer segments are roughly 1/3rd of revenue but the newfound buying from Openclaw + variants is a new cataylst nevertheless for re-rating.\n\nEspecially now that Picoclaw and compressed OpenClaw variants are now able to be run on $20 Raspberry Pis instead of just the Raspberry Pi 5’s.\n\nBut seems like people just forgot Raspberry PI was a publicly stock as well. \n\nThe stock price is down 56% 1Y to 542.68M euro MC to an all time low. \n\nSo this might be that tailwind for a reversal. \n\nThere's also a non-zero chance OpenClaw is a long term catalyst for Raspberry Pi based, agentic deployments. \n\nTLDR: People are openly buying Raspberry Pis and Apple Mac Minis for Openclaw/Picoclaw, so revenue should benefit from increased demand.",
       "created_at": "2026-02-16T15:12:37+00:00",
-      "retweet_count": 58,
-      "favorite_count": 950
+      "retweet_count": 62,
+      "favorite_count": 974
+    },
+    {
+      "id": "2022283819374854167",
+      "text": "Trade idea that I published to my shower thoughts channel: \n\nKorean Index volatility arbitrage and taking advantage of Black-Scholes models. \n\n$EWY long options seem mispriced.\n\nThis is Blackrock's Korea Index, which is majority memory (Samsung Electronics, Sk Hynix).\n\nThe stock swings 2-5+% a day, and is up 136.25% 1Y, despite priced like a normal index IV.\n\nSamsung is volatile. SK Hynix is volatile (eg. 65% - 80% est). \n\nBut the combination of the two through the index is priced way less than both low beta $GOOGL (37.33%) and $AMZN (39.12%) at ~32% IV. \n\nI've been watching $EWY for a bit and it does look volatile. \n\nAs for pricing my guess is MMs priced in IV based on historical averages (5-10 years), where the Korean index was completely flat. And were expecting calls 2 years out to revert to the mean. \n\nBut this volatility should be the new norm as markets price in the new memory supercycle (eg. $TSM went from 30% IV to 46.2% IV). \n\nLong calls should benefit from both Samsung + Sk Hynix carrying the index. \n\nAnd the main benefit is vega expansion that you won't get from $KORU. \n\nYou also can't get this option MM pinning like individual US stocks since this is Korea's national index and long term. \n\nTLDR: Individual components SK Hynix + Samsung are highly volatile.\n\nThey're basically half of the index, but options in index are priced with low volatility, perhaps due to historical 5-10 year data.  \n\nLong calls benefit from vega expansion that weren't priced in correctly as MM forward vol estimates are anchored too heavily on historical realized vol, which was low for $EWY over the past 5-10 years",
+      "created_at": "2026-02-13T12:16:49+00:00",
+      "retweet_count": 43,
+      "favorite_count": 716
     },
     {
       "id": "2018724759262085467",
@@ -5954,11 +6143,25 @@
       "favorite_count": 1345
     },
     {
+      "id": "2014278521741553793",
+      "text": "$MU looks like the next Nvidia. \n\nWhen Nvidia was $400B (now $4.5T+), markets thought GPUs were a short-term cycle.\n\nSame with memory today. \n\nAI has broken that cycle.\n\nWith the same \"Made in America\" and White House backing like $INTC:\n\nDon't overthink things with Micron. https://t.co/LBhbVjoKGz",
+      "created_at": "2026-01-22T10:06:37+00:00",
+      "retweet_count": 136,
+      "favorite_count": 1628
+    },
+    {
+      "id": "2014002413146173863",
+      "text": "Looks like markets are starting to find out about $VPG.\n\nThis is my top robotics sector stock.\n\nAnd reminds me of $SNDK at $30 before current memory rally to $470.\n\nOr $SMCI at $1.3 before the AI buildout rally to $100.\n\nThis may be the inflection point for robotics humanoids. https://t.co/POgwnIJyu8",
+      "created_at": "2026-01-21T15:49:28+00:00",
+      "retweet_count": 60,
+      "favorite_count": 655
+    },
+    {
       "id": "2012961292966117410",
       "text": "$WOLF was probably the most interesting one up there after restructuring. \n\n$LPKFF also for glass substrates and they own the laser induced deep etching at a $169m MC, so possibly most explosive 10x upside. \n\n$MTRN is probably the most stable one up there with decently high upside given it owns the mountain for ~65% of the world's Beryllium.   \n\nThere were a few others but just the fundamentals were either really bad or their bottleneck was too niche.  \n\n$LPTH's bottleneck for example spreads across both defense, AI, drones, etc.  \n\n$AXTI's bottleneck was so big and AI is such a big sector so it doesn't need to be spread across (but InP is used in a lot of other sectors too).",
       "created_at": "2026-01-18T18:52:25+00:00",
-      "retweet_count": 16,
-      "favorite_count": 103
+      "retweet_count": 29,
+      "favorite_count": 194
     },
     {
       "id": "2011006623893123154",
