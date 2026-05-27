@@ -6,7 +6,10 @@ The paradigm shift in advanced packaging away from organic materials. Enables ti
 🔗 **Primary Tickers**: [[SIVE]] | [[AXTI]] | [[LPK]] | [[IQE]] | [[AAOI]] | [[FOCI]]
 
 ## 📜 Analytical Quotes from Timeline
-1. **2026-05-24** (ID: `2058374522353672558` | [X.com Post](https://x.com/aleabitoreddit/status/2058374522353672558))
+1. **2026-05-25** (❤️ 1007 | 🔁 55 | ID: `2058879435726836152` | [X.com Post](https://x.com/aleabitoreddit/status/2058879435726836152))
+    $LPK turned out pretty well.
+
+2. **2026-05-24** (❤️ 2643 | 🔁 208 | ID: `2058374522353672558` | [X.com Post](https://x.com/aleabitoreddit/status/2058374522353672558))
     Photonics is nuanced and using ChatGPT/Gemini makes you miss all of it: 
     
     1. $SIVE is actually a chokepoint and partially a bottleneck. 
@@ -224,7 +227,7 @@ The paradigm shift in advanced packaging away from organic materials. Enables ti
     > 
     > 而**现在，我重仓做多 [[SIVE]]。**
 
-2. **2026-05-23** (ID: `2058230354063102028` | [X.com Post](https://x.com/aleabitoreddit/status/2058230354063102028))
+3. **2026-05-23** (❤️ 4523 | 🔁 277 | ID: `2058230354063102028` | [X.com Post](https://x.com/aleabitoreddit/status/2058230354063102028))
     I don't post dollar amounts because they don't matter. 
     
     What matters is return %. Speaking of that... 
@@ -279,7 +282,7 @@ The paradigm shift in advanced packaging away from organic materials. Enables ti
     > [!TIP] **中文译文**
     > 我不公布具体资金金额，因为那并不重要。重要的是收益率。说到这……今年以来收益率（YTD）为 +3840.39%。我可能是世界上唯一一个在极短时间内连续发掘出多个涨幅达 10 倍标的的人。还记得这些投资逻辑吗，朋友们？1. [[AXTI]] 2. [[SIVE]] 3. [[AAOI]] 4. LITE 5. [[IQE]] 6. AEHR 7. CRCL 8. EWY 9. 欣兴电子 (Unimicron) 10. 日东纺 (Nitto Boseki) 11. OSS 12. GDRZF 13. RPI 14. [[SOI]] 15. ALRIB 16. SNDK 17. SIMO 18. [[VPG]] 19. [[TSEM]] 20. ARM 21. MRVL 22. INTC 23. [[LPK]] 24. [[NBIS]] 25. [[MU]]。它们全部上涨了 100% 到 1000%+，因为：1. 我发布逻辑；2. 大家可以看到几个月后股票的实际表现；3. 逻辑最终被市场验证。我真的很反感传统的 X 博主炫耀大额账单、名表或私家飞机来卖高价课，而不是靠市场真实的投资回报。所以我试图通过免费发帖进行信息挖掘和深度整合，以百分比收益来引领新趋势。简而言之：百分比回报是验证投资逻辑的唯一标准，而不是赚了多少美元。
 
-3. **2026-05-22** (ID: `2057826212257685733` | [X.com Post](https://x.com/aleabitoreddit/status/2057826212257685733))
+4. **2026-05-22** (❤️ 1155 | 🔁 70 | ID: `2057826212257685733` | [X.com Post](https://x.com/aleabitoreddit/status/2057826212257685733))
     People keep asking:
     
     Hey why do have new longs with Taiwan/EU stocks recently like $LPK or Foci?
@@ -290,7 +293,7 @@ The paradigm shift in advanced packaging away from organic materials. Enables ti
     
     You can always just let the ones you like grow.
 
-4. **2026-05-22** (ID: `2057761720710631573` | [X.com Post](https://x.com/aleabitoreddit/status/2057761720710631573))
+5. **2026-05-22** (❤️ 1070 | 🔁 73 | ID: `2057761720710631573` | [X.com Post](https://x.com/aleabitoreddit/status/2057761720710631573))
     European quantum/optical/glass chokepoints go BRRR?
     
     $ALRIB +8.35%
@@ -302,7 +305,7 @@ The paradigm shift in advanced packaging away from organic materials. Enables ti
     
     More CEOs should do the same, even if it’s small.
 
-5. **2026-05-17** (ID: `2055822766600016238` | [X.com Post](https://x.com/aleabitoreddit/status/2055822766600016238))
+6. **2026-05-17** (❤️ 2733 | 🔁 266 | ID: `2055822766600016238` | [X.com Post](https://x.com/aleabitoreddit/status/2055822766600016238))
     When I see comments like this (and there are a lot) from retail investors:
     
     I immediately think they lack the technical depth. 
@@ -477,7 +480,7 @@ The paradigm shift in advanced packaging away from organic materials. Enables ti
     > 
     > **这些都是需要深度供应链知识的前瞻性增长公司。**
 
-6. **2026-05-15** (ID: `2055401446397690311` | [X.com Post](https://x.com/aleabitoreddit/status/2055401446397690311))
+7. **2026-05-15** (❤️ 4831 | 🔁 277 | ID: `2055401446397690311` | [X.com Post](https://x.com/aleabitoreddit/status/2055401446397690311))
     Leopold Aschenbrenner is a legend, but I'm not quite sure he can beat 3152.77% YTD in the Serenity Awareness fund. 
     
     That being said, I've hit 23 different longs this year with 100-1000%+ YTD.
@@ -508,14 +511,14 @@ The paradigm shift in advanced packaging away from organic materials. Enables ti
     
     Do you remember all of these anon?
 
-7. **2026-05-12** (ID: `2054316135592706291` | [X.com Post](https://x.com/aleabitoreddit/status/2054316135592706291))
+8. **2026-05-12** (❤️ 812 | 🔁 34 | ID: `2054316135592706291` | [X.com Post](https://x.com/aleabitoreddit/status/2054316135592706291))
     Woah, rough day for Europe. 
     
     Looks like everything from $SOI to $LPK and others are down 10-20% from overwhelmingly macro.
     
     Fun thing if war sentiment flips, as they often do with our president… lot of these names should go a lot higher.
 
-8. **2026-05-11** (ID: `2053750731103150472` | [X.com Post](https://x.com/aleabitoreddit/status/2053750731103150472))
+9. **2026-05-11** (❤️ 1187 | 🔁 49 | ID: `2053750731103150472` | [X.com Post](https://x.com/aleabitoreddit/status/2053750731103150472))
     And now $LPK is #19 on the list of my individual stocks that returned 100-1000%+ YTD.
     
     After going up +4.57% today.
@@ -524,7 +527,7 @@ The paradigm shift in advanced packaging away from organic materials. Enables ti
     
     I’m kinda impressed with myself ngl?
 
-9. **2026-05-10** (ID: `2053377238532329611` | [X.com Post](https://x.com/aleabitoreddit/status/2053377238532329611))
+10. **2026-05-10** (❤️ 2024 | 🔁 198 | ID: `2053377238532329611` | [X.com Post](https://x.com/aleabitoreddit/status/2053377238532329611))
     “Leading” Glass Substrate players that were name dropped if you’re curious: 
     
     • $LPK — TGV Equipment
@@ -539,7 +542,7 @@ The paradigm shift in advanced packaging away from organic materials. Enables ti
     
     Fun to see the stuff I’ve called out early in the year like LPK at ~$150m MC get mentioned as a critical player by Trendforce and others.
 
-10. **2026-05-09** (ID: `2053205192980721797` | [X.com Post](https://x.com/aleabitoreddit/status/2053205192980721797))
+11. **2026-05-09** (❤️ 2112 | 🔁 153 | ID: `2053205192980721797` | [X.com Post](https://x.com/aleabitoreddit/status/2053205192980721797))
     Just a TLDR of recent semi developments:
     
     1. $TSM pushing hard CoPoS - VisEra/others might go brrr earlier than expected.
@@ -616,3 +619,539 @@ The paradigm shift in advanced packaging away from organic materials. Enables ti
     > **9. "AI 服务器需求爆发 + GaN 氮化镓竞争升级 → 功率芯片短缺持续加深"** — 也许是时候深入研究一下功率芯片的卡脖子逻辑了？
     > 
     > **10. "威刚 (Adata) 表示，2026 年 Q2 DRAM 和 NAND 闪存合同价格将各上涨 40% 以上"** — 对 $MU、SK 海力士、三星、$SNDK 等持续利好。
+
+12. **2026-05-08** (❤️ 1954 | 🔁 34 | ID: `2052593835440771114` | [X.com Post](https://x.com/aleabitoreddit/status/2052593835440771114))
+    Unreal… I’m over halfway there to Elon in subscriber count.
+    
+    24K more and I’ll be #1 on the entire X platform!
+    
+    Feels surreal that a random person sharing their thoughts about niche AI ideas from $LPK to $SOI ….
+    
+    Has a chance to be the most popular one on the largest platform?
+
+13. **2026-05-07** (❤️ 911 | 🔁 75 | ID: `2052308880961810532` | [X.com Post](https://x.com/aleabitoreddit/status/2052308880961810532))
+    $LPK up 80% in the last two weeks. Not too shabby at ~$687M MC?
+    
+    It's probably one of the cleaner ways to play the next Glass Substrate supercycle. 
+    
+    50-100 machines per customer at scale, with "start of 2027 as mass production" across likely $INTC, $GLW, SKC, and others (since they captured ~80% of the major players). 
+    
+    Maybe ~€2M average per machine. 
+    
+    €400M–€1B+ across just 5 players in 2027 (could be more)?  Since they basically supply to everyone as a chokepoint. Off ~67.6% blended gross margins. 
+    
+    Seems promising for volume ramp wait time.
+
+14. **2026-05-06** (❤️ 1154 | 🔁 40 | ID: `2052126435721318528` | [X.com Post](https://x.com/aleabitoreddit/status/2052126435721318528))
+    I guess, post earnings when $ARM touched $268...
+    
+    $ARM is now #18 on the individual stock list that I went long on that hit 100%-1000%+ YTD?
+    
+    I've lost count TBH. Some others like $LPK and $SIMO and $HPS.A are getting really close now. 
+    
+    But feels like I'm one of the few ones out there on X with actual receipts of all the returns + original thesis post.
+
+15. **2026-05-06** (❤️ 1102 | 🔁 48 | ID: `2051889611216195909` | [X.com Post](https://x.com/aleabitoreddit/status/2051889611216195909))
+    I feel like institutions are just buying everything glass core substrate related today? 
+    
+    Stuff like:
+    - Philoptics, limit up
+    - HB technologies, limit up (SKC supplier)
+    - YCCHEM +20%
+    
+    Then there's $LPK over in Europe. 
+    
+    Wonder if I missed any major news.
+
+16. **2026-05-04** (❤️ 1030 | 🔁 40 | ID: `2051202378058346567` | [X.com Post](https://x.com/aleabitoreddit/status/2051202378058346567))
+    Honestly not too bad?
+    
+    Cool to see markets validate my thesis posts…
+    
+    With $SOI (silicon photonic substrates) to $LPK (glass core substrates) going in a straight line up .
+
+17. **2026-04-30** (❤️ 576 | 🔁 54 | ID: `2049876593674440706` | [X.com Post](https://x.com/aleabitoreddit/status/2049876593674440706))
+    Thoughts on LPKF Laser < $LPK / $LPKFF> earnings:
+    
+    Very nuanced, here's what markets might have missed:
+    
+    If you look at the financials in isolation and don't understand qualification cycles, it's bad. 
+    
+    The earnings call for volume ramp indicators are what's actually important. 
+    
+    1. "Potential volume orders in Advanced Packaging are not included in this baseline guidance"
+    
+    Any volume production equipment order that lands H2 will act as an immediate upside surprise to their projections. (positive)
+    
+    2. "LIDE is currently in use by numerous semiconductor customers in test and R&D environments; the expected follow-up orders..."
+    
+    Confirmation of what we expected, with many semiconductor companies qualifying $LPK. (positive)
+    
+    3. "First production orders expected this year"
+    
+    Inflection point of volume ramp confirmation H2 2026, this is probably the biggest signal markets missed + no projections included around that.  (very positive)
+    
+    From previous interviews we can stitch together:
+    
+    Q: 2027 as the start of mass production for glass substrates. Does this timeline still hold?
+    
+    "Yes. Market players are preparing orders for production equipment, and initial orders have already been recorded in the first quarter. While challenges remain, I still expect 2027 to mark the beginning of mass  production."
+    
+    2027 is mass production of glass core substrates, but H2 2026 is start of mass production orders for $LPK, **which is not included in any forecasts**. 
+    
+    We got confirmation of timelines from earnings. 
+    
+    Basically:
+    
+    -> You won't see any projections/financials around glass core substrate related VOLUME RAMP which is the only thing American investors care about with this company.
+    
+    -> Earnings in isolation were objectively terrible, but you only care about this as a European if you model based on previous 12 months only (instead of future growth). 
+    
+    -> Confirmation of volume ramp starting H2. Glass Core substrate mass production 2027.  
+    
+    If anything, this was extremely positive for the core thesis about volume ramp for glass core substrates. 
+    
+    We'll see how much the orders are though.
+    > [!TIP] **中文译文**
+    > 关于 LPKF Laser（[[LPK]] / $LPKFF）财报的思考：
+    > 
+    > 这份财报非常微妙——以下是市场可能错过的关键信息：
+    > 
+    > 如果你孤立地看财务数据、又不理解（半导体设备的）资质认证周期，那这份财报看起来确实很糟糕。
+    > 
+    > 但**财报电话会议中关于量产爬坡的指示性信号才是真正重要的内容**。
+    > 
+    > ---
+    > 
+    > **1. "先进封装领域的潜在大批量订单尚未被纳入基础指引"**
+    > 
+    > → 任何在 2026 年下半年（H2）落地的量产设备订单，都将立刻形成对其业绩预期的**上行惊喜**。（正面信号 ✅）
+    > 
+    > **2. "LIDE（激光诱导深度蚀刻）目前正被众多半导体客户用于测试和研发环境；预期的后续订单……"**
+    > 
+    > → 确认了我们此前的判断——大量半导体公司正在对 [[LPK]] 进行认证。（正面信号 ✅）
+    > 
+    > **3. "首批量产订单预计将于今年内落地"**
+    > 
+    > → **2026 年下半年量产爬坡的拐点确认**，这可能是市场最大的盲点，且管理层完全没有把这部分纳入预测。（极度正面信号 ✅✅✅）
+    > 
+    > ---
+    > 
+    > **结合此前访谈拼接出的关键时间表**：
+    > 
+    > > Q：2027 年作为玻璃基板量产起点。这个时间表仍然成立吗？
+    > >
+    > > "是的。市场玩家正在准备生产设备订单，并且首批订单已经在第一季度被记录在案。尽管仍存在挑战，但我依然预期 **2027 年将标志着量产的开端**。"
+    > 
+    > **核心拆解**：
+    > - **2027 年**：玻璃芯基板（Glass Core Substrates）**下游量产**的起点；
+    > - **2026 年下半年（H2 2026）**：[[LPK]] 自身**量产设备订单**的起点——**这一节点尚未被任何预测纳入考量**。
+    > 
+    > 我们已经从财报中获得了时间表的正式确认。
+    > 
+    > ---
+    > 
+    > **底层逻辑总结**：
+    > 
+    > → 你**不会**在财务预测中看到任何与玻璃芯基板**量产爬坡**相关的数字——而这恰恰是美股投资者**唯一关心**的事情。
+    > 
+    > → 孤立地看财报数字客观上确实很糟糕，但只有把建模窗口锁定在过去 12 个月（而非未来增长）的欧洲投资者才会真正在意这一点。
+    > 
+    > → **2026 年下半年量产爬坡 + 2027 年玻璃芯基板量产，时间表全部得到确认。**
+    > 
+    > ---
+    > 
+    > **结论**：如果说有什么意外，那就是这份财报对玻璃芯基板量产爬坡的核心投资逻辑而言，是**极度利好**的。
+    > 
+    > 我们接下来要看的是订单的具体规模到底有多大。
+
+18. **2026-04-30** (❤️ 653 | 🔁 33 | ID: `2049737227677421908` | [X.com Post](https://x.com/aleabitoreddit/status/2049737227677421908))
+    $LPK / $LPKFF earnings are out. 
+    
+    Seeing a lot of very dumb commentary on X. If you're wondering how to analyze qualification-cycle players, it's the same as $AEHR. 
+    
+    Nobody cares about current earnings unless there's something extremely bad. If your revenue declines -8M euros before any volume ramp, it doesn't mean anything. 
+    
+    The only reason why LPKF is a long anyway is 2027 LIDE glass core substrate mass production. 
+    
+    Main thing to look at is earnings call in 2 hours not current financials and indication of high volume production + customers. 
+    
+    People made this same mistake with $AEHR selling off on previous financials instead of listening to the call.
+
+19. **2026-04-29** (❤️ 974 | 🔁 74 | ID: `2049523399911952597` | [X.com Post](https://x.com/aleabitoreddit/status/2049523399911952597))
+    I’m personally a fan of the functional monopolies.
+    
+    Here’s 6 of them that I own.
+    
+    1. $TOWA (6315) - HBM4 Compression
+    2. MSSCorp (6830) - CPO Inspection
+    3. $LPK - Glass Core Substrates
+    4. $SOI - Silicon Photonics Substrates
+    5. $AXTI - End-to-End (mineral, refinery, production) InP substrates.
+    6. $ALRIB - Quantum / MBE (hybrid level systems).
+    
+    I can’t give recommendations. But for me personally, I wouldn’t buy all of them today eg. AXT until there’s clarity over share authorization + it ran like 1000% already within a small timeframe. 
+    
+    But just thematically as you’ve seen, they tend to outperform so I’m holding all regardless.
+    
+    There’s a lot more of these out there that you should definitely research yourself. 
+    
+    Always better to teach the thought process so people can do this themselves.
+
+20. **2026-04-29** (❤️ 645 | 🔁 51 | ID: `2049390824673456494` | [X.com Post](https://x.com/aleabitoreddit/status/2049390824673456494))
+    I guess markets agree with my take on $LPK?
+    
+    -&gt; When you have glass core substrates as the next advanced packaging wave
+    -&gt; be a monopoly chokepoint
+    -&gt; add in CPO applications.
+    
+    It typically goes brrr.
+
+21. **2026-04-28** (❤️ 53 | 🔁 0 | ID: `2049225508961874014` | [X.com Post](https://x.com/aleabitoreddit/status/2049225508961874014))
+    This is funny, when retail investors are front running institutions they call it a bubble.
+    What are they trying to do? Cause Chaos in market to buy Semi stocks cheaper as a lot of has been discovered.
+    @aleabitoreddit 
+    
+    $SIVE $LPKF 
+    
+    $AXTI $AAOI
+
+22. **2026-04-28** (❤️ 765 | 🔁 64 | ID: `2049212010660049008` | [X.com Post](https://x.com/aleabitoreddit/status/2049212010660049008))
+    I do really like $LPK.
+    
+    Critical monopoly chokepoint in glass substrates…
+    
+    Which are used for advanced packaging and CPO. 
+    
+    I flagged it as a potential 10x back in Jan, but thought it was a bit early. 
+    
+    However… time seems right now?
+    
+    "About four years ago, we began collaborating with a semiconductor company to develop mass-production equipment for direct 3D waveguide formation,"  Lee said. 
+    
+    “The customer has already installed LPKF's equipment." 
+    
+    Maybe Samsung or SKC Absolics since this was in Korea?
+    
+    Seems like momentum is ramping up now though like $AEHR pre-earnings, not quite high volume (2027), but around this time felt compelling for me.
+    
+    During the transition from qualification/pilot -> high volume.
+    > [!TIP] **中文译文**
+    > 我真的非常喜欢 [[LPK]]。
+    > 
+    > 它是玻璃基板领域**关键的垄断性卡脖子节点**……
+    > 
+    > 而玻璃基板正是[[Advanced Packaging]]（先进封装）和 [[CPO]]（共封装光学）的核心材料。
+    > 
+    > 我早在 1 月份就把它标记为潜在的 **10 倍股**，但当时觉得**有点偏早**。
+    > 
+    > 然而……现在时机似乎对了？
+    > 
+    > > "大约四年前，我们开始与一家半导体公司合作，共同开发**直接 3D 波导成型**的量产设备，" Lee（[[LPK]] 高管）表示。
+    > >
+    > > "该客户目前已经完成了 LPKF 设备的安装部署。"
+    > 
+    > 考虑到这是发生在韩国，那么这位客户**很可能是三星 (Samsung) 或 SKC Absolics**。
+    > 
+    > 感觉当前的产业动能正在加速爬升，类似于 $AEHR 财报前夕的那种状态——虽然还没到完全放量（要等到 2027 年），但**就在当下这个时间窗口，让我觉得这是一个极具吸引力的入场点**。
+    > 
+    > 这正处于从**认证 / 试产**阶段切换至**大规模放量**阶段的关键转换期。
+
+23. **2026-04-28** (❤️ 39 | 🔁 0 | ID: `2049198182899351946` | [X.com Post](https://x.com/aleabitoreddit/status/2049198182899351946))
+    @aleabitoreddit $LPKF / $LPK positively surprised me today. It literally finished flat despite the correction across the rest of the market. There is buying pressure, and every dip is being bought
+
+24. **2026-04-27** (❤️ 1435 | 🔁 102 | ID: `2048914800533721376` | [X.com Post](https://x.com/aleabitoreddit/status/2048914800533721376))
+    So just putting it out there: Towa (6315), at $1.35B...
+    
+    Is a rare, living definition of monopoly over HBM4 (compression molding).
+    
+    It's been kinda flat YTD, but every memory company like $MU, Sk Hynix, Samsung are their customers. And each of the memory company earnings signaled massive capex increases. 
+    
+    Even as seen with $TSM earnings, every major semi is going through a massive capex cycle to meet AI demand. 
+    
+    And all three memory makers have printed from hbm3e and nand... so the next capex cycle is probably not like the last (meaning a lot more spend).  
+    
+    Like $ASML, this is hyper-cyclical but I wanted exposure to the upcoming HBM4 capex ramp over these next few months.
+    
+    Thought I'd put this name on people's radar alongside $LPK (glass core substrates) as a functional monopoly. 
+    
+    But I do feel like this timing is about right while every machine supplier is having a massive re-rating yet this was relatively flat. 
+    
+    Not exactly a new find, since a few other analysts + random followers had this name but hope I get the timing right. 
+    
+    (Disclaimer: I do hold positions, this just TLDR of my own thoughts, please don’t copy trade)
+
+25. **2026-04-27** (❤️ 791 | 🔁 56 | ID: `2048687868919611836` | [X.com Post](https://x.com/aleabitoreddit/status/2048687868919611836))
+    European “monopolies” like $LPK (Glass Core Substrates) have also been going brrr lately. 
+    
+    $ALRIB is technically a duopoly but it’s there too… (Quantum / MBE)
+    
+    Then there’s some over in Japan like Towa for (HBM4/compression molding) too that I own.  
+    
+    Usually monopolies get higher multiples. 
+    
+    I'll mention some more over time, just gotta find them all.
+
+26. **2026-04-27** (❤️ 1086 | 🔁 55 | ID: `2048623230416761019` | [X.com Post](https://x.com/aleabitoreddit/status/2048623230416761019))
+    Markets are looking at CPUs right now and kinda forgot about memory. 
+    
+    But... there's increased capex spend with Sk Hynix, $MU, Samsung around now, with Samsung starting HMB4 production recently. 
+    
+    $TSM also signaled record capex across the board. 
+    
+    But just like $LPK in glass core substrates... 
+     
+    There's a decent amount of structural monopolies over in the HBM camp markets that I'm thinking about in places like Japan. 
+    
+    That markets may have forgotten? They would largely benefit from current HBM4 capex cycles. 
+    
+    Over in Korea, things like Hanmi Semi (KRX: 042700) have been taking off, up 27.6%+ today, so I'd guess the other companies around the world might play catchup soon.
+
+27. **2026-04-23** (❤️ 2823 | 🔁 197 | ID: `2047426124586893566` | [X.com Post](https://x.com/aleabitoreddit/status/2047426124586893566))
+    Not the best idea to feel FOMO about the new “bottleneck” in every news cycle.
+    
+    It’s going from:
+    
+    $NVDA GPUs -> $MU Memory -> $IREN Power -> $LITE EMLs -> $SNDK Memory -> GPUs -> $AAOI transceivers -> Advanced Packaging -> Transformers -> $INTC CPUs… etc 
+    
+    And next would be stuff like $LPK glass substrates or some random niche material from Japan.
+    
+    Most of these span multi-years. 
+    
+    If $LITE is sold out into 2028 and it’s H1 2026. Hyperscalers are buying out anything $AAOI can make.
+    
+    It’s probably good idea to just be patient with your existing positions.
+    
+    Because there’s likely going to be some random green candle that you miss out on chasing the current news cycle.
+    > [!TIP] **中文译文**
+    > 不要在每个新闻周期中对新冒出来的“瓶颈”产生 FOMO（错失恐惧）。市场风向转得太快了：从 GPU ➔ HBM内存 ➔ 电力 ➔ EML激光器 ➔ SSD闪存 ➔ GPU ➔ 光模块 ➔ 先进封装 ➔ 变压器 ➔ CPU……这些技术趋势通常都横跨数年。既然 Lumentum (LITE) 的产能已经卖到了 2028 年，且微软/亚马逊等超算正在买断 [[AAOI]] 生产的所有光模块，那么对现有的仓位保持耐心才是最好的选择。因为频繁换仓去追逐当下的热点，大概率会让你错过原本持仓的暴涨绿柱。
+
+28. **2026-04-23** (❤️ 1110 | 🔁 73 | ID: `2047110496999137730` | [X.com Post](https://x.com/aleabitoreddit/status/2047110496999137730))
+    There's a reason I spotlight EU small caps.
+    
+    This my investment thesis that I haven't publicly stated yet.
+    
+    And I hope people spend the time to read:
+    
+    From $ALRIB (quantum/MBE), $LPK (glass substrate), or $SIVE (DFB Lasers). Or even Asian names like Nippon Chemical. 
+    
+    It's to prevent hostile actors from taking over or disrupting critical chokepoints required by America.  
+    
+    FiconTEC (Europe) as one example (though private) was acquired by Chinese CCP affiliated companies. 
+    
+    Not even sure how this was legal and Germany should 100% seize it back from China. 
+    
+    They were a quasi-monopoly over testing for CPO/SiPH needed for AI and LIDAR. It's clients include the most critical players in AI and semiconductors, such as $NVDA, $TSM, $AVGO, and $INTC. 
+    
+    Over time, significant intellectual property and technological IP transfer to China is highly likely after these acquisitions and they'll have more control over US supply chains. 
+    
+    With enough American ownership enough spotlight on  these companies: we would be in a worse shape with hidden CCP ownership/takeovers.
+    
+    Or we would have more backdoors on American supply chains like with $AXTI and InP substrates (if we weren't building up independent capacity now). 
+    
+    The EU has allowed upstream supply chain chokepoints (like specialized testing or substrate manufacturing) to be bought out or have their IP transferred by geopolitical rivals.
+    
+    While America still not might realize a lot of these vulnerabilities. 
+    
+    This is the most I can do as a retail investor to prevent this from happening. 
+    
+    Eventually policymakers will pay attention and prevent this from happening if all the movement happens from grassroots (retail) and bottom up.
+
+29. **2026-04-22** (❤️ 917 | 🔁 65 | ID: `2046894773706035638` | [X.com Post](https://x.com/aleabitoreddit/status/2046894773706035638))
+    Europe seems to be having a fun time from AI.
+    
+    $LPK +20.69% - (glass core substrates) +20.69%
+    $IQE - 12.22% - (InP epiwafers)
+    $SOI +11.02% - (silicon photonics substrates) 
+    $ALRIB +5.8% - (MBE / Quantum)
+    
+    Then there’s $SIVE down -4.7% from a local Swedish hit piece, while $POET is up 40%+ after Marvell supplier confirmation.
+    
+    But I’m very bullish on $SIVE since markets haven’t pieced together the connection to $POET and $MRVL yet.
+    
+    Regardless, Europe has something to be happy about from being important to American hyperscalers.
+
+30. **2026-04-22** (❤️ 1513 | 🔁 30 | ID: `2046749502326071427` | [X.com Post](https://x.com/aleabitoreddit/status/2046749502326071427))
+    I’m genuinely impressed one of you copy traded your way into managing a hedge fund.
+    
+    But please don’t blindly copy stuff I talk about like $AXTI or $LPK.
+    
+    That’s the main reason I haven’t done copy-trading apps or tell people when I sell.
+    
+    I just want to publish interesting thoughts / research for free as I go along my journey. 
+    
+    With the goal of helping you all synthesize complex information to build your own thesis/conviction.
+    
+    Happy to help share my thoughts for free though.
+
+31. **2026-04-21** (❤️ 676 | 🔁 60 | ID: `2046620208387981538` | [X.com Post](https://x.com/aleabitoreddit/status/2046620208387981538))
+    I guess markets like glass core substrate exposure like $LPK?
+    
+    It is pretty rare to find these types of companies that hold positions that resemble $SOI.
+    
+    Like a Shiny Zigzagoon… finding these chokepoints.
+
+32. **2026-04-21** (❤️ 721 | 🔁 57 | ID: `2046449839626670369` | [X.com Post](https://x.com/aleabitoreddit/status/2046449839626670369))
+    People nonstop ask me about $LPKK / $LPK for my opinion
+    
+    Yes, I mentioned they're like a chokepoint for glass core substrates for LIDE (laser induced deep etching) way back when. 
+    
+    Biggest known partner is $ONTO (LIDE with Onto metrology for glass core mass production).
+    
+    Then as for market share: "more than 80% of customers among major global players have selected LPKF equipment" for process validation.
+    
+    So that probably includes:
+    - Samsung Electronics/Electro-Mechanics
+    - $INTC (Receives a Major Order from a Leading Chip Manufacturer... installed a first LIDE system at the beginning of 2020... now ordered further LIDE systems to start volume production)
+    - SKC (Absolics)
+    - $GLW, AGC, Schott. 
+    - Nippon electric glass. 
+    
+    Of course this is evaluation, so that 80% could be lower in actual ramp. 
+    
+    As for some personal FWD P/E calculations:
+    
+    - 2027: ~11-12.5x and ~7.8x for 2028, which looks very compelling. 
+    - Total Cash: ~€10.0M, debt was around ~€3.0M. debt to equity: ~3.8%
+    
+    So very clean-asset light balance sheet, no dilution overhang like $SHMD. 
+    
+    ~$362m MC, conclusion: great upside long imo, hard to see institutions not buying this name down the road. 
+    
+    Even if the 80% of players managed to design another way, even a fraction would probably be very material to the MC. 
+    
+    It was probably a bit early few months ago, but glass core roadmaps have been speeding up like CPO. 
+    
+    Disclosure: I do have positions. This are just my thoughts. 
+    
+    People on X did their homework.
+
+33. **2026-04-11** (❤️ 973 | 🔁 58 | ID: `2043096081060504057` | [X.com Post](https://x.com/aleabitoreddit/status/2043096081060504057))
+    Serenity's Follower Picked Hyperbolic 10x ETF Performance. 
+    
+    Week 1: +12.39% 
+    $AEHR: +56.72% ($45.08 -> $70.65)
+    $AAOI: +39.63% ($108.86 -> $152.00)
+    $SIVE: +35.35% (9.9 SEK -> 13.4 SEK)
+    $ENAFF: +31.58% ($1.71 -> $2.25)
+    $AL2SI: +25.44% (28.70 EUR -> 36 EUR)
+    $ENVX: +21.30% ($5.07 -> $6.15)
+    $BZAI: +18.99% ($1.79 -> $2.13)
+    $POET: +16.04% ($6.11 -> $7.09)
+    $WATT: +14.81% ($15.8 -> $18.14)
+    $HGRAF: +14.48% ($4.49 -> $5.14)
+    $VLN: +13.79% ($1.16 -> $1.32)
+    $LPK.DE: +13.20% (6.59 EUR -> 7.46 EUR)
+    $FLY: +13.09% ($33.16 -> $37.50)
+    $VPG: +11.63% ($44.7 -> $49.90)
+    $PLAB: +9.86% ($40.87 -> $44.90)
+    $TRT: +8.33% ($5.88 -> $6.37)
+    $EQR.AX: +7.94% (.315 AUD -> .34 AUD)
+    $LASR: +7.92% ($60.7 -> $65.51)
+    $ASPI: +6.67% ($4.2 -> $4.48)
+    $P4O.DE: +5.69% (6.85 EUR -> 7.24 EUR)
+    $EOS.AX: +3.11% ($9.00-> $9.28)
+    $ADUR: -0.29% ($10.37 -> $10.34)
+    $MITK: -2.52% ($13.9 -> $13.55)
+    $ALCJ: -3.41% (2.05 EUR -> 1.98 EUR)
+    $TMC: -5.01% ($4.59 -> $4.36)
+    $QURE: -9.94% ($17.21 -> $15.50)
+    $EONR: -20.00% ($.9 -> $.72)
+    
+    Top 3:
+    1. $AEHR: +56.72%
+    2. $AAOI: +39.63%
+    3. $SIVE: +35.35%
+    
+    Honorable mention $ENAFF with a 31.58% return. 
+    
+    Weighted average was 12.39%. 
+    
+    Honestly not bad everyone, you beat year index returns in just 1 week.
+
+34. **2026-04-10** (❤️ 929 | 🔁 26 | ID: `2042400195607216431` | [X.com Post](https://x.com/aleabitoreddit/status/2042400195607216431))
+    No, I’m still at a conservative 759% YTD after today’s overall rally. 
+    
+    Lost too much from hedging.
+    
+    Would probably be up more if indexes and 
+    many individual names like $RDDT weren’t so down from macro.
+    
+    But if you pick selective winners like $AAOI or $AEHR …
+    
+     in hyperscaler supply chains:
+    
+    Turns out it’s possible outperform markets?
+    
+    I do think it’s a tad harder than it looks finding important players in each sector and timing catalysts.
+    
+    $TSEM was basically flat the entire year until I bought, then it rallied 90% in 3 weeks, so timing important too (eg. OFC announcements).
+    
+    And I’ve developed PTSD after finding the unknown $TSM COUPE glass substrates supplier… 
+    
+    Only to watch them get bought out by Apollo shortly after.
+    
+    So not always having a good time. 
+    
+    But glad if my ideas helped others outperform indexes or see where frontier industries are heading to.
+
+35. **2026-04-03** (❤️ 1381 | 🔁 112 | ID: `2039906072291611057` | [X.com Post](https://x.com/aleabitoreddit/status/2039906072291611057))
+    Serenity's Followers Favorite Stock Parabolic Growth ETF:
+    
+    The most anticipated ETF of all time:
+    
+    $TRT - $5.88
+    $HGRAF - $4.49
+    $SIVE - 9.9 SEK
+    $QURE - $17.21
+    $AEHR - $45.08
+    $ENVX - $5.07
+    $ASPI - $4.2
+    $EONR - $11.79
+    $LPK.DE - 6.59 EUR
+    $MITK - $13.9
+    $EQR.AX - .315 AUD
+    $WATT - $15.8
+    $VLN - $1.16
+    $BZAI - $1.79
+    $TMC - $4.59
+    $ALCJ - $74.57
+    $POET - $6.11
+    $AAOI - $108.86
+    $ADUR - $10.37
+    $P4O.DE - 6.85 EUR
+    $PLAB - $40.87
+    $FLY - $33.16
+    $LASR - $60.7
+    $AL2SI - 28.70 EUR
+    $ENAFF - $1.71
+    $VPG - $44.7
+    $EOS.AX - $9.00
+    
+    I haven't heard of 1/3rd of these names, but if my followers have high conviction that their name will 10x...
+    
+    So do I.
+
+36. **2026-03-26** (❤️ 175 | 🔁 6 | ID: `2037091584563691858` | [X.com Post](https://x.com/aleabitoreddit/status/2037091584563691858))
+    Lot of uninvited speculation about $P4O.
+    
+    It's a pure-play glass substrate supplier, likely to $LITE OCS supply chains.
+    
+    And they supply to Samsung with potential mapping to $COHR.
+    
+    I like to analyze hyperscaler upstream supply chains.
+    
+    I don't control how the algos/markets react to anything I mention, and I certainly don't trade volatility.
+
+37. **2026-01-18** (❤️ 194 | 🔁 29 | ID: `2012961292966117410` | [X.com Post](https://x.com/aleabitoreddit/status/2012961292966117410))
+    $WOLF was probably the most interesting one up there after restructuring. 
+    
+    $LPKFF also for glass substrates and they own the laser induced deep etching at a $169m MC, so possibly most explosive 10x upside. 
+    
+    $MTRN is probably the most stable one up there with decently high upside given it owns the mountain for ~65% of the world's Beryllium.   
+    
+    There were a few others but just the fundamentals were either really bad or their bottleneck was too niche.  
+    
+    $LPTH's bottleneck for example spreads across both defense, AI, drones, etc.  
+    
+    $AXTI's bottleneck was so big and AI is such a big sector so it doesn't need to be spread across (but InP is used in a lot of other sectors too).

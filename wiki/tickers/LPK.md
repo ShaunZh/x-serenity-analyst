@@ -314,7 +314,7 @@ Auto-extracted from Serenity's timeline:
     
     People on X did their homework.
 
-8. **2026-01-18** (❤️ 103 | 🔁 16 | ID: `2012961292966117410` | [X.com Post](https://x.com/aleabitoreddit/status/2012961292966117410))
+8. **2026-01-18** (❤️ 194 | 🔁 29 | ID: `2012961292966117410` | [X.com Post](https://x.com/aleabitoreddit/status/2012961292966117410))
     $WOLF was probably the most interesting one up there after restructuring. 
     
     $LPKFF also for glass substrates and they own the laser induced deep etching at a $169m MC, so possibly most explosive 10x upside. 

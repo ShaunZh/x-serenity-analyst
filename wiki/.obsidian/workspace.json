@@ -48,7 +48,7 @@
               },
               "pinned": true,
               "icon": "terminal",
-              "title": "Terminal: ✳ 增量同步删除已归档推文"
+              "title": "Terminal: ✳ incremental-wiki-compile"
             }
           },
           {

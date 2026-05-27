@@ -3,8 +3,8 @@
 Welcome to your personal investment research portal compiled by your AI agent based on historical expert timelines and research sessions.
 
 > [!TIP]
-> **Last Sync Date**: `2026-05-27 01:42:22`
-> **Total Tweets Scraped**: `856` since `2025-01-01`
+> **Last Sync Date**: `2026-05-27 11:18:27`
+> **Total Tweets Scraped**: `885` since `2025-01-01`
 
 ## 📅 Monthly Archives (中英对照月份时间线)
 [[2026-05]] | [[2026-04]] | [[2026-03]] | [[2026-02]] | [[2026-01]] | [[2025-12]] | [[2025-11]]

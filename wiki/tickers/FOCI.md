@@ -189,7 +189,20 @@ Auto-extracted from Serenity's timeline:
 > 不过话说回来，对于想要了解 [[CPO]] 产业全局的朋友来说，这是一份非常好的**高水平全景鸟瞰图**。
 
 ## 📜 Historical Timeline (Reverse Chronological)
-1. **2026-05-25** (❤️ 1093 | 🔁 137 | ID: `2058764325326856414` | [X.com Post](https://x.com/aleabitoreddit/status/2058764325326856414))
+1. **2026-05-26** (❤️ 1312 | 🔁 78 | ID: `2059079948980363774` | [X.com Post](https://x.com/aleabitoreddit/status/2059079948980363774))
+    Win Semi (3105) is almost never mentioned in photonics analyst reports. 
+    
+    But they’ll probably show up as an important bottleneck for scaling lasers next year.
+    
+    Glad to see Shunsin (6451) start picking up steam from my TW longs.
+    
+    Foci (3363), MSSCorp (6830) should start getting some attention too imo after Computex / $NVDA conference next month.
+    
+    Nextronics (8147), I personally kinda expect to 3x down the road.. once disposition is over.
+    
+    5 of my favorite CPO exposure longs over in Taiwan, especially at current prices.
+
+2. **2026-05-25** (❤️ 1093 | 🔁 137 | ID: `2058764325326856414` | [X.com Post](https://x.com/aleabitoreddit/status/2058764325326856414))
     几个值得重点关注的“实质性垄断”标的:
     
     - MSSCORP (6830)：在检测和 CPO 良率把控上构筑了极深的专利护城河。 
@@ -203,7 +216,7 @@ Auto-extracted from Serenity's timeline:
     
     相比之下，个人认为 $HIMX (奇景光电) 或 Foci (上诠) 未来面临被踢出局 (design out) 的风险最大，很有可能会被台积电的光学部门采钰 (Visera 6789) 这类巨头直接垂直整合。不过话说回来，在未来两三年内，借助 CPO 相关的光纤阵列 (FAU) 和无源器件，他们眼前依然有 波巨大的赚钱机遇
 
-2. **2026-05-25** (❤️ 398 | 🔁 17 | ID: `2058756539448713504` | [X.com Post](https://x.com/aleabitoreddit/status/2058756539448713504))
+3. **2026-05-25** (❤️ 398 | 🔁 17 | ID: `2058756539448713504` | [X.com Post](https://x.com/aleabitoreddit/status/2058756539448713504))
     Oh look, a new UDN article about $TSM COUPE + AI optical markets. 
     
     Institutional investors are optimistic that Taiwanese companies: 
@@ -242,7 +255,7 @@ Auto-extracted from Serenity's timeline:
     > 
     > 所以感觉是 **X 上的散户社区率先发现了这批标的**，而主流机构大概率在看到这种（来自产业界的）确认信号之后，才即将进场。
 
-3. **2026-05-22** (❤️ 1155 | 🔁 70 | ID: `2057826212257685733` | [X.com Post](https://x.com/aleabitoreddit/status/2057826212257685733))
+4. **2026-05-22** (❤️ 1155 | 🔁 70 | ID: `2057826212257685733` | [X.com Post](https://x.com/aleabitoreddit/status/2057826212257685733))
     People keep asking:
     
     Hey why do have new longs with Taiwan/EU stocks recently like $LPK or Foci?
@@ -253,7 +266,7 @@ Auto-extracted from Serenity's timeline:
     
     You can always just let the ones you like grow.
 
-4. **2026-05-21** (❤️ 798 | 🔁 52 | ID: `2057388984310132855` | [X.com Post](https://x.com/aleabitoreddit/status/2057388984310132855))
+5. **2026-05-21** (❤️ 798 | 🔁 52 | ID: `2057388984310132855` | [X.com Post](https://x.com/aleabitoreddit/status/2057388984310132855))
     Just as I say this:
     
     $AMD invests $10B+ into Taiwan ecosystem (for securing capacity/scaling infra)
@@ -268,7 +281,7 @@ Auto-extracted from Serenity's timeline:
     
     But bullish on Taiwan supply chains all around from $AMD news.
 
-5. **2026-05-21** (❤️ 981 | 🔁 54 | ID: `2057319580595568833` | [X.com Post](https://x.com/aleabitoreddit/status/2057319580595568833))
+6. **2026-05-21** (❤️ 981 | 🔁 54 | ID: `2057319580595568833` | [X.com Post](https://x.com/aleabitoreddit/status/2057319580595568833))
     Just in case you want to frontrun the next major catalyst: 
     
     $NVDA June 1 Computex/GTC Taipei keynote should be heavily bullish Taiwan optical ecosystem?
@@ -277,7 +290,7 @@ Auto-extracted from Serenity's timeline:
     
     Shunsin, Foci, Nextronics, MSScorps, and a lot of my Nvidia photonics ecosystem port might be critical mentions or have indirect catalysts there.
 
-6. **2026-05-19** (❤️ 1143 | 🔁 50 | ID: `2056558267896311996` | [X.com Post](https://x.com/aleabitoreddit/status/2056558267896311996))
+7. **2026-05-19** (❤️ 1143 | 🔁 50 | ID: `2056558267896311996` | [X.com Post](https://x.com/aleabitoreddit/status/2056558267896311996))
     A good looking guy that would mog Clavicular side by side has no impact to any fundamentals.
     
     I cut some exposure too in $LITE $COHR like Leopold, last month. 
@@ -292,7 +305,7 @@ Auto-extracted from Serenity's timeline:
     
     I still think there’s upside for Lumentum and $COHR, just less likely to double at current prices as fast if you’re going shares only.
 
-7. **2026-05-18** (❤️ 1612 | 🔁 128 | ID: `2056244818125418979` | [X.com Post](https://x.com/aleabitoreddit/status/2056244818125418979))
+8. **2026-05-18** (❤️ 1612 | 🔁 128 | ID: `2056244818125418979` | [X.com Post](https://x.com/aleabitoreddit/status/2056244818125418979))
     Next year… I’m expecting there to be many articles about FAU + component bottlenecks.
     
     Especially as the new CPO architecture led by $NVDA + $TSM starts to scale.
@@ -305,7 +318,7 @@ Auto-extracted from Serenity's timeline:
     
     We’ll see if this is right.
 
-8. **2026-05-15** (❤️ 1054 | 🔁 61 | ID: `2055127004970938373` | [X.com Post](https://x.com/aleabitoreddit/status/2055127004970938373))
+9. **2026-05-15** (❤️ 1054 | 🔁 61 | ID: `2055127004970938373` | [X.com Post](https://x.com/aleabitoreddit/status/2055127004970938373))
     HOW DOES $POET ($3.14B) HAVE A HIGHER VALUATION THAN FOCI (3363, $3.1B)???
     
     FOCI IS LITERALLY THE BOTTLENECK FOR CPO VOLUME RAMP AND MAIN SUPPLIER FOR $TSM AND $NVDA.
@@ -314,14 +327,14 @@ Auto-extracted from Serenity's timeline:
     
     Also, can Foci management please pursue NASDAQ ADR like $HIMX? Thank you.
 
-9. **2026-05-15** (❤️ 603 | 🔁 36 | ID: `2055110412375621643` | [X.com Post](https://x.com/aleabitoreddit/status/2055110412375621643))
+10. **2026-05-15** (❤️ 603 | 🔁 36 | ID: `2055110412375621643` | [X.com Post](https://x.com/aleabitoreddit/status/2055110412375621643))
     FOCI (3363) is one of the most undervalued CPO players in the entire market right now at ~$3B. 
     
     Their BOM is massive relative to MC and they're expected to capture a dominant market share for $NVDA / $TSM. 
     
     You only start to see this show up 2027 / 2028, even though we're entering H2 2026 now (which is what I mean by frontrunning CPO supercycle).
 
-10. **2026-05-14** (❤️ 692 | 🔁 43 | ID: `2054737349075218567` | [X.com Post](https://x.com/aleabitoreddit/status/2054737349075218567))
+11. **2026-05-14** (❤️ 692 | 🔁 43 | ID: `2054737349075218567` | [X.com Post](https://x.com/aleabitoreddit/status/2054737349075218567))
     Honestly I’m expecting FOCI (3363) to blow away projections over next two years.
     
     It’s a pretty high conviction position for me medium term at this level. 
@@ -330,7 +343,7 @@ Auto-extracted from Serenity's timeline:
     
     Insane how it’s $3B MC as a critical CPO bottleneck required for scale, while LightWave Logic literally has around the same valuation at $2.7B in development stage.
 
-11. **2026-05-13** (❤️ 1807 | 🔁 129 | ID: `2054412992000012555` | [X.com Post](https://x.com/aleabitoreddit/status/2054412992000012555))
+12. **2026-05-13** (❤️ 1807 | 🔁 129 | ID: `2054412992000012555` | [X.com Post](https://x.com/aleabitoreddit/status/2054412992000012555))
     People wonder why I'm focusing on non-US markets recently.  
     
     Why? CPO is my #1 thematic long. 
@@ -422,7 +435,7 @@ Auto-extracted from Serenity's timeline:
     > > 我对我的供应链研究充满**高度信念**——
     > > 不管在此之前市场上演什么波动，我都会坚守。
 
-12. **2026-05-13** (❤️ 584 | 🔁 39 | ID: `2054365028820881794` | [X.com Post](https://x.com/aleabitoreddit/status/2054365028820881794))
+13. **2026-05-13** (❤️ 584 | 🔁 39 | ID: `2054365028820881794` | [X.com Post](https://x.com/aleabitoreddit/status/2054365028820881794))
     FOCI (3363) is looks extremely compelling around now at ~$3.35B MC for CPO exposure.
     
     1. $TSM COUPE advanced packaging director hinted that FAU supplies by FOCI be a pretty big bottleneck for mass production. 
@@ -443,7 +456,7 @@ Auto-extracted from Serenity's timeline:
     
     Just throwing out ideas over long positions I hold, for more purer play CPO exposure.
 
-13. **2026-05-12** (❤️ 1877 | 🔁 160 | ID: `2054076086452162675` | [X.com Post](https://x.com/aleabitoreddit/status/2054076086452162675))
+14. **2026-05-12** (❤️ 1877 | 🔁 160 | ID: `2054076086452162675` | [X.com Post](https://x.com/aleabitoreddit/status/2054076086452162675))
     Random CPO related names I like:
     
     - $SIVE
@@ -468,7 +481,7 @@ Auto-extracted from Serenity's timeline:
     
     Disclosure: I own most, not all though.
 
-14. **2026-05-03** (❤️ 1774 | 🔁 176 | ID: `2051028253130006901` | [X.com Post](https://x.com/aleabitoreddit/status/2051028253130006901))
+15. **2026-05-03** (❤️ 1774 | 🔁 176 | ID: `2051028253130006901` | [X.com Post](https://x.com/aleabitoreddit/status/2051028253130006901))
     If you're curious about Goldman's Report:
     
     They expect "significant EPS upside" among:
@@ -491,7 +504,7 @@ Auto-extracted from Serenity's timeline:
     
     Passive Optical Components - WDM: AFR ( Everprox ( Accelink ( Ciena (CIEN), TFC Optical ( Lumentum (LITE), FOCI (3363.TWO)
 
-15. **2026-04-10** (❤️ 353 | 🔁 24 | ID: `2042469877492171129` | [X.com Post](https://x.com/aleabitoreddit/status/2042469877492171129))
+16. **2026-04-10** (❤️ 353 | 🔁 24 | ID: `2042469877492171129` | [X.com Post](https://x.com/aleabitoreddit/status/2042469877492171129))
     Just a few:
     2455 TWSE: Visual photonics
     268A TSEJ: Rigaku
@@ -503,3 +516,296 @@ Auto-extracted from Serenity's timeline:
     6777 TSEJ: Santek
     
     I usually try and focus on one like Win Semi (3105 TPEX) that I have the most concentration in and do more simpler concentrated on those.
+
+17. **2026-03-31** (❤️ 336 | 🔁 50 | ID: `2038777289115345200` | [X.com Post](https://x.com/aleabitoreddit/status/2038777289115345200))
+    CPO Value Chain Summary from Mirae Asset:
+    
+    Laser Source:
+    Coherent < $COHR >
+    Lumentum < $LITE >
+    Furukawa Electric (TYO: 5801)
+    Yuanjie Semiconductor (SHA: 688498)
+    Innolight Technology / Zhongji Innolight (SZSE: 300308)
+    
+    PIC Foundry:
+    TSMC < $TSM >
+    GlobalFoundries $GFS
+    Samsung Electronics (KRX: 005930)
+    Tower Semiconductor < $TSEM>
+    
+    EIC, Driver IC:
+    Broadcom < $AVGO > 
+    Marvell < $MRVL >
+    NVIDIA < $NVDA >
+    
+    ELS, Optical Engine
+    Innolight / Zhongji Innolight (SZSE: 300308)
+    TFC / Suzhou TFC Optical Communication (SZSE: 300394)
+    O-Net Technologies 
+    Eoptolink Technology (SZSE: 300502)
+    
+    FAU (Fiber Array Unit):
+    Senko Advanced Components (Private)
+    Sumitomo Electric (TYO: 5802)
+    TFC (SZSE: 300394)
+    FOCI Fiber Optic Communications (TWO: 3363)
+    
+    FAU, Align Tools:
+    ficonTEC (Private)
+    All Ring Tech (TWO: 6187)
+    ADST (Private)
+    
+    FAU, Engine Assembly:
+    Fabrinet < $FN >
+    Hon Hai / Foxconn (TWSE: 2317)
+    ASE Technology < $ASX > 
+    FOCI (TWO: 3363)
+    
+    OSAT, Advanced Packaging:
+    ASE Technology < $ASX >
+    Amkor < $AMKR > 
+    Kyocera (TYO: 6971)
+    Powertech / PTI (TWSE: 6239)
+    Shinko Electric (TYO: 6967)
+    Fabrinet < $FN >
+    
+    Connector, Ferrule:
+    Senko Advanced Components (Private)
+    Sumitomo Electric (TYO: 5802)
+    US Conec (Private)
+    T&S Communications (SZSE: 300570)
+    Molex (Private)
+    Browave (TWO: 3163)
+    
+    Fiber: 
+    Corning < $GLW >
+    Sumitomo Electric (TYO: 5802)
+    Nittobo / Nitto Boseki (TYO: 3110)
+    
+    E/O Testing: 
+    
+    Keysight < $KEYS > 
+    Teradyne < $TER >
+    FormFactor < $FORM > 
+    Chroma ATE (TWSE: 2360)
+    Multilane (Private)
+    
+    Switch, System: 
+    NVIDIA < $NVDA > 
+    Broadcom < $AVGO > 
+    Marvell < $MRVL > 
+    Google < $GOOGL> 
+    
+    EDA: 
+    Synopsys < $SNPS > 
+    Cadence < $CDNS > 
+    Ansys < $ANSS > 
+    
+    Confused by some of names of the list, they might have conflated a few names like Innolight with laser source like $MTSI, Sumitomo, $SIVE, Luxnet, with the actual end module (unless there's something that's not public material or I missed)? 
+    
+    But just for people interested in the landscape, this is a good high-level overview.
+    > [!TIP] **中文译文**
+    > 来自未来资产 (Mirae Asset) 的 **[[CPO]] 价值链全景总结**：
+    > 
+    > ---
+    > 
+    > **激光源 (Laser Source):**
+    > - Coherent ($COHR)
+    > - Lumentum ($LITE)
+    > - 古河电工 Furukawa Electric (TYO: 5801)
+    > - 源杰半导体 Yuanjie Semiconductor (SHA: 688498)
+    > - 中际旭创 / 中际联合 Innolight Technology (SZSE: 300308)
+    > 
+    > **PIC 光子集成电路代工 (PIC Foundry):**
+    > - 台积电 TSMC ($TSM)
+    > - 格芯 GlobalFoundries ($GFS)
+    > - 三星电子 Samsung Electronics (KRX: 005930)
+    > - 高塔半导体 Tower Semiconductor ([[TSEM]])
+    > 
+    > **EIC 电子集成电路 / 驱动 IC (EIC, Driver IC):**
+    > - 博通 Broadcom ($AVGO)
+    > - 美满电子 Marvell ($MRVL)
+    > - 英伟达 NVIDIA ($NVDA)
+    > 
+    > **ELS 外部激光源 / 光学引擎 (ELS, Optical Engine):**
+    > - 中际旭创 Innolight (SZSE: 300308)
+    > - 天孚通信 TFC / Suzhou TFC Optical Communication (SZSE: 300394)
+    > - 昂纳科技 O-Net Technologies
+    > - 新易盛 Eoptolink Technology (SZSE: 300502)
+    > 
+    > **FAU 光纤阵列单元 (Fiber Array Unit):**
+    > - Senko Advanced Components (未上市)
+    > - 住友电工 Sumitomo Electric (TYO: 5802)
+    > - 天孚通信 TFC (SZSE: 300394)
+    > - 波若威 [[FOCI]] Fiber Optic Communications (TWO: 3363)
+    > 
+    > **FAU 对准设备 (FAU, Align Tools):**
+    > - ficonTEC (未上市)
+    > - 万润科技 All Ring Tech (TWO: 6187)
+    > - ADST (未上市)
+    > 
+    > **FAU / 引擎组装 (FAU, Engine Assembly):**
+    > - Fabrinet ($FN)
+    > - 鸿海 / 富士康 Foxconn (TWSE: 2317)
+    > - 日月光 ASE Technology ($ASX)
+    > - 波若威 [[FOCI]] (TWO: 3363)
+    > 
+    > **OSAT 外包封测 / 先进封装 (OSAT, [[Advanced Packaging]]):**
+    > - 日月光 ASE Technology ($ASX)
+    > - 安靠 Amkor ($AMKR)
+    > - 京瓷 Kyocera (TYO: 6971)
+    > - 力成科技 Powertech / PTI (TWSE: 6239)
+    > - 新光电气 Shinko Electric (TYO: 6967)
+    > - Fabrinet ($FN)
+    > 
+    > **连接器 / 插芯 (Connector, Ferrule):**
+    > - Senko Advanced Components (未上市)
+    > - 住友电工 Sumitomo Electric (TYO: 5802)
+    > - US Conec (未上市)
+    > - T&S Communications (SZSE: 300570)
+    > - 莫仕 Molex (未上市)
+    > - 光环科技 Browave (TWO: 3163)
+    > 
+    > **光纤 (Fiber):**
+    > - 康宁 Corning ($GLW)
+    > - 住友电工 Sumitomo Electric (TYO: 5802)
+    > - 日东纺 Nitto Boseki (TYO: 3110)
+    > 
+    > **E/O 测试 (E/O Testing):**
+    > - 是德科技 Keysight ($KEYS)
+    > - 泰瑞达 Teradyne ($TER)
+    > - FormFactor ($FORM)
+    > - 致茂电子 Chroma ATE (TWSE: 2360)
+    > - Multilane (未上市)
+    > 
+    > **交换机 / 系统 (Switch, System):**
+    > - 英伟达 NVIDIA ($NVDA)
+    > - 博通 Broadcom ($AVGO)
+    > - 美满电子 Marvell ($MRVL)
+    > - 谷歌 Google ($GOOGL)
+    > 
+    > **EDA 设计自动化 (EDA):**
+    > - 新思科技 Synopsys ($SNPS)
+    > - 楷登电子 Cadence ($CDNS)
+    > - 安斯科技 Ansys ($ANSS)
+    > 
+    > ---
+    > 
+    > **作者点评**：这份列表中的一些归类让我有点困惑——他们可能混淆了几个名字，比如把中际旭创 (Innolight) 划入激光源品类，而实际上这应该是 $MTSI（MACOM）、住友 (Sumitomo)、[[SIVE]]、Luxnet（华星光通）这些公司的领域。成品光模块和激光源本身是两个不同的层级（除非有什么未公开的信息或我遗漏了什么？）。
+    > 
+    > 不过话说回来，对于想要了解 [[CPO]] 产业全局的朋友来说，这是一份非常好的**高水平全景鸟瞰图**。
+
+18. **2026-03-27** (❤️ 71 | 🔁 10 | ID: `2037557780056621081` | [X.com Post](https://x.com/aleabitoreddit/status/2037557780056621081))
+    $HIMX -31.54% since I published my analysis rebutting the @citrini / @hntrbrkmedia report.
+    
+    The thesis was simple:
+    - Himax's microlens monopoly for TSMC COUPE Gen 1 & Gen 2? Real.
+    - The market treating it as an unbreakable moat? Wrong.
+    
+    1. My full patent-by-patent breakdown:
+    "
+    
+    2. Also highly recommend @vikramskr's deep dive. He fills in the engineering gap that was missing from the entire Himax/FOCI/TSMC conversation:
+    "
+
+19. **2026-03-20** (❤️ 1001 | 🔁 103 | ID: `2034916899021365725` | [X.com Post](https://x.com/aleabitoreddit/status/2034916899021365725))
+    The Serenity Silicon Photonics / CPO ETF.
+    
+    YTD Returns of Each Index Stock: 
+    
+    $IQE: +282.5%
+    $AXTI: +246.6%
+    Landmark: 167.54%
+    $AAOI: +157.37%
+    $SIVE: +113.08%
+    $SOI: +103.54%
+    $LITE: +100.27%
+    $LWLG: +92.35%
+    $VIAV: +88.71%
+    $AIXA: +73.92%
+    $AEHR: +70.4%
+    $CIEN: +67.67%
+    $FORM: +60.67%
+    $FOCI: +60.44%
+    $CAMT: +49.13%
+    $GLW: +46.77%
+    $SMHN: +45.94%
+    Fujikura: +43.89%
+    $COHR: +41.81%
+    $KEYS: +40.48%
+    $TSEM: +36.42%
+    $ASX: +29.89%
+    $MTSI: +28.34%
+    $NOK: +27.5%
+    Shin-Etsu: +27.33%
+    $ONTO: +26.28%
+    $BESI: +24.71%
+    $UMC: +18.11%
+    $INTC: +17.27%
+    $OXINF: 15.03%
+    $FN: +12.79%
+    Eoptolink: +11.82%
+    $TSM: +6.00%
+    $HIMX: +5.39%
+    $SMTC: +4.11%
+    Sumitomo: +3.67%
+    $CSCO: +3.25%
+    Innolight: +.33%
+    $MRVL: +.16%
+    $APH: -6.48%
+    $MXL: -7.62%
+    $AVGO: -7.99%
+    $POET: -12.99%
+    $TEL: -14.93%
+    
+    This is retrospectively, but as you've known I've been in a lot of the winners for awhile (eg. Top 6/7 like $AXTI or $LITE aside from Landmark). 
+    
+    However, if you were curious if you invested in the photonics trend as a whole at the start of the year.
+    
+    The equal weighted return? 
+    
+    50.033%
+    
+    I expect the Photonic Supercycle to last over the next several years, and many of these names to be large beneficaries going forward. 
+    
+    Especially as CPO is used to scale AI deployments. 
+    
+    Photonics is the new architectural paradigm for AI.
+
+20. **2026-03-17** (❤️ 1710 | 🔁 251 | ID: `2033885603423785170` | [X.com Post](https://x.com/aleabitoreddit/status/2033885603423785170))
+    The upcoming CPO / Silicon Photonics Bottleneck Cheat Sheet:
+    
+    $SIVE, Sumitomo, $LITE, $COHR, $AVGO, $MTSI, $AAOI - Light Source (CW DFB Lasers)
+    $TSEM, $GFS, $UMC, $TSM, $INTC - SiPh foundry
+    $NOK, $CIEN, $CSCO, $COHR - DCO  
+    $HIMX, FOCI (3363.TWO) - Micro-lens + Fiber Arrays
+    $POET - Optical Interposers
+    $SOI, $AXTI, Shin-Etsu  - Substrates
+    $FN, $ASX, Innolight, Eoptolink -  Optical Packaging and Assembly
+    $MTSI, $SMTC, $MRVL, $MXL - Analog/Mixed-Signal ICs
+    $LWLG - Speculative Modulator Materials. 
+    $GLW, $APH, $TEL, $FIT, Fujikura - Connectors and Fibers
+    $FORM, $KEYS, $VIAV, $AEHR- Test & Measurement
+    $BESI, $SMHN, $ONTO, $CAMT - Advanced Packaging & Hybrid Bonding
+    
+    Many are private companies from Lightmatter, Ayar, Ranovus and others. 
+    
+    Now... Everyone is asking... How do you profit? 
+    
+    If you look at the forecast for CPO TAM, it's a straight line up, and next year is inflection point for CPO mass deployment. 
+    
+    The alpha is capturing the rotation:
+    
+    From the current EML bottlenecks ( $LITE, $COHR type) to SiPh / CW DFB architectural winners for CPO.
+    
+    Highest upside potential are the ones that aren't included in current cycles.
+    
+    But that are in the next. 
+    
+    Companies like $SOI, $SIVE, or $AEHR are perfect examples. 
+     
+    Ride the current pluggable bottleneck like $AAOI. 
+    
+    But the alpha is frontrunning institutions with the next CPO bottleneck. 
+    
+    The capital rotation is inevitable.

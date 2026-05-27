@@ -6,7 +6,7 @@ High-density semiconductor packaging techniques (such as CoWoS, TGV, and 3D stac
 🔗 **Primary Tickers**: [[SIVE]] | [[AXTI]] | [[LPK]] | [[IQE]] | [[AAOI]] | [[JBL]] | [[FOCI]]
 
 ## 📜 Analytical Quotes from Timeline
-1. **2026-05-17** (ID: `2055822766600016238` | [X.com Post](https://x.com/aleabitoreddit/status/2055822766600016238))
+1. **2026-05-17** (❤️ 2733 | 🔁 266 | ID: `2055822766600016238` | [X.com Post](https://x.com/aleabitoreddit/status/2055822766600016238))
     When I see comments like this (and there are a lot) from retail investors:
     
     I immediately think they lack the technical depth. 
@@ -181,7 +181,7 @@ High-density semiconductor packaging techniques (such as CoWoS, TGV, and 3D stac
     > 
     > **这些都是需要深度供应链知识的前瞻性增长公司。**
 
-2. **2026-05-13** (ID: `2054365028820881794` | [X.com Post](https://x.com/aleabitoreddit/status/2054365028820881794))
+2. **2026-05-13** (❤️ 584 | 🔁 39 | ID: `2054365028820881794` | [X.com Post](https://x.com/aleabitoreddit/status/2054365028820881794))
     FOCI (3363) is looks extremely compelling around now at ~$3.35B MC for CPO exposure.
     
     1. $TSM COUPE advanced packaging director hinted that FAU supplies by FOCI be a pretty big bottleneck for mass production. 
@@ -202,7 +202,7 @@ High-density semiconductor packaging techniques (such as CoWoS, TGV, and 3D stac
     
     Just throwing out ideas over long positions I hold, for more purer play CPO exposure.
 
-3. **2026-05-10** (ID: `2053377238532329611` | [X.com Post](https://x.com/aleabitoreddit/status/2053377238532329611))
+3. **2026-05-10** (❤️ 2024 | 🔁 198 | ID: `2053377238532329611` | [X.com Post](https://x.com/aleabitoreddit/status/2053377238532329611))
     “Leading” Glass Substrate players that were name dropped if you’re curious: 
     
     • $LPK — TGV Equipment
@@ -217,7 +217,7 @@ High-density semiconductor packaging techniques (such as CoWoS, TGV, and 3D stac
     
     Fun to see the stuff I’ve called out early in the year like LPK at ~$150m MC get mentioned as a critical player by Trendforce and others.
 
-4. **2026-05-05** (ID: `2051472715165704657` | [X.com Post](https://x.com/aleabitoreddit/status/2051472715165704657))
+4. **2026-05-05** (❤️ 833 | 🔁 55 | ID: `2051472715165704657` | [X.com Post](https://x.com/aleabitoreddit/status/2051472715165704657))
     Pretty sure institutions like GS missed Shunsin (6451) at $1.65B for CPO packaging/test/assembly.
     
     Which is why I'm very bullish on it as a completely backdoored, hidden + major beneficiary of $NVDA CPO ramp. 
@@ -230,7 +230,7 @@ High-density semiconductor packaging techniques (such as CoWoS, TGV, and 3D stac
     
     But likely soaks up Nvidia CPO + other volumes through Foxconn vertical integration.
 
-5. **2026-04-30** (ID: `2049876593674440706` | [X.com Post](https://x.com/aleabitoreddit/status/2049876593674440706))
+5. **2026-04-30** (❤️ 576 | 🔁 54 | ID: `2049876593674440706` | [X.com Post](https://x.com/aleabitoreddit/status/2049876593674440706))
     Thoughts on LPKF Laser < $LPK / $LPKFF> earnings:
     
     Very nuanced, here's what markets might have missed:
@@ -325,7 +325,7 @@ High-density semiconductor packaging techniques (such as CoWoS, TGV, and 3D stac
     > 
     > 我们接下来要看的是订单的具体规模到底有多大。
 
-6. **2026-04-29** (ID: `2049390824673456494` | [X.com Post](https://x.com/aleabitoreddit/status/2049390824673456494))
+6. **2026-04-29** (❤️ 645 | 🔁 51 | ID: `2049390824673456494` | [X.com Post](https://x.com/aleabitoreddit/status/2049390824673456494))
     I guess markets agree with my take on $LPK?
     
     -&gt; When you have glass core substrates as the next advanced packaging wave
@@ -334,7 +334,7 @@ High-density semiconductor packaging techniques (such as CoWoS, TGV, and 3D stac
     
     It typically goes brrr.
 
-7. **2026-04-28** (ID: `2049212010660049008` | [X.com Post](https://x.com/aleabitoreddit/status/2049212010660049008))
+7. **2026-04-28** (❤️ 765 | 🔁 64 | ID: `2049212010660049008` | [X.com Post](https://x.com/aleabitoreddit/status/2049212010660049008))
     I do really like $LPK.
     
     Critical monopoly chokepoint in glass substrates…
@@ -375,7 +375,7 @@ High-density semiconductor packaging techniques (such as CoWoS, TGV, and 3D stac
     > 
     > 这正处于从**认证 / 试产**阶段切换至**大规模放量**阶段的关键转换期。
 
-8. **2026-04-23** (ID: `2047426124586893566` | [X.com Post](https://x.com/aleabitoreddit/status/2047426124586893566))
+8. **2026-04-23** (❤️ 2823 | 🔁 197 | ID: `2047426124586893566` | [X.com Post](https://x.com/aleabitoreddit/status/2047426124586893566))
     Not the best idea to feel FOMO about the new “bottleneck” in every news cycle.
     
     It’s going from:
@@ -394,7 +394,7 @@ High-density semiconductor packaging techniques (such as CoWoS, TGV, and 3D stac
     > [!TIP] **中文译文**
     > 不要在每个新闻周期中对新冒出来的“瓶颈”产生 FOMO（错失恐惧）。市场风向转得太快了：从 GPU ➔ HBM内存 ➔ 电力 ➔ EML激光器 ➔ SSD闪存 ➔ GPU ➔ 光模块 ➔ 先进封装 ➔ 变压器 ➔ CPU……这些技术趋势通常都横跨数年。既然 Lumentum (LITE) 的产能已经卖到了 2028 年，且微软/亚马逊等超算正在买断 [[AAOI]] 生产的所有光模块，那么对现有的仓位保持耐心才是最好的选择。因为频繁换仓去追逐当下的热点，大概率会让你错过原本持仓的暴涨绿柱。
 
-9. **2026-04-18** (ID: `2045565771234021468` | [X.com Post](https://x.com/aleabitoreddit/status/2045565771234021468))
+9. **2026-04-18** (❤️ 1763 | 🔁 86 | ID: `2045565771234021468` | [X.com Post](https://x.com/aleabitoreddit/status/2045565771234021468))
     Just some TLDRs to save you time: 
     
     1. $ASML, $TSM earnings = Good Outlook. Semis + capex go brrr.
@@ -435,7 +435,7 @@ High-density semiconductor packaging techniques (such as CoWoS, TGV, and 3D stac
     > 
     > 我最近做多了台湾 OSAT 厂（如台湾讯芯 6451）是有原因的。**需求将直接碾压供给，即便扩产之后依然如此。**（CoWoS、SiP 系统级封装、光学）。
 
-10. **2026-03-31** (ID: `2038777289115345200` | [X.com Post](https://x.com/aleabitoreddit/status/2038777289115345200))
+10. **2026-03-31** (❤️ 336 | 🔁 50 | ID: `2038777289115345200` | [X.com Post](https://x.com/aleabitoreddit/status/2038777289115345200))
     CPO Value Chain Summary from Mirae Asset:
     
     Laser Source:
@@ -612,3 +612,312 @@ High-density semiconductor packaging techniques (such as CoWoS, TGV, and 3D stac
     > **作者点评**：这份列表中的一些归类让我有点困惑——他们可能混淆了几个名字，比如把中际旭创 (Innolight) 划入激光源品类，而实际上这应该是 $MTSI（MACOM）、住友 (Sumitomo)、[[SIVE]]、Luxnet（华星光通）这些公司的领域。成品光模块和激光源本身是两个不同的层级（除非有什么未公开的信息或我遗漏了什么？）。
     > 
     > 不过话说回来，对于想要了解 [[CPO]] 产业全局的朋友来说，这是一份非常好的**高水平全景鸟瞰图**。
+
+11. **2026-03-20** (❤️ 578 | 🔁 41 | ID: `2034993411821117462` | [X.com Post](https://x.com/aleabitoreddit/status/2034993411821117462))
+    My thoughts today on $SIVE, at a ~$250M MC: 
+    
+    Sivers is the future likely CW + laser array light source powering hyperscalers from $AMZN, $META, and $MSFT. 
+    
+    At ~$250m... 
+    
+    From confirmed clients, est. mapping: 
+    
+    1. Jabil ( $JBL ) LRO Transceivers (Former SiPH $INTC) -> $AMZN, $META, and other Hyperscalers. 
+    2. Ayar -> AIChip/GUC -> $AMZN and other hyperscalers.
+    3. Enablence -> O-Net -> Asian Hyperscalers
+    4. And other unconfirmed customers. 
+    
+    People have been asking me endless questions about today's volatility: 
+    
+    If a stock can go up 20% it can do up 20% too. 
+    
+    $AXTI had those +30%, -30% movements all the time (eg. Earnings -30% to $20, now at $60). 
+    
+    And like AXT as you've seen, what matters is it has the likely potential to outperform long term. 
+    
+    That's why it's important to develop your own conviction before entering any trade, so you don't need to ask me questions every day if you take it yourself. 
+    
+    I personally have a long position and I do think Sivers has the potential to be a $5B+ company with Win qualification.
+    
+    Especially amid some analysts post today telling people to take profits on $SIVE:
+    
+    - If you just look at $COHR, $LITE and other light source valuations today, they're $40B+.
+    
+    - $SIVE pre-revenue advanced packaging counterparties are all $1B-$4B+. 
+    
+    - And we have $SIVE as the future light source for hyperscaler supply chains and Jabil transceivers:
+    
+    At ~$250M. 
+    
+    Just my personal opinion, but it's better to anchor conviction to the marketcap ($250M) as the light source for hyperscaler supply chains, than price fluctuations... 
+    
+    Especially when institutions (~14.1% owned) are able to to shake the tree of a majority owned stock to build a position.
+    
+    This is why I've shared my thoughts about $AXTI or $SIVE early since I think it's possible for retail investors to frontrun institutions for the up and coming chokepoints in AI supply chains. 
+    
+    And why I've shared hyperscaler supply chain mapping for $SIVE so people can build their own conviction on future light-source growth.
+
+12. **2026-03-17** (❤️ 1710 | 🔁 251 | ID: `2033885603423785170` | [X.com Post](https://x.com/aleabitoreddit/status/2033885603423785170))
+    The upcoming CPO / Silicon Photonics Bottleneck Cheat Sheet:
+    
+    $SIVE, Sumitomo, $LITE, $COHR, $AVGO, $MTSI, $AAOI - Light Source (CW DFB Lasers)
+    $TSEM, $GFS, $UMC, $TSM, $INTC - SiPh foundry
+    $NOK, $CIEN, $CSCO, $COHR - DCO  
+    $HIMX, FOCI (3363.TWO) - Micro-lens + Fiber Arrays
+    $POET - Optical Interposers
+    $SOI, $AXTI, Shin-Etsu  - Substrates
+    $FN, $ASX, Innolight, Eoptolink -  Optical Packaging and Assembly
+    $MTSI, $SMTC, $MRVL, $MXL - Analog/Mixed-Signal ICs
+    $LWLG - Speculative Modulator Materials. 
+    $GLW, $APH, $TEL, $FIT, Fujikura - Connectors and Fibers
+    $FORM, $KEYS, $VIAV, $AEHR- Test & Measurement
+    $BESI, $SMHN, $ONTO, $CAMT - Advanced Packaging & Hybrid Bonding
+    
+    Many are private companies from Lightmatter, Ayar, Ranovus and others. 
+    
+    Now... Everyone is asking... How do you profit? 
+    
+    If you look at the forecast for CPO TAM, it's a straight line up, and next year is inflection point for CPO mass deployment. 
+    
+    The alpha is capturing the rotation:
+    
+    From the current EML bottlenecks ( $LITE, $COHR type) to SiPh / CW DFB architectural winners for CPO.
+    
+    Highest upside potential are the ones that aren't included in current cycles.
+    
+    But that are in the next. 
+    
+    Companies like $SOI, $SIVE, or $AEHR are perfect examples. 
+     
+    Ride the current pluggable bottleneck like $AAOI. 
+    
+    But the alpha is frontrunning institutions with the next CPO bottleneck. 
+    
+    The capital rotation is inevitable.
+
+13. **2026-03-17** (❤️ 408 | 🔁 47 | ID: `2033695716938551350` | [X.com Post](https://x.com/aleabitoreddit/status/2033695716938551350))
+    $SIVE is now up +73.78% today ($231M MC). 
+    
+    As markets price in information synthesis of the next potential $LITE of photonics. 
+    
+    If I had to explain the difference: 
+    
+    One laser source in Lumentum primarily benefits from current optical bottlenecks.
+    
+    The other in $SIVE is for the upcoming CPO/Silicon Photonic bottleneck. 
+    
+    Lumentum is largely benefiting right now from $NVDA and hyperscalers securing capacity of EML lasers for current pluggable optical transceivers cycles. 
+    
+    As seen with the current EML bottleneck, hyperscalers are buying out any 800G/1.6T transceiver + upstream capacity from:
+    
+    - $AAOI (in-house)
+    - $COHR, $LITE (EML lasers + design) -> $FN (assembly)
+    - $COHR, $LITE (EML lasers) -> Innolight / Eoptolink
+    
+    What's next? 
+    
+    Silicon Photonics and Co-Packaged Optics. 
+    
+    The architectural shift to CPO requires massive arrays of high-power CW DFB lasers. 
+    
+    And this would likely trigger a complete, sudden paradigm shift in volume demand.
+    
+    $SIVE benefits from InP CW DFB lasers for SiPh and CPO:
+    
+    The up and coming companies like:
+    
+    $AYAR, $POET source $SIVE lasers, but primarily do advanced packaging. 
+    
+    Then they feed up to larger companies like $MRVL Celestial (that buy $POET's interposers). 
+    
+    However, if you go upstream, the light source is $SIVE. 
+    
+    CW DFB lasers are light engine ( $SIVE ); the silicon photonics package ( $POET and others) is how it gets transmitted.
+    
+    CPO scale is not there yet. But we know it's coming. 
+    
+    And as seen with current optical transceiver cycles:
+    
+    - Light sources from $LITE and $COHR demand much higher valuations than companies like $FN that focus on advanced packaging. 
+    
+    Markets have been focusing on $POET, but missed where they get the actual $LITE type light source for Starlight.
+    
+    The risks are present including facing multi-source competition with $LITE, $COHR, $AVGO, and others. So again, make sure to do your own research. 
+    
+    But my argument against that:
+    
+    Sivers been early enough to tailor custom lasers to fit $POET, Ayar, and other specifications before they got popular (sort like the $POET to $MRVL Celestial analogy). 
+    
+    There's volume risks as well:
+    
+    But the potential Win Semi qualification offsets that.
+    
+    Dilution risk to scale capacity, is always present with every early-stage company as well. 
+    
+    I did my thesis on $LITE last year and still love the stock for Google TPU ramp/OCS. 
+    
+    But this year, I'm focusing on: 
+    
+    $SIVE, as my personal CW DFB laser exposure for the new photonics architectural shift. 
+    
+    I’m sharing my own thoughts on capturing the rotation from the current EML cycle to the upcoming CW DFB/Silicon Photonics cycle.
+
+14. **2026-03-16** (❤️ 520 | 🔁 52 | ID: `2033535833085718996` | [X.com Post](https://x.com/aleabitoreddit/status/2033535833085718996))
+    $SIVE is now up 50%+, to a $190 million USD MC (~1.8B SEK -> USD).
+    
+    However, I genuinely believe this could be the next $LITE for silicon photonics/CPO. 
+    
+    And I’m holding shares, as my personal bull case scenario is $10 billion+.
+    
+    As Sivers sits in the silicon photonics CW DFB laser bottleneck of the next gen photonic architectures spearheaded by $NVDA. 
+    
+    This is compared to how $COHR / $LITE EML lasers are the current optical transceiver bottleneck.
+    
+    They’re already the laser supplier to Ayar, $POET (buys $SIVE lasers -> advanced packaging into optical interposers), and likely other silicon photonics/cpo players
+    
+    The Win semi ongoing qualification is one of the biggest bull cases, as this allows them to scale up capacity.
+    
+    Time will tell if this thesis turns out to be correct but I personally think this name is widely undiscovered.
+    
+    This is my own personal thesis and I’m not recommending anyone to tag along.
+    
+    But if you DYOR, maybe you’ll come to the same conclusion I did that $SIVE looks like the next $LITE.
+
+15. **2026-03-16** (❤️ 1133 | 🔁 108 | ID: `2033466880661606646` | [X.com Post](https://x.com/aleabitoreddit/status/2033466880661606646))
+    I’m long $SIVE at $140M. 
+    
+    I believe this is the next $LITE that markets and institutions missed.
+    
+    $SIVE makes InP CW DFB lasers. 
+    
+    Closest comparison is $LITE in the current EML laser bottleneck.
+    
+    But instead of supplying to Innolight/Eoptolink for current optical transceivers cycles. 
+    
+    They supply the lasers to $POET Starlight, Ayar SuperNova.
+    
+    And others for the future CPO/silicon photonics architectures spearheaded by $NVDA. 
+    
+    Current valuations make 0 sense to me personally. 
+    
+    $POET is advanced packaging for $SIVE type lasers… 
+    
+    But $POET commands worth 11x+ more than the company making the laser itself?
+    
+    It’s feels like valuing a more advanced $FN (~$20B)  packaging at $400B when $LITE is valued at $40B. 
+    
+    So now at $130m:-
+    
+    - You have a likely mini $LITE like laser supplier to Marvell Celestial + hyperscalers through $POET. 
+    
+    - Laser supplier to Ayar ( $NVDA, $INTC ), though they do multi source with $LITE, Sumitomo, $MTSI. 
+    
+    And other potential up and coming suppliers potentially like Lightmatter that they’ve name dropped (eg. Q2 2023 earnings). This is unconfirmed but supply chain BOM is confidential. 
+    
+    On top, for revenue, they expected $453M "pipeline next few years”.
+    
+    And, they have capacity expansion through WIN: “Win Semi foundry qualification in progress for volume production from Laser designs from Sivers."
+    
+    Sivers feels the silicon photonics/CPO version of $LITE, with actual rapidly growing customers like Celestial through $POET, Ayar, with more to come. 
+    
+    I wouldn’t have liked it last year, but just 3 weeks ago, they refinanced all their debt successfully to $12M convertible loan (10.85%) and a $5M term loan (12%), which cleans up debt.
+    
+    It’s $17m total, which feels like nothing to US markets when $AAOI is doing a $500m ATMs every other week.
+    
+    Best of all, this is their pure play inp laser segment for silicon/photonics + cpo. Their Lidar segment is ramping up and they have $53-138M projected revenue coming in. 
+    
+    Downside risk: 
+    - execution (as always) 
+    - dilution to scale up capacity to compete with $LITE and others. 
+    - $LITE, $COHR competition on scale after $NVDA just gave them $4B- CPO ramp gets delayed. 
+    
+    I have no clue how, $LWLG, a pre-revenue science project with $TSEM, is valued at $1B+ MC. 
+    
+    Or how $POET, is worth ~9-10x more than its laser supplier. 
+    
+    When $SIVE, the mini $LITE equivalent for CPO/Silicon photonics, is valued at $140M.
+    
+    I do believe this is largely undiscovered by institutions, since this is some random company in OMX Nordic Exchange (similar to micro $AXTI before I started posting about the inp substrate bottleneck). 
+    
+    But I do think it will get a lot of institutional attention as Celestial and Ayar scale up. 
+    
+    Especially if $POET and $SIVE gets qualified with other customers. 
+    
+    If CPO completely replaces pluggable transceivers in the next generation of hyperscaler architectures. 
+    
+    Sivers, with possible WIN Semi qualifcation and if they become the multi-source lasers for NVIDIA, Marvell, Intel, and Broadcom architectures, can be strongly rerated.
+    
+    Just as how $LITE did today going from $16 -> $622. 
+    
+    This is just my personal thesis I'm sharing, DYOR/NFI.
+    
+     TLDR: 
+    
+    InP Lasers are the current bottleneck in photonics as seen with $LITE valuations. 
+    
+    $SIVE looks like the mini $LITE for the upcoming CPO/Silicon Photonics ramp. 
+    
+    I personally took long position in $SIVE, as I believe they’re a large beneficiary of the upcoming silicon photonic/CPO architectural changes by $NVDA (with GTC cataylst). 
+    
+    The upside here just way too compelling for me personally as the next possible $LITE.
+
+16. **2025-12-22** (❤️ 554 | 🔁 63 | ID: `2003019490871869644` | [X.com Post](https://x.com/aleabitoreddit/status/2003019490871869644))
+    The $LITE thesis: The hidden monopoly in the AI. 
+    
+    Lumentum is up 316% YTD, but might be 1000%+ by 2027. 
+    
+    Micron ($300B) or TSM ($1.5T) sit in the center of every TPU/GPU deployed. 
+    
+    But same with $LITE, but it's a $26B MC. 
+    
+    In Every, Single, TPU from Google, $LITE makes unbelievable amounts of profit for their marketcap. 
+    
+    That's because it's the standard for Optical Circuit Switching (OCS) + optical networking. 
+    
+    It's also in
+    
+    -  $NVDA Blackwell
+    -$AMZN Trainium
+    - and other hyperscaler ASICs.  
+    
+    Lumentum sits in the holy trinity of every single chip deployment for photonics.
+    
+    And for every TPU capex spent, $LITE takes 8-12%. For every Nvidia GPU, $LITE takes ~2-3% (split between Innolight and some others, so the math gets a bit complex).
+    
+    But some napkin math on NVDA GPU deployments alone for BOM:
+    
+    NVIDIA Blackwell (GB200):
+    
+    HBM memory: ~50–55% (SK Hynix (Lead), Micron, Samsung)
+    Logic (GPU Die): ~25-30% ( $TSM 4NP)
+    CoWoS Packaging: ~13-18% $TSM
+    Optics/Network: ~3–5% (Innolight, Lumentum, Coherent)
+    PCB/Power: 5%
+    
+    For Google TPIU "Ironwood" TPU v7:
+    
+    HBM Memory: 38-42% Samsung / SK Hynix
+    Logic Die: TSM ~28-33%
+    Design/I.O: 8-10% MediaTek 
+    Optical Network: 10-14% ( $LITE (primary), $COHR secondary)
+    Optical Switch: 2-4% $LITE
+    
+    $LITE est. total cluster share: ~8–12%
+    
+    Just an FYI, Google's "Optical" BOM share (8–12%) is an anomaly due to their unique Optical Circuit Switch (OCS) monopoly.
+    
+    Just for some napkin math:
+    
+    $40B Google TPU spend by 2027. $LITE captures 10% (30-40% margins), $1.5B+ FCF from Google alone, 17x earnings from just their primary customer. (analysts are probably extremely off with projecting TPU spend scaling). 
+    
+    Not even including their split from $AMZN Trainium, $NVDA Blackwell, $MSFT Maia, and other chip deployments. 
+    
+    $LITE is in the center of every single TPU/GPU future chip deployment for now and takes a cut. 
+    
+    The only downside is they're the clear market leader now, but $AVGO and $COHR are likely set up to compete by 2027-2028. However...
+    
+    People say "$26B, ATH, why are you buying now". 
+    
+    This is the reason. They're involved in every future single TPU/GPU/ASIC deployed. 
+    
+    $LITE could end up easily over $60B+ if Google TPUs, and other chip spend ramps up and LITE takes a 2-3% (from $NVDA, $AMZN, $MSFT) or 8-12% cut (from $GOOGL) for every single dollar spent.

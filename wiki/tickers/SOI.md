@@ -569,3 +569,337 @@ Auto-extracted from Serenity's timeline:
     It completely disrupts the institutions' ability to paywall research and frontrun retail investors. There’s no reason to downplay the trend. 
     
     I believe stocks are a positive sum game, so there's no reason to gatekeep information.
+
+16. **2026-03-13** (❤️ 1408 | 🔁 137 | ID: `2032577275439485080` | [X.com Post](https://x.com/aleabitoreddit/status/2032577275439485080))
+    I've been the first few to cover many supply chain photonic names.
+    
+    Most are up 100-400%+ since I've posted.
+    
+    Here's the TLDR overview of my thesis posts:
+    
+    “Safest” Longs as of Today:
+    
+    - $TSEM (Tower Semi)
+    - $SOI (Soitec)
+    - $COHR - Defensible compounders over time. 
+    
+    Soitec - Substrate monopoly over silicon photonics / CPO architectural ramp at dirt cheap valuation (after recent 40%+ rise maybe still 1.4x book)
+    
+    Tower Semi - P/E in the 10's for 2028, 70%+ capacity booked already, $NVDA architectural partner, and basically the pure play $TSM of photonics. 
+    
+    Coherent - Basically does everything from materials/substrates to lasers to transceivers in photonics. As well as fundamental supplier to many other verticals. 
+    
+    Most High Beta/Extreme Growth Longs:
+    
+    $AXTI  - InP duopoly with Sumitomo (that getting export controlled), upstream feedstock duopoly with Vital. 
+    
+    Basically at the top of the entire photonics food chain is AXT. There's certainty export control risks, but my thesis is that if AXT goes down, the photonic buildout with AI goes down. So might as well go long on AXT. 
+    
+    $AAOI - 10x revenue ramp into 2027. Laser -> Design -> Assembly, Made in America. Main uncertainty is execution, scaling laser capacity that they've bought from $COHR, etc. 
+    
+    Demand from hyperscalers are all there. Can they deliver? I'd take the risk.
+    
+    $IQE - Basically completely dependent on restructuring and clearing debt (~$200M MC). Known $LITE supplier for epiwafers, and their main competitor was Landmark with a $3.5B+ valuation.  
+    
+    The latent capacity is there with reactors, but they basically need to pull off a successful pivot over to photonics and cut off legacy drag for 10x rerating. 
+    
+    Highest risk out there, but maybe worth the reward.s 
+    
+    Long $GOOGL TPU Ecosystem:
+    
+    $LITE - Basically very high BOM related to optical due to OCS monopoly for Google. 
+    
+    If you think Google TPU is a trillion dollar program that might end up like $NVDA, go long on $LITE. 
+    
+    Google has $175-180B capex planned for 2026, and their CTO for AI Infra said they plan to up that Y/Y, probably spending $1 trillion in the next 8 years. 
+    
+    If that holds up, $LITE is extremely undervalued relative to forward potential. Of course the supply lasers to other hyperscalers too, but I'd say it's more heavily tethered to Google growth. 
+    
+    _
+    
+    There's a ton of others out there I've covered like:
+    
+    $POET - I'm personally not long, but $400M balance sheet gives it good cushion. Just found Celestial from $MRVL ramp was too far out, eg. $500 million 2028, $1 billion 2029 projections, for revenue to be too material as of 2026. 
+    
+    It largely depends if their interposers get other hyperscaler qualifications rather than backdooring through Marvell, which was the main bull case. 
+    
+    $HIMX- I did find this thesis to be slightly compelling as a likely $TSM COUPE supplier. 
+    
+    But personally, I preferred $SOI, and would just put more concentration into that (since Soitec known supplier already to basically everything silicon photonics, and is just coming out of a downturn). 
+    
+    There’s a lot more like $NOK, $SHMN, that are interesting, but I’ve personally out concentration into the ones I find most compelling.
+    
+    As “crowded names” like $LITE, it does not mean there’s no upside left. It just happens to be more priced in until there’s new news.
+    
+    There's a lot of "critical suppliers" but there's a difference between importance in the supply chain...
+    
+    And converting that into extreme revenue growth eg. $AAOI -> $4.5 billion in revenue. 
+    
+    But for TLDR photonics exposure, my portfolio looks similar to this:
+    
+    High Concentration (Safer)
+    $TSEM foundry, $SOI substrate, $COHR everything
+    
+    Mix of Long + CSP (High Volaility):
+    $AXTI substrate/feedstock, $IQE epiwafer, $AAOI transceiver supply chain
+    
+    Then Long Google with $LITE
+    > [!TIP] **中文译文**
+    > 我是最早覆盖一批光子学供应链标的的人之一。
+    > 
+    > 自我发帖以来,其中大多数已经上涨了 **100-400%+**。
+    > 
+    > 以下是我的投资论点帖子的 TLDR 全景总览：
+    > 
+    > ---
+    > 
+    > ## 🛡️ 第一层："最安全"的做多仓位
+    > 
+    > ### [[TSEM]] (Tower Semi 高塔半导体)
+    > - **2028 年远期 P/E 仅 10 多倍**
+    > - **70%+ 产能已被预定**
+    > - **$NVDA 架构合作伙伴**
+    > - 本质上是——**光子学领域的纯血版 $TSM 台积电**
+    > 
+    > ### [[SOI]] (Soitec)
+    > - **硅光子 / CPO 架构爬坡的衬底垄断者**
+    > - 此前估值极其便宜（在近期 40%+ 上涨后，可能仍在 ~1.4 倍 PB 账面价值）
+    > 
+    > ### $COHR (Coherent)
+    > - 基本上在光子学领域**什么都做**——从材料/衬底 → 激光器 → 光模块
+    > - 同时也是众多其他垂直行业的基础供应商
+    > - → **经得起时间考验的复利机器 (defensible compounders)**
+    > 
+    > ---
+    > 
+    > ## 🚀 第二层：高 Beta / 极端增长做多
+    > 
+    > ### [[AXTI]]
+    > - InP 衬底：与住友 (Sumitomo) 形成**双寡头**（住友正遭受出口管制）
+    > - 上游原材料：与先导 (Vital Materials) 形成**双寡头**
+    > - 基本上处于**整个光子学食物链的最顶端**
+    > - > 存在出口管制风险。但我的核心逻辑是：如果 AXT 倒下，整个 AI 光子学建设也会倒下。既然如此——不如直接做多 AXT。
+    > 
+    > ### [[AAOI]]
+    > - 进入 2027 年的 **10 倍营收爬坡**
+    > - 激光器 → 设计 → 组装，全部**美国制造**
+    > - 主要不确定性：执行能力 + 从 $COHR 收购的激光器产能的量产爬坡
+    > - > 超大规模云商的需求全部在那里。他们能交付吗？我愿意下注。
+    > 
+    > ### [[IQE]]
+    > - 几乎完全依赖于**债务重组和清理**（~$2 亿市值）
+    > - 是 LITE 确认的**外延片供应商**
+    > - 主要竞争对手 Landmark（联亚光电）估值 **$35 亿+**
+    > - 潜在产能（反应器）是存在的——但他们需要成功完成向光子学的**战略转型**，并砍掉拖后腿的传统业务，才能实现 **10 倍重新评级**
+    > - > 风险最高的一个，但也许值得下注。
+    > 
+    > ---
+    > 
+    > ## 🔵 第三层：做多 Google TPU 生态
+    > 
+    > ### $LITE (Lumentum)
+    > - 由于 Google 的 OCS（光电路交换机）垄断地位，与光学相关的 BOM（物料清单）占比**极高**
+    > - > 如果你相信 Google TPU 是一个万亿美元级别的项目，可能最终成长为类似 $NVDA 的存在——
+    > - > 那就做多 LITE。
+    > 
+    > **Google 的投入决心**：
+    > - 2026 年 CAPEX 预算：**$1,750-1,800 亿**
+    > - AI 基础设施 CTO 表示：计划**逐年增加**
+    > - 未来 8 年内可能总共投入 **$1 万亿**
+    > 
+    > > 如果这个判断成立，相对于远期潜力，**LITE 当前被极度低估**。
+    > >
+    > > 当然他们也向其他超算厂商供应激光器——但我会说它的增长**更重度地与 Google 绑定**。
+    > 
+    > ---
+    > 
+    > ## 🔍 覆盖过、但个人不持有/持仓较轻的
+    > 
+    > ### $POET
+    > - 我个人没有持仓。
+    > - $4 亿美金的账面现金提供了不错的缓冲垫。
+    > - 但我发现——Celestial (MRVL) 的量产爬坡**时间太远了**：
+    >   - 2028 年 $5 亿营收 → 2029 年 $10 亿营收（预测）
+    >   - 对于 2026 年的当下来说，这个营收还**不够实质性**。
+    > - 很大程度上取决于他们的光互连中介层 (interposer) 能否获得**其他超大规模云商的认证**——而不是仅仅通过 Marvell 走后门（这正是主要的做多逻辑）。
+    > 
+    > ### $HIMX (奇景光电)
+    > - 这个逻辑我确实觉得有一定吸引力——大概率成为 $TSM 台积电 COUPE 的供应商。
+    > - 但就个人而言，**我更喜欢 $SOI**，宁愿把仓位更集中地放在 Soitec 上——因为 Soitec 已经是几乎所有硅光子学相关厂商的已知供应商，且正在从一轮下行周期中走出来。
+    > 
+    > ### 还有很多……
+    > $NOK（诺基亚）、$SHMN……都很有趣。
+    > 
+    > 但我个人将仓位集中在我认为**最具吸引力的标的上**。
+    > 
+    > ---
+    > 
+    > ## 💡 关于"拥挤度"的元思考
+    > 
+    > > 对于像 $LITE 这样的"拥挤标的"——这并不意味着没有上行空间。
+    > >
+    > > 只是它比其他人更多地被定价了——**直到新的催化剂出现之前**。
+    > 
+    > 市场中存在很多所谓的"关键供应商"——
+    > 但在供应链中的重要性 (importance)……
+    > 和将这种重要性**转化为极端的营收增长**（例如 AAOI → $45 亿营收），这两者之间——
+    > 
+    > **是有本质区别的。**
+    > 
+    > ---
+    > 
+    > ## 🗺️ 个人组合结构 (2026 年 3 月快照)
+    > 
+    > ```
+    > 高集中度（更安全）：
+    >   TSEM (代工) + SOI (衬底) + COHR (全栈)
+    > 
+    > 多空组合 / CSP 期权混合（高波动）：
+    >   AXTI (衬底/原材料) + IQE (外延片) + AAOI (光模块供应链)
+    > 
+    > 做多 Google 生态：
+    >   LITE
+    > ```
+
+17. **2026-03-13** (❤️ 915 | 🔁 62 | ID: `2032273412413145111` | [X.com Post](https://x.com/aleabitoreddit/status/2032273412413145111))
+    Top 10 common fallacies I keep seeing again and again on X.
+    
+    And some of the most important things I look out for too when doing research: 
+    
+    1. Being in "crowded" names like $LITE or $COHR does not mean these names won't go higher. 
+    
+    (Just look at Nvidia throughout 2022 -> 2026).
+    
+    2. Don't conflate bottlenecks and critical companies in supply chains like SpaceX or Nvidia with stock market returns. 
+    
+    What matters is how it translates to material operating income. The reason I mention $AXTI, is likely price hikes from being that bottleneck. 
+    
+    3. Insider Sales are the extreme noise. 
+    
+    You will never see me quote that anywhere to derive projections and what the MC should be at.  
+    
+    4. Repeat after me. TA is only an indicator, not a bible. Please stop posting TAs underneath my Soitec posts to say "overextended!!!" without any reference to fundamentals, catalysts, or macro. 
+    
+    TA's especially, mean nothing when there's extreme fundamental changes (eg. $6B in share dilution or upcoming IPO float lockup like $BULL, $CRCL).
+    
+    5. DILUTION IS DIFFERENT. ATMs are different than convertible notes that are different than loans. 
+    
+    It's extremely nuanced. Some lead to more equity returns than others that are more harmful (eg. $IREN $6B ATM). 
+    
+    Float dynamics, ATM sizes relative to marketcap, and all others need to be accounted for. 
+    
+    6. Markets are forward looking. It's just a matter of how far in the future they look. 
+    
+    Stop only posting previous revenue guidance only to justify valuations pricing in forward growth eg. $TSEM forward growth for photonics ramp. 
+    
+    7. Revenue/Gross Margins/Profit are extremely, extremely nuanced.
+    
+    Profit can be hid in tax writeoffs, and margins can be hid in other parts of the income statement like opex, or in depreciation.
+    
+    So posting "gross margins/profit" (eg. $IREN) and using that to justify it vs. other neoclouds means nothing if the accounting is not normalized
+    
+    8. Net Income is not the same as GAAP Net Income.
+    
+    True profitability from companies like $SNAP are hid by things like stock-based compensation. When a company reports non-GAAP net income of $500 million to the media, their official SEC-filed GAAP net income could be a $150 million loss because of SBC. 
+    
+    9. Float Dynamics + Dilution are important. 
+    
+    You can say "oh this company is $150M MC, 30m profit" but if you're forgetting there's a massive dilution overhead at X strike, then all your research gets thrown out the drain. 
+    
+    10. Make sure to factor in REVENUE GROWTH/TAM. You can grow a company 200% one year, but if TAM maxes out like in Fintech then revenue growth eventually falls off the cliff. 
+    
+    Hence why $RKLB gets premiums for infinite Space TAM growth while other companies in fintech growing at 40% Y/Y don't.
+
+18. **2026-03-12** (❤️ 435 | 🔁 36 | ID: `2032178441064534389` | [X.com Post](https://x.com/aleabitoreddit/status/2032178441064534389))
+    Soitec ( $SOI / $SLOIF ) is now up 45.58%.
+    
+    This has a long way to go given their substrate-level monopoly over the silicon photonics and CPO architectures.
+
+19. **2026-03-12** (❤️ 526 | 🔁 45 | ID: `2032045719167934775` | [X.com Post](https://x.com/aleabitoreddit/status/2032045719167934775))
+    $NVDA GTC is next week.
+    
+    And markets are wondering what names will be announced with Nvidia’s new silicon photonics architecture.
+    
+    > $TSEM works with $NVDA for silicon photonics
+    
+    > $NVDA invested in both $COHR and $LITE to secure supply chains
+    
+    > $AXTI a bottleneck for InP substrates
+    
+    > Soitec ( $SOI ) a monopoly around SOI substrates for silicon photonics
+    
+    Hmmm. There’s zero clues to what companies might be in the supply chain of $NVDA!
+    
+    Better wait for the event to find out?
+
+20. **2026-03-12** (❤️ 321 | 🔁 14 | ID: `2031896692283621696` | [X.com Post](https://x.com/aleabitoreddit/status/2031896692283621696))
+    Thank you MarketScreener for actual coverage of $SOI this time.
+    
+    The article writes:
+    
+    “In the post dedicated to Soitec, the author puts forward several arguments. 
+    
+    He believes that the group could benefit from the development of CPO (co-packaged optics), a photonic architecture designed to accompany the rise of artificial intelligence and data centers. 
+    
+    According to him, Soitec would have a quasi-monopolistic position on certain SOI substrates used in this technology, an advantage that could become strategic if photonics is adopted on a large scale. 
+    
+    The investor also mentions a valuation level that he considers low and believes that the market could begin to position itself ahead of a promising cycle for photonics by 2027”
+    
+    This was exactly the thesis, no extra fluff. 
+    
+    Last time media from FT and Bloomberg covered my thesis on $RPI, they labeled it a “meme-stock” out of nowhere. With many outlets straight up adding words never stated, which triggered negative sentiment.
+    
+    That being said: 
+    
+    $SOI is a virtual monopoly over the substrate layer for CPO. 
+    
+    I plan to hold my positions over the next year or two, as I expect it to be the largest beneficiary of the upcoming architectural ramp spearheaded by $NVDA.
+
+21. **2026-03-11** (❤️ 0 | 🔁 68 | ID: `2031782754405544335` | [X.com Post](https://x.com/aleabitoreddit/status/2031782754405544335))
+    RT @aleabitoreddit: Changed my mind about Soitec ( $SLOIF ) and took a sizable position ~43 for CPO exposure.
+    
+    $NVDA GTC next week biggest catalyst pushing photonics and this architecture. 
+    
+    ~1.5B euros MC. Trading at 1x book value and ~2x P/S (very depressed valuations)
+    
+    Genuine monopoly over substrates side for CPO (typically very premium valuations for photonics + even extra premium for monopoly status)
+    
+    Algos and analysts might get confused over market share but it’s an actual monopoly over SOI substrates since they give licenses to other players like Shin Etsu for diversification sake eg. $TSM doesn’t like just 1. 
+    
+    I don’t think institutions will wait until next year to frontrun these names like Soitec or $TSEM (and most probably haven’t even heard of these names like $AXTI yet)
+    
+    This timing would be buying the likely bottom of the depressed smartphone cycle, while getting full upside of CPO mid-late 2027 + $NVDA GTC catalyst next week.
+    
+    I personally think it’s a 3x from here so I went long.
+
+22. **2026-03-11** (❤️ 509 | 🔁 33 | ID: `2031751619117744443` | [X.com Post](https://x.com/aleabitoreddit/status/2031751619117744443))
+    Turns out markets like hidden photonics monopolies?
+    
+    Soitec is up 16% intraday. 
+    
+    If you look at the CPO photonics architectural ramp led by $NVDA:
+    
+    It’s parabolic. 
+    
+    $SOI is likely a name that people can hold for many years as the substrate monopoly for CPO.
+    
+    And best of yet, there’s the upcoming $NVDA GTC announcement next week.
+    
+    Which would likely signal to institutions to start looking into players they missed like $AXTI, and now $SOI.
+
+23. **2026-03-11** (❤️ 910 | 🔁 70 | ID: `2031648475310616604` | [X.com Post](https://x.com/aleabitoreddit/status/2031648475310616604))
+    Changed my mind about Soitec ( $SLOIF ) and took a sizable position ~43 for CPO exposure.
+    
+    $NVDA GTC next week biggest catalyst pushing photonics and this architecture. 
+    
+    ~1.5B euros MC. Trading at 1x book value and ~2x P/S (very depressed valuations)
+    
+    Genuine monopoly over substrates side for CPO (typically very premium valuations for photonics + even extra premium for monopoly status)
+    
+    Algos and analysts might get confused over market share but it’s an actual monopoly over SOI substrates since they give licenses to other players like Shin Etsu for diversification sake eg. $TSM doesn’t like just 1. 
+    
+    I don’t think institutions will wait until next year to frontrun these names like Soitec or $TSEM (and most probably haven’t even heard of these names like $AXTI yet)
+    
+    This timing would be buying the likely bottom of the depressed smartphone cycle, while getting full upside of CPO mid-late 2027 + $NVDA GTC catalyst next week.
+    
+    I personally think it’s a 3x from here so I went long.
